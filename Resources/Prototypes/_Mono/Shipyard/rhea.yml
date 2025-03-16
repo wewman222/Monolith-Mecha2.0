@@ -5,31 +5,32 @@
 # Shuttle Notes:
 #
 - type: vessel
-  id: Argent
+  id: Rhea
   parent: BaseVessel
-  name: NT-SFS Argent
-  description: A retired TSFMC frigate gutted out and refurbished for cargo transport.
-  price: 48500
-  category: Medium
+  name: NT Rhea
+  description: A very small food ship.
+  price: 25250
+  category: Small
   group: Shipyard
-  shuttlePath: /Maps/_Mono/Shuttles/argent.yml
-  guidebookPage: ShipyardArgent
+  shuttlePath: /Maps/_Mono/Shuttles/rhea.yml
+  guidebookPage: Null
   class:
-  - Cargo
+  - Civilian
+  - Kitchen
   engine:
-  - Uranium
+  - Plasma
 
 - type: gameMap
-  id: Argent
-  mapName: 'NT-SFS Argent'
-  mapPath: /Maps/_Mono/Shuttles/argent.yml
+  id: Rhea
+  mapName: 'NT Rhea'
+  mapPath: /Maps/_Mono/Shuttles/rhea.yml
   minPlayers: 0
   stations:
-    Argent:
+    Rhea:
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Argent {1}'
+          mapNameTemplate: 'Rhea {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

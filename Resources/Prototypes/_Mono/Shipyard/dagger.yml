@@ -5,31 +5,32 @@
 # Shuttle Notes:
 #
 - type: vessel
-  id: Argent
+  id: Dagger
   parent: BaseVessel
-  name: NT-SFS Argent
-  description: A retired TSFMC frigate gutted out and refurbished for cargo transport.
-  price: 48500
-  category: Medium
+  name: NT-SFS Dagger
+  description: A budget bounty hunting ship, with the bare essentials for combat and apprehension.
+  price: 29750
+  category: Small
   group: Shipyard
-  shuttlePath: /Maps/_Mono/Shuttles/argent.yml
-  guidebookPage: ShipyardArgent
+  access: Mercenary
+  shuttlePath: /Maps/_Mono/Shuttles/dagger.yml
+  guidebookPage: Null
   class:
-  - Cargo
+  - Pursuit
   engine:
   - Uranium
 
 - type: gameMap
-  id: Argent
-  mapName: 'NT-SFS Argent'
-  mapPath: /Maps/_Mono/Shuttles/argent.yml
+  id: Dagger
+  mapName: 'NT-SFS Dagger'
+  mapPath: /Maps/_Mono/Shuttles/dagger.yml
   minPlayers: 0
   stations:
-    Argent:
+    Dagger:
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Argent {1}'
+          mapNameTemplate: 'Dagger {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
