@@ -11,3 +11,13 @@ Entries:
       message: Added Monolith Changelog!
   id: 2
   time: '2025-03-24T00:31:03.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Polaris to pirate shipyard
+    - type: Tweak
+      message: Anura has a water cooler now
+    - type: Fix
+      message: Anura now has a GCS and Rhea now has directional fans on airlocks.
+  id: 3
+  time: '2025-03-24T22:21:11.0000000+00:00'
