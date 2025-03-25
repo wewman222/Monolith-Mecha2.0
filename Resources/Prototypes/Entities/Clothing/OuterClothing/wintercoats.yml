@@ -34,21 +34,19 @@
     - WhitelistChameleon
   - type: StaticPrice
     price: 50
+  - type: PhysicalComposition #Goobstation - Recycle update
+    materialComposition:
+      Cloth: 125
+      Durathread: 50
 
 - type: entity
-  parent: ClothingOuterWinterCoat
+  parent: [ ClothingOuterBaseToggleable, ClothingOuterWinterCoat ]
   id: ClothingOuterWinterCoatToggleable
   name: winter coat with hood
   categories: [ HideSpawnMenu ]
   components:
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterDefault
-    slot: head
-  - type: ContainerContainer
-    containers:
-      toggleable-clothing: !type:ContainerSlot {}
-      storagebase: !type:Container
-        ents: []
 
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
@@ -56,21 +54,11 @@
   name: atmospherics winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: ATMOS-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatatmos.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: ATMOS-inhand-left
-      right:
-      - state: ATMOS-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: ATMOS-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatatmos.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterEngineer
 
 - type: entity
@@ -79,44 +67,24 @@
   name: bartender winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: BAR-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatbar.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: BAR-inhand-left
-      right:
-      - state: BAR-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: BAR-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatbar.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterBartender
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCap
   name: captain's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CAP-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatcap.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CAP-inhand-left
-      right:
-      - state: CAP-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CAP-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatcap.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterCaptain
 
 - type: entity
@@ -125,44 +93,24 @@
   name: cargo winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CARGO-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatcargo.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CARGO-inhand-left
-      right:
-      - state: CARGO-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CARGO-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatcargo.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterCargo
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCE
   name: chief engineer's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CE-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatce.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CE-inhand-left
-      right:
-      - state: CE-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CE-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatce.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterCE
 
 - type: entity
@@ -171,21 +119,11 @@
   name: CentComm winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CENTCOM-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatcentcom.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CENTCOM-inhand-left
-      right:
-      - state: CENTCOM-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CENTCOM-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatcentcom.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterCentcom
 
 - type: entity
@@ -195,20 +133,10 @@
   description: A coat specifically designed for work inside cold storage, sorely needed by cold-blooded lizard chefs.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CHEF-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatchef.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CHEF-inhand-left
-      right:
-      - state: CHEF-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CHEF-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatchef.rsi
 
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
@@ -216,20 +144,10 @@
   name: chemistry winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CHEM-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatchem.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CHEM-inhand-left
-      right:
-      - state: CHEM-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CHEM-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatchem.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -237,29 +155,19 @@
         Heat: 0.90
         Caustic: 0.75
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterChem
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCMO
   name: chief medical officer's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: CMO-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatcmo.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: CMO-inhand-left
-      right:
-      - state: CMO-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: CMO-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatcmo.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -267,7 +175,7 @@
         Heat: 0.90
         Caustic: 0.75
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterCMO
 
 - type: entity
@@ -286,21 +194,11 @@
   name: engineering winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: ENGI-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatengi.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: ENGI-inhand-left
-      right:
-      - state: ENGI-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: ENGI-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatengi.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterEngineer
 
 - type: entity
@@ -309,20 +207,10 @@
   name: genetics winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: GENE-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatgen.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: GENE-inhand-left
-      right:
-      - state: GENE-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: GENE-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatgen.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -330,36 +218,26 @@
         Heat: 0.90
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSci
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterHoP
   name: head of personnel's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: HOP-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coathop.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: HOP-inhand-left
-      right:
-      - state: HOP-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: HOP-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coathop.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterHOP
 
 
 ##########################################################
 - type: entity
-  parent: [ClothingOuterArmorHoS, ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityCommandContraband<BaseC2ContrabandUnredeemable
+  parent: [ClothingOuterArmorHoS, ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable]
   id: ClothingOuterWinterHoS
   name: head of security's armored winter coat
   description: A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
@@ -368,32 +246,29 @@
     sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
   - type: Clothing
     sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterHOS
+  - type: PhysicalComposition #Goobstation - Recycle update
+    materialComposition:
+      Cloth: 250
+      Durathread: 312
+      Plasteel: 187
+  - type: StaticPrice #Goobstation - Recycle update
+    price: 220
 ##########################################################
 
 - type: entity
-  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityCommandContraband<BaseC2ContrabandUnredeemable
+  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable]
   id: ClothingOuterWinterHoSUnarmored
   name: head of security's winter coat
   description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: HOS-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coathos.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: HOS-inhand-left
-      right:
-      - state: HOS-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: HOS-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coathos.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterHOS
 
 - type: entity
@@ -402,21 +277,11 @@
   name: hydroponics winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: HYDRO-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coathydro.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: HYDRO-inhand-left
-      right:
-      - state: HYDRO-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: HYDRO-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coathydro.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterHydro
 
 - type: entity
@@ -425,20 +290,9 @@
   name: janitorial winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: JANI-icon
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: JANI-inhand-left
-      right:
-      - state: CHEF-inhand-right
+    sprite: Clothing/OuterClothing/WinterCoats/coatjani.rsi
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: JANI-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatjani.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -446,7 +300,7 @@
         Heat: 0.9
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterJani
 
 - type: entity
@@ -455,20 +309,10 @@
   name: medical winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: MED-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatmed.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: MED-inhand-left
-      right:
-      - state: MED-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: MED-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatmed.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -476,7 +320,7 @@
         Heat: 0.90
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterMed
 
 - type: entity
@@ -485,21 +329,11 @@
   name: mime winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: MIME-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatmime.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: MIME-inhand-left
-      right:
-      - state: MIME-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: MIME-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatmime.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterMime
 
 - type: entity
@@ -508,21 +342,11 @@
   name: mining winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: MINER-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatminer.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: MINER-inhand-left
-      right:
-      - state: MINER-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: MINER-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatminer.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterMiner
 
 - type: entity
@@ -531,20 +355,10 @@
   name: paramedic winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: PARA-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatparamed.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: PARA-inhand-left
-      right:
-      - state: PARA-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: PARA-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatparamed.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -552,53 +366,33 @@
         Heat: 0.75
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterPara
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterQM
   name: quartermaster's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: QM-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatqm.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: QM-inhand-left
-      right:
-      - state: QM-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: QM-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatqm.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterQM
 
 
 - type: entity
-  parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
+  parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterRD
   name: research director's winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: RD-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatrd.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: RD-inhand-left
-      right:
-      - state: RD-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: RD-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatrd.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -606,7 +400,7 @@
         Heat: 0.90
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterRD
 
 - type: entity
@@ -615,21 +409,11 @@
   name: robotics winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: ROBO-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatrobo.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: ROBO-inhand-left
-      right:
-      - state: ROBO-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: ROBO-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatrobo.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterRobo
 
 
@@ -639,20 +423,10 @@
   name: science winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: SCI-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatsci.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: SCI-inhand-left
-      right:
-      - state: SCI-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: SCI-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatsci.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -660,30 +434,20 @@
         Heat: 0.90
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSci
 
 - type: entity
-  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
+  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable]
   id: ClothingOuterWinterSec
   name: security winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: SEC-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatsec.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: SEC-inhand-left
-      right:
-      - state: SEC-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: SEC-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatsec.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSec
 
 - type: entity
@@ -692,20 +456,10 @@
   name: virology winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: VIRO-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatviro.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: VIRO-inhand-left
-      right:
-      - state: VIRO-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: VIRO-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatviro.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -713,12 +467,12 @@
         Heat: 0.90
         Caustic: 0.9
     priceMultiplier: 0.15
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSci
 
 ################################################################
 - type: entity
-  parent: [ClothingOuterArmorWarden, ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
+  parent: [ClothingOuterArmorWarden, ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable]
   id: ClothingOuterWinterWarden
   name: warden's armored winter coat
   description: A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
@@ -727,61 +481,48 @@
     sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
   - type: Clothing
     sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterWarden
+  - type: PhysicalComposition #Goobstation - Recycle update
+    materialComposition:
+      Cloth: 250
+      Durathread: 250
+      Plasteel: 125
+  - type: StaticPrice #Goobstation - Recycle update
+    price: 180
 ################################################################
 
 - type: entity
-  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
+  parent: [ClothingOuterWinterCoatToggleable, BaseC2ContrabandUnredeemable]
   id: ClothingOuterWinterWardenUnarmored
   name: warden's winter coat
   description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: WARD-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatwarden.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: WARD-inhand-left
-      right:
-      - state: WARD-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: WARD-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatwarden.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterWarden
 
 - type: entity
-  parent: [ClothingOuterWinterCoatToggleable, BaseC3SyndicateContraband, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
+  parent: [ClothingOuterWinterCoatToggleable, BaseC3SyndicateContraband, ContrabandClothing]
   id: ClothingOuterWinterSyndieCap
   name: syndicate's winter coat
   description: "The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool."
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: SYNDIECAP-icon
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecap.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: SYNDIECAP-inhand-left
-      right:
-      - state: SYNDIECAP-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: SYNDIECAP-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecap.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSyndie
 
 ##############################################################
 - type: entity
-  parent: [ClothingOuterWinterWarden, BaseC3SyndicateContraband, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
+  parent: [ClothingOuterWinterWarden, BaseC3SyndicateContraband, ContrabandClothing]
   id: ClothingOuterWinterSyndieCapArmored
   name: syndicate's armored winter coat
   description: "The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool."
@@ -790,32 +531,22 @@
     sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
   - type: Clothing
     sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSyndie
 ##############################################################
 
 - type: entity
-  parent: [ClothingOuterWinterCoatToggleable, BaseC3SyndicateContraband, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
+  parent: [ClothingOuterWinterCoatToggleable, BaseC3SyndicateContraband, ContrabandClothing]
   id: ClothingOuterWinterSyndie
   name: syndicate's winter coat
   description: Insulated winter coat, looks like a merch from "Syndieland".
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: SYNDIE-icon
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/wintercoatsyndie.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: SYNDIE-inhand-left
-      right:
-      - state: SYNDIE-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: SYNDIE-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/wintercoatsyndie.rsi
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterSyndie
 
 - type: entity
@@ -836,20 +567,10 @@
   description: Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    layers:
-    - state: WEB-icon
+    sprite: Clothing/OuterClothing/WinterCoats/coatweb.rsi
   - type: Item
-    inhandVisuals:
-      left:
-      - state: WEB-inhand-left
-      right:
-      - state: WEB-inhand-right
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
-    clothingVisuals:
-      outerClothing:
-      - state: WEB-equipped-OUTERCLOTHING
+    sprite: Clothing/OuterClothing/WinterCoats/coatweb.rsi
   - type: Construction
     graph: WebObjects
     node: coat
@@ -869,7 +590,7 @@
         reagents:
         - ReagentId: Fiber
           Quantity: 20
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterWeb
 
 - type: entity
@@ -900,7 +621,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#1d1d1d"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorBlack
 
 - type: entity
@@ -931,7 +652,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#9C0DE1"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorPurple
 
 - type: entity
@@ -962,7 +683,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#940000"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorRed
 
 - type: entity
@@ -993,7 +714,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#0089EF"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorBlue
 
 - type: entity
@@ -1024,7 +745,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#723A02"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorBrown
 
 - type: entity
@@ -1055,7 +776,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#999999"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorGray
 
 - type: entity
@@ -1086,7 +807,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#5ABF2F"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorGreen
 
 - type: entity
@@ -1117,7 +838,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#C09F72"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorLightBrown
 
 - type: entity
@@ -1148,7 +869,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#EF8100"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorOrange
 
 - type: entity
@@ -1179,7 +900,7 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#EAE8E8"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorWhite
 
 - type: entity
@@ -1210,5 +931,5 @@
       - state: coatybits-equipped-OUTERCLOTHING
         color: "#EBE216"
       - state: winterbits-equipped-OUTERCLOTHING
-  - type: ToggleableClothing
+  - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototype: ClothingHeadHatHoodWinterColorYellow
