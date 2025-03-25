@@ -37,3 +37,11 @@ Entries:
       message: Ship weapon projectiles shouldnt bypass walls anymore
   id: 5
   time: '2025-03-25T13:47:59.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Ship weapon flatpacks can now be found on expeditions.
+    - type: Tweak
+      message: The M381 has been buffed. God help us all.
+  id: 6
+  time: '2025-03-25T23:48:38.0000000+00:00'
