@@ -21,3 +21,9 @@ Entries:
       message: Anura now has a GCS and Rhea now has directional fans on airlocks.
   id: 3
   time: '2025-03-24T22:21:11.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over the Resomi species!
+  id: 4
+  time: '2025-03-25T03:03:48.0000000+00:00'
