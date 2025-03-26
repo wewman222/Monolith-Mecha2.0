@@ -53,3 +53,11 @@ Entries:
         Thanks to SuperJoelDood for reporting this bug.
   id: 7
   time: '2025-03-26T05:31:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Shuttles should no longer be able to FTL out of expeditions before they
+        have ended.
+  id: 8
+  time: '2025-03-26T05:32:02.0000000+00:00'
