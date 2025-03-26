@@ -79,3 +79,11 @@ Entries:
         enforcement?)
   id: 10
   time: '2025-03-26T21:53:44.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Archer to base shipyard (merc access restricted).
+    - type: Add
+      message: Added Kessler to pirate shipyard.
+  id: 11
+  time: '2025-03-26T22:11:07.0000000+00:00'
