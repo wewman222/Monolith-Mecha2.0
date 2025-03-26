@@ -71,3 +71,11 @@ Entries:
         in the pirate uplink.
   id: 9
   time: '2025-03-26T20:38:52.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Add
+      message: >-
+        New NFSD hardsuit sprites! (Maybe this should encourage more law
+        enforcement?)
+  id: 10
+  time: '2025-03-26T21:53:44.0000000+00:00'
