@@ -99,3 +99,15 @@ Entries:
       message: Target seeking missiles!
   id: 13
   time: '2025-03-29T00:22:38.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Added new circular shields (experimental)!
+    - type: Add
+      message: Added new ship gun presets in gunnery console!
+    - type: Remove
+      message: Removed deprecated grid shields.
+    - type: Tweak
+      message: Now only selected ship guns have a line drawn to your cursor.
+  id: 14
+  time: '2025-03-29T00:29:23.0000000+00:00'
