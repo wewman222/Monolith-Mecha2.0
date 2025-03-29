@@ -133,3 +133,9 @@ Entries:
         idle power stock now).
   id: 16
   time: '2025-03-29T02:32:26.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Shield generators now need 0.35/m2 instead of 1/m2
+  id: 17
+  time: '2025-03-29T04:06:48.0000000+00:00'
