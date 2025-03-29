@@ -139,3 +139,11 @@ Entries:
       message: Shield generators now need 0.35/m2 instead of 1/m2
   id: 17
   time: '2025-03-29T04:06:48.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Ship impacts should no longer destroy POIs.
+    - type: Fix
+      message: Shield generator outline should now appear.
+  id: 18
+  time: '2025-03-29T08:45:17.0000000+00:00'
