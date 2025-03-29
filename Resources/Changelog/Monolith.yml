@@ -153,3 +153,19 @@ Entries:
       message: Ported over some fun lizard stuff from goob!
   id: 19
   time: '2025-03-29T18:17:55.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added a new NFSD missile-corvette.
+    - type: Add
+      message: >-
+        Machines and air canisters can now be climbed on like tables. Goodbye
+        unreachable fuel lockers.
+    - type: Tweak
+      message: The Polaris is now missile equipped.
+    - type: Tweak
+      message: The M381's explosion has been tuned a small amount.
+    - type: Fix
+      message: The M381 and MARAUDER can destroy tiles
+  id: 20
+  time: '2025-03-29T23:38:47.0000000+00:00'
