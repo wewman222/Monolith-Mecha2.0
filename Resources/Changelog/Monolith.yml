@@ -147,3 +147,9 @@ Entries:
       message: Shield generator outline should now appear.
   id: 18
   time: '2025-03-29T08:45:17.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Add
+      message: Ported over some fun lizard stuff from goob!
+  id: 19
+  time: '2025-03-29T18:17:55.0000000+00:00'
