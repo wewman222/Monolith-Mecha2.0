@@ -93,3 +93,9 @@ Entries:
       message: New sprites for FTL drive and shield generator.
   id: 12
   time: '2025-03-28T10:23:48.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Target seeking missiles!
+  id: 13
+  time: '2025-03-29T00:22:38.0000000+00:00'
