@@ -177,3 +177,13 @@ Entries:
         anymore. Dragging yourself onto the table still works.
   id: 21
   time: '2025-03-30T04:18:07.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Shields take more power on impact, but take less time to dissipate power
+        surges.
+    - type: Tweak
+      message: Missile speeds have been tweaked.
+  id: 22
+  time: '2025-03-30T07:51:01.0000000+00:00'
