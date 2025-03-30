@@ -197,3 +197,11 @@ Entries:
         loadout for 6x missile launchers and 2x 20mms.
   id: 23
   time: '2025-03-30T08:35:58.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        A guidebook for ship gunnery and available ship weapons is now available
+        under Frontier Guide > Ship Warfare.
+  id: 24
+  time: '2025-03-30T09:43:08.0000000+00:00'
