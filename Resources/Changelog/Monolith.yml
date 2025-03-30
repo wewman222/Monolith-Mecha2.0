@@ -169,3 +169,11 @@ Entries:
       message: The M381 and MARAUDER can destroy tiles
   id: 20
   time: '2025-03-29T23:38:47.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Alt-clicking on tables/machines wont make you climb on top of them
+        anymore. Dragging yourself onto the table still works.
+  id: 21
+  time: '2025-03-30T04:18:07.0000000+00:00'
