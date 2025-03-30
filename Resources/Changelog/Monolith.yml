@@ -205,3 +205,9 @@ Entries:
         under Frontier Guide > Ship Warfare.
   id: 24
   time: '2025-03-30T09:43:08.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Tzipora to expedition shipyard (large, advanced med).
+  id: 25
+  time: '2025-03-30T19:41:46.0000000+00:00'
