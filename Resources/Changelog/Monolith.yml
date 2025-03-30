@@ -211,3 +211,14 @@ Entries:
       message: Added Tzipora to expedition shipyard (large, advanced med).
   id: 25
   time: '2025-03-30T19:41:46.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added MR-8A AR as a high-tier, .30 C3 assault rifle, with almost perfect
+        accuracy. Find it in rare weapon spawns or Syndicate and mercenary
+        enemies on expeditions.
+    - type: Fix
+      message: Skalpel now has a chemmaster
+  id: 26
+  time: '2025-03-30T23:58:38.0000000+00:00'
