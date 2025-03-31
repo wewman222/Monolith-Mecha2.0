@@ -230,3 +230,16 @@ Entries:
       message: Fixed missing Tzipora thrusters.
   id: 27
   time: '2025-03-31T01:02:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Added gun prediction and lag compensation, aka removes the delay on
+        firing due to ping!
+    - type: Fix
+      message: >-
+        Fixed melee attack lag compensation not accounting for your ping, which
+        would make melee attacks done by players with higher ping more
+        unreliable.
+  id: 28
+  time: '2025-03-31T01:04:08.0000000+00:00'
