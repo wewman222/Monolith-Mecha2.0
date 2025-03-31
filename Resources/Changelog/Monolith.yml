@@ -258,3 +258,11 @@ Entries:
         whitelisted.
   id: 30
   time: '2025-03-31T15:30:57.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Picses to exped shipyard for 85250.
+    - type: Fix
+      message: 20mm L85s can damage non-structures again.
+  id: 31
+  time: '2025-03-31T23:27:05.0000000+00:00'
