@@ -222,3 +222,11 @@ Entries:
       message: Skalpel now has a chemmaster
   id: 26
   time: '2025-03-30T23:58:38.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Tzipora moved to med shipyard and given a ~10k price increase.
+    - type: Fix
+      message: Fixed missing Tzipora thrusters.
+  id: 27
+  time: '2025-03-31T01:02:54.0000000+00:00'
