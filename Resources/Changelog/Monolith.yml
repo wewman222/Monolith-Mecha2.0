@@ -249,3 +249,12 @@ Entries:
       message: Added guided missiles (experimental) for variety!
   id: 29
   time: '2025-03-31T01:06:52.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Pirate first mate is no longer whitelisted, but playtime requirements
+        for all pirate jobs has been increased. Pirate captain remains
+        whitelisted.
+  id: 30
+  time: '2025-03-31T15:30:57.0000000+00:00'
