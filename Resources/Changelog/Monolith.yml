@@ -294,3 +294,9 @@ Entries:
       message: Minor tweaks to the ship combat guidebook page.
   id: 35
   time: '2025-04-01T21:19:57.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Your ship guns no longer damage your own ship!
+  id: 36
+  time: '2025-04-01T21:35:47.0000000+00:00'
