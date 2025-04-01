@@ -266,3 +266,9 @@ Entries:
       message: 20mm L85s can damage non-structures again.
   id: 31
   time: '2025-03-31T23:27:05.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Mercury to pirate shipyard.
+  id: 32
+  time: '2025-04-01T11:22:27.0000000+00:00'
