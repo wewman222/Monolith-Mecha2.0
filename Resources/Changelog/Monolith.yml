@@ -272,3 +272,9 @@ Entries:
       message: Added Mercury to pirate shipyard.
   id: 32
   time: '2025-04-01T11:22:27.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed tzipora gas mixture mix
+  id: 33
+  time: '2025-04-01T16:35:41.0000000+00:00'
