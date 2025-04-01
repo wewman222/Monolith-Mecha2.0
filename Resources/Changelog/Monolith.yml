@@ -286,3 +286,11 @@ Entries:
       message: Frontier lobby music is no more.
   id: 34
   time: '2025-04-01T21:13:11.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Remove
+      message: I took the Dagger out back and shot it. Its gone.
+    - type: Tweak
+      message: Minor tweaks to the ship combat guidebook page.
+  id: 35
+  time: '2025-04-01T21:19:57.0000000+00:00'
