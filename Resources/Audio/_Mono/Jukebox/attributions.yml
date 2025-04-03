@@ -6,7 +6,7 @@
 - files: ["oh_mah_nina.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "-Oh Mah Nina by LZ22"
-  source: "Suno AI"
+  source: "https://suno.com/"
 
 - files: ["infinite_waters.ogg"]
   license: "CC-BY-NC-SA-3.0"
@@ -16,7 +16,7 @@
 - files: ["high_barbary.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "-High Barbary"
-  source: ""
+  source: "https://www.youtube.com/watch?v=cbr7IHpid9M"
 
 - files: ["out_of_my_mind.ogg"]
   license: "CC-BY-NC-SA-3.0"
