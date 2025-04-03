@@ -306,3 +306,21 @@ Entries:
       message: New shield appearance.
   id: 37
   time: '2025-04-02T20:54:01.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added MR-8C DMR to replace MR-8A. No more meta gun...
+    - type: Remove
+      message: >-
+        Removed Hristov and Atreides from the Expedition Lodge's gun vendor.
+        1984 real
+    - type: Tweak
+      message: >-
+        Stack sizes have been greatly increased for mats, fuel, and medical
+        supplies.
+    - type: Tweak
+      message: Spawn rates for MR-8 has been decreased significantly.
+    - type: Tweak
+      message: AME jars are bigger now.
+  id: 38
+  time: '2025-04-03T01:21:50.0000000+00:00'
