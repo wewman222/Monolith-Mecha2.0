@@ -324,3 +324,12 @@ Entries:
       message: AME jars are bigger now.
   id: 38
   time: '2025-04-03T01:21:50.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Add
+      message: >-
+        Mapped a new NFSDO. It now includes an actual perma, turrets, front
+        desk, a lobby worth waiting in and a reference inside the walls to a
+        certain play named Abductor_Agent ;)
+  id: 39
+  time: '2025-04-03T01:45:07.0000000+00:00'
