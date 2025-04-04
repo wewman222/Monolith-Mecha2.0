@@ -347,3 +347,18 @@ Entries:
       message: Shield radius should no longer start at 1 instead of 0 in the console.
   id: 41
   time: '2025-04-03T20:50:33.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Stack sizes have been increased again because I win these polls Luke.
+    - type: Tweak
+      message: Mercury and Polaris have had some slight updates.
+    - type: Tweak
+      message: >-
+        Mercury is elongated, and has had its 90mms switched out for 20mms, and
+        is now a sub-capital in shipyard (and more expensive). To compensate: 2x
+        the amount of missile pods.
+    - type: Fix
+      message: Polaris has a holopad and fax machine now.
+  id: 42
+  time: '2025-04-04T01:32:54.0000000+00:00'
