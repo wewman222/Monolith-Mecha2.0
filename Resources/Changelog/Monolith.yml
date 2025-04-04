@@ -368,3 +368,11 @@ Entries:
       message: Going into cryosleep is now announced over radio.
   id: 43
   time: '2025-04-04T03:03:46.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        When you first walk onto a ship or an outpost, its name will be
+        displayed on your screen.
+  id: 44
+  time: '2025-04-04T03:34:26.0000000+00:00'
