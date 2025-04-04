@@ -362,3 +362,9 @@ Entries:
       message: Polaris has a holopad and fax machine now.
   id: 42
   time: '2025-04-04T01:32:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Going into cryosleep is now announced over radio.
+  id: 43
+  time: '2025-04-04T03:03:46.0000000+00:00'
