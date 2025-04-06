@@ -407,3 +407,11 @@ Entries:
         Office now has a station records console.
   id: 48
   time: '2025-04-06T02:34:33.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Generators can store more fuel in their buffer now. Hopefully works as a
+        band-aid fix for magnets not being able to separate stacks.
+  id: 49
+  time: '2025-04-06T17:52:47.0000000+00:00'
