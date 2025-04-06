@@ -398,3 +398,12 @@ Entries:
       message: Fixed Calypso not having a fax machine and holopad.
   id: 47
   time: '2025-04-06T02:28:36.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: >-
+        Made some changes to the NFSDO: The brig now has brig timers, there are
+        a couple more turrets in the spots without them, and the Sheriff's
+        Office now has a station records console.
+  id: 48
+  time: '2025-04-06T02:34:33.0000000+00:00'
