@@ -415,3 +415,9 @@ Entries:
         band-aid fix for magnets not being able to separate stacks.
   id: 49
   time: '2025-04-06T17:52:47.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: No more free night vision.
+  id: 50
+  time: '2025-04-06T23:01:19.0000000+00:00'
