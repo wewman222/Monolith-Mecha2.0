@@ -388,3 +388,13 @@ Entries:
       message: Added Calypso to NFSDO shipyard.
   id: 46
   time: '2025-04-05T08:02:25.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Redid the majority of the Pirate Cove. Enjoy your shield and whatnot.
+    - type: Tweak
+      message: CHARON mass-driver has been restored to its TRUE POWER.
+    - type: Fix
+      message: Fixed Calypso not having a fax machine and holopad.
+  id: 47
+  time: '2025-04-06T02:28:36.0000000+00:00'
