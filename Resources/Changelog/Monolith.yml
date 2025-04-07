@@ -435,3 +435,9 @@ Entries:
         to med, ATMs and a shipyard console in the lobby area.
   id: 52
   time: '2025-04-07T21:31:18.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: Iapetus now has a directional fan in the door to the arti chamber.
+  id: 53
+  time: '2025-04-07T21:32:01.0000000+00:00'
