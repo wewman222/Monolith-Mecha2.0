@@ -455,3 +455,13 @@ Entries:
       message: Changed lobby background and added a new music track to the lobby.
   id: 55
   time: '2025-04-07T22:06:14.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Seraphim to shipyard.
+    - type: Tweak
+      message: Undid the changes to the generator fuel storage.
+    - type: Tweak
+      message: Actually restored the mass driver to its TRUE PROTENTIAL.
+  id: 56
+  time: '2025-04-07T22:10:24.0000000+00:00'
