@@ -427,3 +427,11 @@ Entries:
       message: More surgery fixes and additions!
   id: 51
   time: '2025-04-07T00:23:44.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: >-
+        More NFSDO fixes, those being: Fire alarms, fire extinguishers, a defib
+        to med, ATMs and a shipyard console in the lobby area.
+  id: 52
+  time: '2025-04-07T21:31:18.0000000+00:00'
