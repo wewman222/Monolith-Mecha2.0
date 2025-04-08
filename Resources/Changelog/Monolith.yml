@@ -471,3 +471,9 @@ Entries:
       message: Newly purchased ships now tell you their estimated location.
   id: 57
   time: '2025-04-08T01:26:55.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Ship shields no longer flicker.
+  id: 58
+  time: '2025-04-08T21:15:12.0000000+00:00'
