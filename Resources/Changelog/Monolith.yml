@@ -465,3 +465,9 @@ Entries:
       message: Actually restored the mass driver to its TRUE PROTENTIAL.
   id: 56
   time: '2025-04-07T22:10:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Newly purchased ships now tell you their estimated location.
+  id: 57
+  time: '2025-04-08T01:26:55.0000000+00:00'
