@@ -477,3 +477,13 @@ Entries:
       message: Ship shields no longer flicker.
   id: 58
   time: '2025-04-08T21:15:12.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Shields are now based off projectile damage rather than the amount of
+        projectiles hitting them.
+    - type: Add
+      message: Shields now only block ship turret projectiles.
+  id: 59
+  time: '2025-04-13T00:12:21.0000000+00:00'
