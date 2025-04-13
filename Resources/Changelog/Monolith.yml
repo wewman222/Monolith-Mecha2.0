@@ -495,3 +495,9 @@ Entries:
       message: Fixed (hopefully) all remaining mentions of Frontier Outpost
   id: 60
   time: '2025-04-13T09:24:27.0000000+00:00'
+- author: assignedgod
+  changes:
+    - type: Tweak
+      message: Allowed UIVs to spawn at lowpop.
+  id: 61
+  time: '2025-04-13T23:40:32.0000000+00:00'
