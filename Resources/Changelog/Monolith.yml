@@ -501,3 +501,17 @@ Entries:
       message: Allowed UIVs to spawn at lowpop.
   id: 61
   time: '2025-04-13T23:40:32.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Littora to expedition shipyard
+    - type: Tweak
+      message: Picses gets a sink now.
+    - type: Fix
+      message: Fixed Tzipora cryo setup.
+    - type: Fix
+      message: Fixed MR-8C back sprites.
+    - type: Fix
+      message: Fixed DMR ammo not being in NF lathes.
+  id: 62
+  time: '2025-04-14T02:12:00.0000000+00:00'
