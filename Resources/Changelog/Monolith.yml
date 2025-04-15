@@ -533,3 +533,21 @@ Entries:
       message: Companies have arrived (very experimental)! Expect bugs.
   id: 64
   time: '2025-04-15T00:49:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Base ship speed increased from 20 m/s to 30 m/s!
+    - type: Fix
+      message: IFF console status bug should be no more.
+    - type: Fix
+      message: >-
+        Shield blips should no longer be on the wrong grid when their shield
+        generator is moved.
+    - type: Fix
+      message: Bluespace drive's incorrect description has been corrected.
+    - type: Fix
+      message: FTL mass problems are no more with our new ship exercise program.
+    - type: Fix
+      message: Shipyard's ship location message is a little more accurate.
+  id: 65
+  time: '2025-04-15T03:19:41.0000000+00:00'
