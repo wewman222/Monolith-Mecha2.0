@@ -551,3 +551,13 @@ Entries:
       message: Shipyard's ship location message is a little more accurate.
   id: 65
   time: '2025-04-15T03:19:41.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Remove
+      message: Oh Mah Nina from Jukebox
+    - type: Fix
+      message: Department names
+    - type: Fix
+      message: NFDSO -> NCMCO
+  id: 66
+  time: '2025-04-15T04:53:46.0000000+00:00'
