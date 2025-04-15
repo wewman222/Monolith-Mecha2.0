@@ -195,15 +195,35 @@ namespace Content.Server.Database
             if (Enum.TryParse<Sex>(profile.Sex, true, out var sexVal))
                 sex = sexVal;
 
-            var spawnPriority = (SpawnPriorityPreference) profile.SpawnPriority;
-
-            var gender = sex == Sex.Male ? Gender.Male : Gender.Female;
+            var gender = Gender.Male;
             if (Enum.TryParse<Gender>(profile.Gender, true, out var genderVal))
                 gender = genderVal;
 
-            var balance = profile.BankBalance;
+            // Parse the company from string
+            CompanyAffiliation company = CompanyAffiliation.None;
+            if (!string.IsNullOrEmpty(profile.Company) &&
+                Enum.TryParse(profile.Company, out CompanyAffiliation parsedCompany))
+            {
+                company = parsedCompany;
+            }
 
-            // ReSharper disable once ConditionalAccessQualifierIsNonNullableAccordingToAPIContract
+            // Extract CustomCompanyData if present
+            CustomCompanyData? customCompanyData = null;
+            if (company == CompanyAffiliation.Custom && !string.IsNullOrEmpty(profile.CustomCompanyData))
+            {
+                try
+                {
+                    customCompanyData = JsonSerializer.Deserialize<CustomCompanyData>(profile.CustomCompanyData);
+                }
+                catch (Exception)
+                {
+                    // If deserialization fails, just leave it as null
+                }
+            }
+
+            var spawnPriority = (SpawnPriorityPreference) profile.SpawnPriority;
+            var balance = profile.BankBalance; // Frontier
+
             var markingsRaw = profile.Markings?.Deserialize<List<string>>();
 
             List<Marking> markings = new();
@@ -250,6 +270,8 @@ namespace Content.Server.Database
                 profile.Age,
                 sex,
                 gender,
+                company,
+                customCompanyData,
                 balance,
                 new HumanoidCharacterAppearance
                 (
@@ -288,6 +310,18 @@ namespace Content.Server.Database
             profile.Sex = humanoid.Sex.ToString();
             profile.Gender = humanoid.Gender.ToString();
             profile.BankBalance = humanoid.BankBalance;
+            profile.Company = humanoid.Company.ToString();
+
+            // Save CustomCompanyData if present
+            if (humanoid.Company == CompanyAffiliation.Custom && humanoid.CustomCompanyData != null)
+            {
+                profile.CustomCompanyData = JsonSerializer.Serialize(humanoid.CustomCompanyData);
+            }
+            else
+            {
+                profile.CustomCompanyData = null;
+            }
+
             profile.HairName = appearance.HairStyleId;
             profile.HairColor = appearance.HairColor.ToHex();
             profile.FacialHairName = appearance.FacialHairStyleId;
