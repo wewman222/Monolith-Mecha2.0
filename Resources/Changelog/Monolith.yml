@@ -515,3 +515,15 @@ Entries:
       message: Fixed DMR ammo not being in NF lathes.
   id: 62
   time: '2025-04-14T02:12:00.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added a (stolen) sick ass red SCAF suit to the Pirate uplink. Also
+        replaces old syndie suits in suit storage lockers.
+    - type: Remove
+      message: >-
+        Removed syndicate hardsuits from Pirate uplinks, and Pirate suit-storage
+        lockers.
+  id: 63
+  time: '2025-04-15T00:09:06.0000000+00:00'
