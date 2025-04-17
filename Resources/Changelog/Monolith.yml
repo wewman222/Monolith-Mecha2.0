@@ -609,3 +609,13 @@ Entries:
       message: Changed manufacturer prefixes for a lot of ships. More standard now.
   id: 73
   time: '2025-04-17T17:34:42.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added two new ships. You wont find them in any shipyard. Don't worry
+        about it. Don't think about it.
+    - type: Fix
+      message: Fixed missing Jr. PACMAN on Akasono. Gas mining real NOW.
+  id: 74
+  time: '2025-04-17T22:54:39.0000000+00:00'
