@@ -587,3 +587,11 @@ Entries:
       message: Added the Coldcap Botany vessel.
   id: 70
   time: '2025-04-17T04:58:57.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Certain jobs will now put you into companies they belong to.
+    - type: Fix
+      message: Empty company name bug should be gone now.
+  id: 71
+  time: '2025-04-17T07:26:42.0000000+00:00'
