@@ -601,3 +601,11 @@ Entries:
       message: New maximum speed slider for better control over your ship's speed.
   id: 72
   time: '2025-04-17T07:27:32.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Akasono as a entry-level gas mining ship. Base shipyard, ~38k.
+    - type: Tweak
+      message: Changed manufacturer prefixes for a lot of ships. More standard now.
+  id: 73
+  time: '2025-04-17T17:34:42.0000000+00:00'
