@@ -581,3 +581,9 @@ Entries:
         Enjoy your total boarder death.
   id: 69
   time: '2025-04-17T03:18:37.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: Added the Coldcap Botany vessel.
+  id: 70
+  time: '2025-04-17T04:58:57.0000000+00:00'
