@@ -595,3 +595,9 @@ Entries:
       message: Empty company name bug should be gone now.
   id: 71
   time: '2025-04-17T07:26:42.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: New maximum speed slider for better control over your ship's speed.
+  id: 72
+  time: '2025-04-17T07:27:32.0000000+00:00'
