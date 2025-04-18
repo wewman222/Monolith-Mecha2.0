@@ -656,3 +656,9 @@ Entries:
       message: You are no longer able to engage other ships while FTLing.
   id: 79
   time: '2025-04-18T08:10:23.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You should no longer gib from space damage!
+  id: 80
+  time: '2025-04-18T08:11:06.0000000+00:00'
