@@ -633,3 +633,14 @@ Entries:
       message: NCMC signs are now lore-accurate!
   id: 76
   time: '2025-04-18T01:22:55.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed pirate cove not spawning.
+    - type: Tweak
+      message: >-
+        The scheduler for "derelict" AI ship spawns has been tuned (and fixed). 
+        There is now a minimum time of 90 minutes from round-start before any
+        can spawn in, and a min-max time between events of 60-90 minutes.
+  id: 77
+  time: '2025-04-18T03:32:37.0000000+00:00'
