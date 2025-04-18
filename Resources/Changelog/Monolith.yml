@@ -644,3 +644,9 @@ Entries:
         can spawn in, and a min-max time between events of 60-90 minutes.
   id: 77
   time: '2025-04-18T03:32:37.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: The NGC Dart (NCMC former-Armadan scout ship)
+  id: 78
+  time: '2025-04-18T07:35:41.0000000+00:00'
