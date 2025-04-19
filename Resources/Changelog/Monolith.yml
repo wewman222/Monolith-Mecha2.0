@@ -695,3 +695,9 @@ Entries:
       message: Remnant borgs trade their tools for guns.
   id: 83
   time: '2025-04-19T01:00:02.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: NSFD -> NCMC radio.
+  id: 84
+  time: '2025-04-19T05:37:28.0000000+00:00'
