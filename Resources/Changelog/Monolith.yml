@@ -730,3 +730,15 @@ Entries:
       message: Company localization.
   id: 87
   time: '2025-04-19T06:58:10.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added minpop requirement to Remnant ships. 15 for Razor, 25 for Zenith.
+    - type: Tweak
+      message: Shields should only take 15w per damage point now instead of 50w.
+    - type: Fix
+      message: >-
+        Fixed missing locales for Remnant AI cores. Should also be whitelisted
+        now.
+  id: 88
+  time: '2025-04-19T23:52:20.0000000+00:00'
