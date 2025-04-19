@@ -683,3 +683,15 @@ Entries:
         it on one minute for 20mms. Sorry. 100% FREE LAG
   id: 82
   time: '2025-04-18T20:37:20.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Remnant ships AI core is now a functional ghostrole. Go my Zeniths.
+    - type: Tweak
+      message: Shield gens have double the radius
+    - type: Tweak
+      message: Remnant borgs now get Traffic radio channel.
+    - type: Tweak
+      message: Remnant borgs trade their tools for guns.
+  id: 83
+  time: '2025-04-19T01:00:02.0000000+00:00'
