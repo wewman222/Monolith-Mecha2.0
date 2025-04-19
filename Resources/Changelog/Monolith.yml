@@ -712,3 +712,15 @@ Entries:
         Det now get lockers. Yay!
   id: 85
   time: '2025-04-19T06:15:23.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: Company Descriptions
+    - type: Tweak
+      message: Companies
+    - type: Fix
+      message: Dart Rear Thrusters, Radar & Medkit
+    - type: Tweak
+      message: ADS Lawset
+  id: 86
+  time: '2025-04-19T06:36:30.0000000+00:00'
