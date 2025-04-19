@@ -701,3 +701,14 @@ Entries:
       message: NSFD -> NCMC radio.
   id: 84
   time: '2025-04-19T05:37:28.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: >-
+        NCMCO has been changed a bit. We called in the painters to repaint the
+        trim of the hallways to blue, and fixed the chemistry room situation.
+        There should also be what we consider all the entertainment you'll ever
+        need in the break room (that is, a TV and a water cooler). Also, PAL and
+        Det now get lockers. Yay!
+  id: 85
+  time: '2025-04-19T06:15:23.0000000+00:00'
