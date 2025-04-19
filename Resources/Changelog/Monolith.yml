@@ -724,3 +724,9 @@ Entries:
       message: ADS Lawset
   id: 86
   time: '2025-04-19T06:36:30.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: Company localization.
+  id: 87
+  time: '2025-04-19T06:58:10.0000000+00:00'
