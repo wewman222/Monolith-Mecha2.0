@@ -742,3 +742,11 @@ Entries:
         now.
   id: 88
   time: '2025-04-19T23:52:20.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: >-
+        Changed the AI's holographic appearance on holopads. More robot-alien,
+        less Cortana!
+  id: 89
+  time: '2025-04-20T03:19:55.0000000+00:00'
