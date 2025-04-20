@@ -783,3 +783,9 @@ Entries:
       message: IFF label size was decreased to reduce clutter.
   id: 93
   time: '2025-04-20T06:25:13.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: AI is now able to properly pilot a ship.
+  id: 94
+  time: '2025-04-20T06:30:24.0000000+00:00'
