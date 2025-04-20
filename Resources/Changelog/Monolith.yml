@@ -777,3 +777,9 @@ Entries:
         being able to fix it.
   id: 92
   time: '2025-04-20T06:24:25.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: IFF label size was decreased to reduce clutter.
+  id: 93
+  time: '2025-04-20T06:25:13.0000000+00:00'
