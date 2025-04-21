@@ -805,3 +805,9 @@ Entries:
       message: Asteroid veins should now drop their ore when mined.
   id: 96
   time: '2025-04-21T01:23:19.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Remove
+      message: Removed cryopod from archon.
+  id: 97
+  time: '2025-04-21T06:19:13.0000000+00:00'
