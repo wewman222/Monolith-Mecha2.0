@@ -811,3 +811,9 @@ Entries:
       message: Removed cryopod from archon.
   id: 97
   time: '2025-04-21T06:19:13.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: UNJ Clemency, Medical Ship
+  id: 98
+  time: '2025-04-21T07:11:34.0000000+00:00'
