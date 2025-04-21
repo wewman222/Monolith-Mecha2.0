@@ -817,3 +817,11 @@ Entries:
       message: UNJ Clemency, Medical Ship
   id: 98
   time: '2025-04-21T07:11:34.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Archon salvage exped computer and station records computers have finally
+        been swapped. Also added a bit of decals in the cockpit.
+  id: 99
+  time: '2025-04-21T09:31:24.0000000+00:00'
