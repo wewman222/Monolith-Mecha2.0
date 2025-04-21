@@ -825,3 +825,9 @@ Entries:
         been swapped. Also added a bit of decals in the cockpit.
   id: 99
   time: '2025-04-21T09:31:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You can now send network signals from your shuttle console!
+  id: 100
+  time: '2025-04-21T21:03:28.0000000+00:00'
