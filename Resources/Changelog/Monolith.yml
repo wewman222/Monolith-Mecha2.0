@@ -831,3 +831,17 @@ Entries:
       message: You can now send network signals from your shuttle console!
   id: 100
   time: '2025-04-21T21:03:28.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: All consoles and shield generators now have a small power buffer.
+    - type: Tweak
+      message: >-
+        Praetorian is now 2x uranium generators instead of 2x plasma. Also
+        slight price increase.
+    - type: Tweak
+      message: Ship weapon projectiles have had their lifetime increased again.
+    - type: Fix
+      message: Shuttle-mounted PKAs can mine again.
+  id: 101
+  time: '2025-04-22T00:29:26.0000000+00:00'
