@@ -851,3 +851,9 @@ Entries:
       message: New Gunnery Console appearance by justanorang
   id: 102
   time: '2025-04-22T04:02:06.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: NFSD -> NCMC.
+  id: 103
+  time: '2025-04-22T06:54:11.0000000+00:00'
