@@ -863,3 +863,9 @@ Entries:
       message: Removed companies should no longer show up.
   id: 104
   time: '2025-04-22T07:19:43.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: No more "nearby objects too massive for FTL."
+  id: 105
+  time: '2025-04-22T20:18:00.0000000+00:00'
