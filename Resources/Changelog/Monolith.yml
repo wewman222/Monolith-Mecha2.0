@@ -857,3 +857,9 @@ Entries:
       message: NFSD -> NCMC.
   id: 103
   time: '2025-04-22T06:54:11.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Removed companies should no longer show up.
+  id: 104
+  time: '2025-04-22T07:19:43.0000000+00:00'
