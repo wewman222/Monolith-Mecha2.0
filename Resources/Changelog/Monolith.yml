@@ -869,3 +869,11 @@ Entries:
       message: No more "nearby objects too massive for FTL."
   id: 105
   time: '2025-04-22T20:18:00.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Chairs and storage containers should no longer take you to the void with
+        them when destroyed.
+  id: 106
+  time: '2025-04-22T20:20:13.0000000+00:00'
