@@ -943,3 +943,35 @@ Entries:
       message: Added Aetherion Dynamics as a hidden faction, to be unlocked very soon!
   id: 113
   time: '2025-04-23T21:39:32.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Remove
+      message: >-
+        Removed the scope from the MR-8C. It broke it too much. Now its just
+        MR-8C BR instead of DMR.
+    - type: Tweak
+      message: >-
+        8x65mm DMR is now 8x65mm SKR, and has been nerfed to do 45 pierce
+        instead of 55.
+    - type: Tweak
+      message: MR-8C is now semi-auto only.
+    - type: Tweak
+      message: Gunnery control console screen is also changed. Orange.
+    - type: Tweak
+      message: Kessler has been slightly tuned. It has a FTL drive now. Rejoice.
+    - type: Tweak
+      message: >-
+        Archer-EX and the base Archer have had a slight decal glowup in the main
+        room. Also removed the cryopod from it.
+    - type: Fix
+      message: Argent no longer has a cryopod.
+    - type: Fix
+      message: Praetorian-EX and Archer-EX can exped now. I forgot a single line.
+    - type: Fix
+      message: >-
+        Gunnery control server recipe isn't a copy and paste of the FTL drive
+        recipe anymore. Sorry whoever spent 3 AME jars building it. Also gave
+        the GCS the same power buffer as consoles, so shield power surges
+        shouldn't disconnect all your weapons now.
+  id: 114
+  time: '2025-04-23T22:54:36.0000000+00:00'
