@@ -975,3 +975,11 @@ Entries:
         shouldn't disconnect all your weapons now.
   id: 114
   time: '2025-04-23T22:54:36.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Decreased ship weapon projectile lifespan. Too laggy. Also increased
+        shield generator wattage per 1 damage from 15w to 35w.
+  id: 115
+  time: '2025-04-23T23:49:18.0000000+00:00'
