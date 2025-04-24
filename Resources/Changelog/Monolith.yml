@@ -1011,3 +1011,9 @@ Entries:
       message: Hopefully optimized ship collisions.
   id: 119
   time: '2025-04-24T07:22:41.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Shields are now hidden by FOV.
+  id: 120
+  time: '2025-04-24T07:37:14.0000000+00:00'
