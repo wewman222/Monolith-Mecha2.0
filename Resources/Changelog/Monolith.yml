@@ -1005,3 +1005,9 @@ Entries:
       message: Single tile grids now show up on mass scanner!
   id: 118
   time: '2025-04-24T07:21:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Hopefully optimized ship collisions.
+  id: 119
+  time: '2025-04-24T07:22:41.0000000+00:00'
