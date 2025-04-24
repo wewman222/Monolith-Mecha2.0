@@ -991,3 +991,11 @@ Entries:
         roles.
   id: 116
   time: '2025-04-24T02:38:35.0000000+00:00'
+- author: sowelipililimute
+  changes:
+    - type: Add
+      message: >-
+        The Miriam now exists, a cryogenics/stasis-focused shuttle that can be
+        purchased at the Medical Dispatch
+  id: 117
+  time: '2025-04-24T05:53:37.0000000+00:00'
