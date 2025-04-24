@@ -983,3 +983,11 @@ Entries:
         shield generator wattage per 1 damage from 15w to 35w.
   id: 115
   time: '2025-04-23T23:49:18.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        NCMCO and Rogue Insurgency Hideout now get a few roundstart Pirate/Cadet
+        roles.
+  id: 116
+  time: '2025-04-24T02:38:35.0000000+00:00'
