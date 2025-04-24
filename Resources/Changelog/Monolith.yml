@@ -999,3 +999,9 @@ Entries:
         purchased at the Medical Dispatch
   id: 117
   time: '2025-04-24T05:53:37.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Single tile grids now show up on mass scanner!
+  id: 118
+  time: '2025-04-24T07:21:54.0000000+00:00'
