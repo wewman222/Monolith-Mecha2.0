@@ -1017,3 +1017,9 @@ Entries:
       message: Shields are now hidden by FOV.
   id: 120
   time: '2025-04-24T07:37:14.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Garbage collector bugs should now be resolved.
+  id: 121
+  time: '2025-04-24T19:01:43.0000000+00:00'
