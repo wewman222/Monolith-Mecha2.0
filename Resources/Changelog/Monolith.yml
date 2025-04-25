@@ -1055,3 +1055,20 @@ Entries:
       message: Vehicles now show up as radar blips when occupied, similar to jetpacks
   id: 125
   time: '2025-04-25T21:06:20.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        CO has been remapped. Report any bugs with it in #bugs or make a issue
+        on the github.
+    - type: Tweak
+      message: >-
+        Shield power draw has been increased again. 35w ->105w. The duration
+        before the power surge dissipates has also been increased from 10 to 20
+        seconds.
+    - type: Add
+      message: >-
+        Plasma deposits of all sizes can be found on every asteroid type now.
+        Also normal sized muddled-plasma deposits too.
+  id: 126
+  time: '2025-04-25T21:21:03.0000000+00:00'
