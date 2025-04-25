@@ -1049,3 +1049,9 @@ Entries:
       message: Hidden companies can now be made visible to whitelisted logins.
   id: 124
   time: '2025-04-25T19:22:19.0000000+00:00'
+- author: HacksLua
+  changes:
+    - type: Add
+      message: Vehicles now show up as radar blips when occupied, similar to jetpacks
+  id: 125
+  time: '2025-04-25T21:06:20.0000000+00:00'
