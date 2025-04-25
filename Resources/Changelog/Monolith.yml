@@ -1043,3 +1043,9 @@ Entries:
       message: Littora price increased to ~76000. Archon price increased to ~65000.
   id: 123
   time: '2025-04-25T13:10:34.0000000+00:00'
+- author: HacksLua
+  changes:
+    - type: Add
+      message: Hidden companies can now be made visible to whitelisted logins.
+  id: 124
+  time: '2025-04-25T19:22:19.0000000+00:00'
