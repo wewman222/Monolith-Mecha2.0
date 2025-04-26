@@ -1096,3 +1096,16 @@ Entries:
       message: Fentanyl is actually C3 now.
   id: 129
   time: '2025-04-26T01:01:50.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Fentanyl gets a alt recipe with Vestine now.
+    - type: Tweak
+      message: >-
+        Fentanyl recipe tweaked AGAIN. It is now 1u space mirage, 2u meth, 1u
+        oil, 0.5u sodium hydroxide, 0.5u phenol, and 0.5u phenol. In exchange,
+        it now makes 7.5u instead of 5u
+    - type: Tweak
+      message: Fentanyl value lowered to 2.5k from 3.5k
+  id: 130
+  time: '2025-04-26T01:38:35.0000000+00:00'
