@@ -1084,3 +1084,15 @@ Entries:
       message: Ported over crawling from Goob!
   id: 128
   time: '2025-04-25T23:50:02.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        The 1u plasma for the Fentanyl recipe is no longer a catalyst, and is
+        consumed. Additionally, there is now 1u oil added to the recipe.
+    - type: Fix
+      message: Hopefully fixed the bus not going to FO.
+    - type: Fix
+      message: Fentanyl is actually C3 now.
+  id: 129
+  time: '2025-04-26T01:01:50.0000000+00:00'
