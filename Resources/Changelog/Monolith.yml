@@ -1115,3 +1115,9 @@ Entries:
       message: Shield power buffer 1750 > 475
   id: 131
   time: '2025-04-26T02:29:25.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: The Fent Crisis, hopefully.
+  id: 132
+  time: '2025-04-26T04:38:30.0000000+00:00'
