@@ -1172,3 +1172,17 @@ Entries:
         475, and recharge rate decreased from 350 to 25.
   id: 137
   time: '2025-04-26T17:33:18.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added designations to shuttles for better identification of type [CIV,
+        MIL, NGC, EXP]
+    - type: Add
+      message: fent guidebook Jobs/Medical/Chemist/Fentanyl Production
+    - type: Tweak
+      message: >-
+        Fent has gone under even more changes. I aint writing this shit anymore.
+        Check the guidebook.
+  id: 138
+  time: '2025-04-26T20:48:00.0000000+00:00'
