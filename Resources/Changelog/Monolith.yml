@@ -1143,3 +1143,15 @@ Entries:
       message: Fixed Fentanyl guidebook being inaccurate for the tricord mix.
   id: 134
   time: '2025-04-26T06:40:47.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Fentanyl can now be broken and shattered. Be careful.
+    - type: Tweak
+      message: Fentanyl now has a less-dangerous OD.
+    - type: Tweak
+      message: >-
+        The tricord in the reaction for solidifying fentanyl is now a catalyst
+        instead of a ingredient.
+  id: 135
+  time: '2025-04-26T07:36:54.0000000+00:00'
