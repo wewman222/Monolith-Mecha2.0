@@ -104,14 +104,3 @@
       containers:
         machine_board: !type:Container
         machine_parts: !type:Container
-      # Mono changes start - buffer for power outages
-    - type: Battery
-      maxCharge: 150
-      startingCharge: 150
-    - type: ExaminableBattery
-    - type: BatterySelfRecharger
-    - type: ApcPowerReceiverBattery
-      idleLoad: 5
-      batteryRechargeRate: 25
-      batteryRechargeEfficiency: 0.55
-      # Mono changes end
