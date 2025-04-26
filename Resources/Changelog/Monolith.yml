@@ -1155,3 +1155,11 @@ Entries:
         instead of a ingredient.
   id: 135
   time: '2025-04-26T07:36:54.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Fentanyl now explodes when heated to 480k (5k above reaction temp). To
+        compensate, the price is raised to 2k again.
+  id: 136
+  time: '2025-04-26T17:16:11.0000000+00:00'
