@@ -1163,3 +1163,12 @@ Entries:
         compensate, the price is raised to 2k again.
   id: 136
   time: '2025-04-26T17:16:11.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Another shield nerf. Damage surge duration increased from 20s to 60s,
+        consumption/m^2 increased to 0.55 from 0.35, buffer nerfed to 150 from
+        475, and recharge rate decreased from 350 to 25.
+  id: 137
+  time: '2025-04-26T17:33:18.0000000+00:00'
