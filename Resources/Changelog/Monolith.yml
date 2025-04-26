@@ -1109,3 +1109,9 @@ Entries:
       message: Fentanyl value lowered to 2.5k from 3.5k
   id: 130
   time: '2025-04-26T01:38:35.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Shield power buffer 1750 > 475
+  id: 131
+  time: '2025-04-26T02:29:25.0000000+00:00'
