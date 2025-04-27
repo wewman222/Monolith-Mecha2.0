@@ -1276,3 +1276,9 @@ Entries:
       message: Added Murasama. Admin-spawn only. Hopefully stays that way.
   id: 150
   time: '2025-04-27T21:22:44.0000000+00:00'
+- author: Tmanzxd
+  changes:
+    - type: Add
+      message: Dark Matter Enterprises added to the companies tab.
+  id: 151
+  time: '2025-04-27T21:36:01.0000000+00:00'
