@@ -1194,3 +1194,9 @@ Entries:
         2750
   id: 139
   time: '2025-04-27T00:26:15.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: GNG Duran Exped. Ship (by floatingfeeling)
+  id: 140
+  time: '2025-04-27T01:45:34.0000000+00:00'
