@@ -1244,3 +1244,23 @@ Entries:
       message: Horrible HF-Sword crash. Counterpart didn't test his work.
   id: 147
   time: '2025-04-27T16:51:29.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Remove
+      message: Removed fentanyl guidebook page.
+    - type: Tweak
+      message: >-
+        Fentanyl no longer explodes when heated (still explodes when mixed with
+        Dylovene) and needs Carpotoxin for the base recipe now. Additionally,
+        the price has been buffed to 3.5k and it is now 5u to crystallize
+        instead of 7u.
+    - type: Tweak
+      message: >-
+        HF katana now does 17.5 slash and 4.5 shock, and attack rate has been
+        buffed to 1.5/s
+    - type: Tweak
+      message: MR-8C BR firerate buffed from 150 RPM to 240 RPM (4 RPS)
+    - type: Fix
+      message: Fixed CO not having fuelvends
+  id: 148
+  time: '2025-04-27T19:23:11.0000000+00:00'
