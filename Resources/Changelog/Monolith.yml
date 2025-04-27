@@ -1212,3 +1212,9 @@ Entries:
       message: Sprite for 90mm Gun
   id: 142
   time: '2025-04-27T03:24:53.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed paramedic voidsuit helmet sprite.
+  id: 143
+  time: '2025-04-27T06:27:51.0000000+00:00'
