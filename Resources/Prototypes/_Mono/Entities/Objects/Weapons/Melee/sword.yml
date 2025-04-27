@@ -11,7 +11,7 @@
      damage:
        types: # It's still incredibly strong, but -reasonable-
          Slash: 20
-         Burn: 15
+         Heat: 15
          Ion: 15
    - type: Item
      sprite: _Mono/Objects/Weapons/Melee/hfblade.rsi
