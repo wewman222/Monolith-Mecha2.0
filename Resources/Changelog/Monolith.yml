@@ -1264,3 +1264,9 @@ Entries:
       message: Fixed CO not having fuelvends
   id: 148
   time: '2025-04-27T19:23:11.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: EVA Wall locker on the Duran
+  id: 149
+  time: '2025-04-27T19:31:36.0000000+00:00'
