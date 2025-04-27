@@ -1282,3 +1282,11 @@ Entries:
       message: Dark Matter Enterprises added to the companies tab.
   id: 151
   time: '2025-04-27T21:36:01.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Advanced laser pistols can be used in HF-katana recipe now.
+    - type: Fix
+      message: Fixed CO bridge access for the STC.
+  id: 152
+  time: '2025-04-27T23:55:49.0000000+00:00'
