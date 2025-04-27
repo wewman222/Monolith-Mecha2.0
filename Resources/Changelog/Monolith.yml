@@ -1206,3 +1206,9 @@ Entries:
       message: Ported over all of goobs clothing sprites
   id: 141
   time: '2025-04-27T02:09:54.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Tweak
+      message: Sprite for 90mm Gun
+  id: 142
+  time: '2025-04-27T03:24:53.0000000+00:00'
