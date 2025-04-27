@@ -1270,3 +1270,9 @@ Entries:
       message: EVA Wall locker on the Duran
   id: 149
   time: '2025-04-27T19:31:36.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Murasama. Admin-spawn only. Hopefully stays that way.
+  id: 150
+  time: '2025-04-27T21:22:44.0000000+00:00'
