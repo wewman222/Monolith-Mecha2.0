@@ -1224,3 +1224,11 @@ Entries:
       message: Ported CPR from Goob.
   id: 144
   time: '2025-04-27T07:55:36.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        HF-katana in hand construction. Esword+ real. Abuse it before my rival
+        reverts it.
+  id: 145
+  time: '2025-04-27T10:10:21.0000000+00:00'
