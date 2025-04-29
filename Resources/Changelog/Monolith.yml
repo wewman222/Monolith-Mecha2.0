@@ -1329,3 +1329,15 @@ Entries:
       message: Removed CHARON flatpack from exped spawns.
   id: 155
   time: '2025-04-29T00:49:47.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Add
+      message: New Service Shuttles
+    - type: Add
+      message: Colonial Staff Console to Colonial Outpost
+    - type: Remove
+      message: Old Service Shuttles
+    - type: Tweak
+      message: Sheriff -> Colonel
+  id: 156
+  time: '2025-04-29T07:08:08.0000000+00:00'
