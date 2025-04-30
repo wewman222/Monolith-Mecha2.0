@@ -1361,3 +1361,9 @@ Entries:
         off. I didn't have time to test this much, so report any bugs.
   id: 159
   time: '2025-04-30T02:35:55.0000000+00:00'
+- author: KiraZen-Underscore
+  changes:
+    - type: Add
+      message: Added Exocron, a Rogue ship which is made out of an old Zenith.
+  id: 160
+  time: '2025-04-30T05:59:49.0000000+00:00'
