@@ -1373,3 +1373,9 @@ Entries:
       message: No more 100 TC up per 6-10 wrecks.
   id: 161
   time: '2025-04-30T06:04:17.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: NCMC Lieutenant role name
+  id: 162
+  time: '2025-04-30T07:07:43.0000000+00:00'
