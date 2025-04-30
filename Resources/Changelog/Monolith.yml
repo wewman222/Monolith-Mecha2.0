@@ -1409,3 +1409,14 @@ Entries:
         overload....
   id: 166
   time: '2025-04-30T21:04:24.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Polaris has been remapped. Much more armor tank now than shield tank.
+        Also price lowered (to compensate for removal of missiles, and a lot of
+        the empty space)
+    - type: Fix
+      message: Fixed rusted walls not being the correct sprite (paradise 💪)
+  id: 167
+  time: '2025-04-30T23:40:44.0000000+00:00'
