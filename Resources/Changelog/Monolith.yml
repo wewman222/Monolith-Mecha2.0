@@ -1367,3 +1367,9 @@ Entries:
       message: Added Exocron, a Rogue ship which is made out of an old Zenith.
   id: 160
   time: '2025-04-30T05:59:49.0000000+00:00'
+- author: LukeZurg22
+  changes:
+    - type: Fix
+      message: No more 100 TC up per 6-10 wrecks.
+  id: 161
+  time: '2025-04-30T06:04:17.0000000+00:00'
