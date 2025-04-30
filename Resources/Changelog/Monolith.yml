@@ -1385,3 +1385,12 @@ Entries:
       message: Burned down the shield blip orphanage.
   id: 163
   time: '2025-04-30T08:58:45.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Flyssa, Polaris, Zenith, and Razor now all skip processing for impact
+        collisions. No more Zeniths ramming you to death. No more killing a
+        Flyssa with a framework.
+  id: 164
+  time: '2025-04-30T10:39:01.0000000+00:00'
