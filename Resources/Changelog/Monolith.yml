@@ -1394,3 +1394,9 @@ Entries:
         Flyssa with a framework.
   id: 164
   time: '2025-04-30T10:39:01.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed missing FTL drive on Flyssa and Archer unpowered thrusters
+  id: 165
+  time: '2025-04-30T11:37:26.0000000+00:00'
