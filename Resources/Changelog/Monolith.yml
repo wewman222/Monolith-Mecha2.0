@@ -1420,3 +1420,9 @@ Entries:
       message: Fixed rusted walls not being the correct sprite (paradise 💪)
   id: 167
   time: '2025-04-30T23:40:44.0000000+00:00'
+- author: Onezero0
+  changes:
+    - type: Add
+      message: Added the Judiciary Expeditionary Research vessel.
+  id: 168
+  time: '2025-05-01T00:09:22.0000000+00:00'
