@@ -1450,3 +1450,9 @@ Entries:
       message: Polaris gets the missiles back. Also better firing port for the CHARON.
   id: 171
   time: '2025-05-01T10:27:49.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Spyglass. Its a science ship for Rogues. Insane.
+  id: 172
+  time: '2025-05-01T20:50:52.0000000+00:00'
