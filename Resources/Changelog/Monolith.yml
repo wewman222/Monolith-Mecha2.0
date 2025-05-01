@@ -1442,3 +1442,11 @@ Entries:
         someone in the future will make a ship with them.
   id: 170
   time: '2025-05-01T10:00:35.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Tumour to NCMC shipyard. Horrid carrier. Unbelievably ugly.
+    - type: Tweak
+      message: Polaris gets the missiles back. Also better firing port for the CHARON.
+  id: 171
+  time: '2025-05-01T10:27:49.0000000+00:00'
