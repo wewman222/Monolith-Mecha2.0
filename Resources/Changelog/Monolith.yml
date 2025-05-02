@@ -1476,3 +1476,11 @@ Entries:
         grid.
   id: 175
   time: '2025-05-02T07:16:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Being outside your ship in FTL will now gib you. Is it really that
+        surprising?
+  id: 176
+  time: '2025-05-02T07:21:47.0000000+00:00'
