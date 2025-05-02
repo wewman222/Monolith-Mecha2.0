@@ -987,8 +987,8 @@ Entries:
   changes:
     - type: Tweak
       message: >-
-        TSFMCO and Rogue Insurgency Hideout now get a few roundstart Pirate/Cadet
-        roles.
+        TSFMCO and Rogue Insurgency Hideout now get a few roundstart
+        Pirate/Cadet roles.
   id: 116
   time: '2025-04-24T02:38:35.0000000+00:00'
 - author: sowelipililimute
@@ -1310,9 +1310,9 @@ Entries:
   changes:
     - type: Add
       message: >-
-        Added Flyssa-class to the TSFMC shipyard, a NGC destroyer lended from the
-        frontlines to help you kill Rogues. A bit over half a million, but the
-        CYREXAs are worth it.
+        Added Flyssa-class to the TSFMC shipyard, a NGC destroyer lended from
+        the frontlines to help you kill Rogues. A bit over half a million, but
+        the CYREXAs are worth it.
     - type: Add
       message: >-
         Added CYREXA 220mm guns as a heavy AP weapon, for capital-ship main
@@ -1484,3 +1484,11 @@ Entries:
         surprising?
   id: 176
   time: '2025-05-02T07:21:47.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: NGC is gone. I killed it. TSF now.
+    - type: Add
+      message: Implemented the increased POI distance and FTL drive range increase.
+  id: 177
+  time: '2025-05-02T23:03:29.0000000+00:00'
