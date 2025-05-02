@@ -1456,3 +1456,9 @@ Entries:
       message: Added Spyglass. Its a science ship for Rogues. Insane.
   id: 172
   time: '2025-05-01T20:50:52.0000000+00:00'
+- author: Onezero0
+  changes:
+    - type: Fix
+      message: Fixed the Judiciary missing an expedition console.
+  id: 173
+  time: '2025-05-02T00:35:08.0000000+00:00'
