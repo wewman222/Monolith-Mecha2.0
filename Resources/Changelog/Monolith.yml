@@ -1462,3 +1462,9 @@ Entries:
       message: Fixed the Judiciary missing an expedition console.
   id: 173
   time: '2025-05-02T00:35:08.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Shuttle consoles are now locked when you initially purchase your ship.
+  id: 174
+  time: '2025-05-02T03:56:57.0000000+00:00'
