@@ -1539,3 +1539,9 @@ Entries:
         being able to be redeemed.
   id: 182
   time: '2025-05-03T04:53:26.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Ship collisions are now based off mass. Beware the wall!
+  id: 183
+  time: '2025-05-03T04:59:26.0000000+00:00'
