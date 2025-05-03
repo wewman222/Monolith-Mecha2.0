@@ -1551,3 +1551,9 @@ Entries:
       message: If you have magboots active during FTL, you will no longer slip.
   id: 184
   time: '2025-05-03T05:57:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Vouchers should now be able to unlock shuttle consoles.
+  id: 185
+  time: '2025-05-03T07:05:18.0000000+00:00'
