@@ -1518,3 +1518,12 @@ Entries:
       message: Fixed Colonel not having TSFMC prefix in name.
   id: 180
   time: '2025-05-03T01:08:31.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        shields are FINALLY FIXED i FINALLY FOUND THE FUCKING PROBLEM GRAGHHHH
+        ZENITH MERCURY KESSLER EXOCRON EXPED PRAETORIAN AND CALYPSO ALL NO
+        LONGER HAVE INVINCIBLE SHIELDS!!
+  id: 181
+  time: '2025-05-03T03:03:55.0000000+00:00'
