@@ -1557,3 +1557,9 @@ Entries:
       message: Vouchers should now be able to unlock shuttle consoles.
   id: 185
   time: '2025-05-03T07:05:18.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Shields should no longer function while not anchored.
+  id: 186
+  time: '2025-05-03T07:24:36.0000000+00:00'
