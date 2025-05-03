@@ -1527,3 +1527,15 @@ Entries:
         LONGER HAVE INVINCIBLE SHIELDS!!
   id: 181
   time: '2025-05-03T03:03:55.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added 3 new bounties to Rogues, and descriptions for almost all of the
+        Rogue bounties.
+    - type: Fix
+      message: >-
+        Fixed structure bounties for rogues (FTL drives, shield gens, etc) not
+        being able to be redeemed.
+  id: 182
+  time: '2025-05-03T04:53:26.0000000+00:00'
