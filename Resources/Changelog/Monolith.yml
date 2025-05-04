@@ -1601,3 +1601,9 @@ Entries:
         wait for bug reports.
   id: 190
   time: '2025-05-04T09:19:19.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Abandoned ships now look for players before deleting.
+  id: 191
+  time: '2025-05-04T11:13:03.0000000+00:00'
