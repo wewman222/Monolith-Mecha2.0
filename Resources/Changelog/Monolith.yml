@@ -1589,3 +1589,15 @@ Entries:
       message: Added Corvax sprites for walls and windows. Doors is a wyci still.
   id: 189
   time: '2025-05-04T03:44:38.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: More purging of stupid NFSD shit. TSFMC duffels and satchels. Lets go.
+    - type: Add
+      message: Brigmeds get deputy uplink.
+    - type: Add
+      message: >-
+        Remapped TSFMC-FOB. I made it in like 4 hours from 1 AM to 5 AM. I cant
+        wait for bug reports.
+  id: 190
+  time: '2025-05-04T09:19:19.0000000+00:00'
