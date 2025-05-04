@@ -1607,3 +1607,11 @@ Entries:
       message: Abandoned ships now look for players before deleting.
   id: 191
   time: '2025-05-04T11:13:03.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added really strong walls and windows to CO, TSFMC-FOB, and Rogue
+        Insurgency Hideout
+  id: 192
+  time: '2025-05-04T17:40:11.0000000+00:00'
