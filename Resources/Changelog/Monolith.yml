@@ -1615,3 +1615,11 @@ Entries:
         Insurgency Hideout
   id: 192
   time: '2025-05-04T17:40:11.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        You can now travel with multiple docked ships at once. Carriers are
+        real!
+  id: 193
+  time: '2025-05-04T18:06:33.0000000+00:00'
