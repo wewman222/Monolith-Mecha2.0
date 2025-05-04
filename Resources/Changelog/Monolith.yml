@@ -1577,3 +1577,9 @@ Entries:
       message: Changed weapon layout on Calypso.
   id: 187
   time: '2025-05-03T21:32:56.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Silhea LV wiring.
+  id: 188
+  time: '2025-05-04T00:58:57.0000000+00:00'
