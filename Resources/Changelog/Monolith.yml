@@ -1631,3 +1631,12 @@ Entries:
         server.
   id: 194
   time: '2025-05-04T22:28:12.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Ported a lot more sprites from Corvax and DV. Reagent storage
+        containers, APCs, air/fire alarms, stairs, airlocks, substations.
+        Probably a lot more.
+  id: 195
+  time: '2025-05-04T22:42:18.0000000+00:00'
