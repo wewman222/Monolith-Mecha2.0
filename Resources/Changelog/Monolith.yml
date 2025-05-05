@@ -1679,3 +1679,13 @@ Entries:
       message: Fixed NPCs planning in space/while a player is dead.
   id: 200
   time: '2025-05-05T10:20:12.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added some more shit to TSFMC-FOB. More beacons, better docks, a cargo
+        bay to buy stuff.
+    - type: Add
+      message: Added description to Viper Group ingame.
+  id: 201
+  time: '2025-05-05T22:40:41.0000000+00:00'
