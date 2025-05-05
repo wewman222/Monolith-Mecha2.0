@@ -1663,3 +1663,13 @@ Entries:
       message: Gunnery Control UI scaling should now be fixed!
   id: 198
   time: '2025-05-05T00:56:37.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added roundstart long-arms to TSFMC loadouts. Also added armory access
+        to Lieutenants.
+    - type: Fix
+      message: Fixed TSFMC combat boots not having a knife.
+  id: 199
+  time: '2025-05-05T10:13:04.0000000+00:00'
