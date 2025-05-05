@@ -1673,3 +1673,9 @@ Entries:
       message: Fixed TSFMC combat boots not having a knife.
   id: 199
   time: '2025-05-05T10:13:04.0000000+00:00'
+- author: robotdude6777
+  changes:
+    - type: Fix
+      message: Fixed NPCs planning in space/while a player is dead.
+  id: 200
+  time: '2025-05-05T10:20:12.0000000+00:00'
