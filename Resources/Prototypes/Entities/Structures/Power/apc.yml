@@ -94,10 +94,10 @@
     graph: APC
     node: apc
   - type: PowerNetworkBattery
-    maxSupply: 25000
-    maxChargeRate: 10000
-    supplyRampTolerance: 2500
-    supplyRampRate: 2500
+    maxSupply: 15000 # Frontier: 10000<15000
+    maxChargeRate: 5000
+    supplyRampTolerance: 15000 # Frontier: 1000<15000
+    supplyRampRate: 500
   - type: WallMount
   - type: WiresPanel
   - type: WiresVisuals
