@@ -1651,3 +1651,9 @@ Entries:
         that is currently unused with default comms.
   id: 196
   time: '2025-05-05T00:16:06.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Blips should now be more optimized. Ported from Frontier.
+  id: 197
+  time: '2025-05-05T00:20:33.0000000+00:00'
