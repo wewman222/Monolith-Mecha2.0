@@ -1705,11 +1705,20 @@ Entries:
   time: '2025-05-06T06:37:42.0000000+00:00'
 - author: Ark
   changes:
-  - type: Add
-    message: >-
-      Tracking for actions (popups) and examines within the chat window. You can toggle this on and off via a couple of client CVARs in your settings.
-  - type: Tweak
-    message: >-
-      If the same message is sent consecutively multiple times, it'll wrap up in chat, such as Urist Mchands says: Loser x28
+    - type: Add
+      message: >-
+        Tracking for actions (popups) and examines within the chat window. You
+        can toggle this on and off via a couple of client CVARs in your
+        settings.
+    - type: Tweak
+      message: >-
+        If the same message is sent consecutively multiple times, it'll wrap up
+        in chat, such as Urist Mchands says: Loser x28
   id: 204
   time: '2025-05-06T06:37:42.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: You can now click on other grids when firing through the gunnery.
+  id: 205
+  time: '2025-05-06T07:15:08.0000000+00:00'
