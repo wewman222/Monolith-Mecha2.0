@@ -1769,3 +1769,13 @@ Entries:
       message: Added the Magus, an armed, PMC-rated medical corvette.
   id: 210
   time: '2025-05-06T22:30:55.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Ported WSPR, Anaconda, and Burner from Goob for rogue uplink.
+    - type: Add
+      message: Ported Annie and EG-4 from Goob for TSFMC uplink.
+    - type: Tweak
+      message: Nerfed ASM-302 tracking angles.
+  id: 211
+  time: '2025-05-06T22:41:05.0000000+00:00'
