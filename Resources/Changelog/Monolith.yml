@@ -1689,3 +1689,9 @@ Entries:
       message: Added description to Viper Group ingame.
   id: 201
   time: '2025-05-05T22:40:41.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Lowered asteroid spawnrates.
+  id: 202
+  time: '2025-05-06T00:02:35.0000000+00:00'
