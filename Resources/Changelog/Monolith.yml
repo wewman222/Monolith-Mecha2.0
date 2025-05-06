@@ -1755,3 +1755,11 @@ Entries:
       message: Changed Flyssa AI core room, the AI core is actually accessible now.
   id: 208
   time: '2025-05-06T20:11:10.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the TSFMC standard airlock open sprite not using the correct
+        sprite. Crazy changelog.
+  id: 209
+  time: '2025-05-06T20:43:39.0000000+00:00'
