@@ -1695,3 +1695,11 @@ Entries:
       message: Lowered asteroid spawnrates.
   id: 202
   time: '2025-05-06T00:02:35.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: >-
+        TSFMC critical and death status will no longer go to the Medical radio
+        channel.
+  id: 203
+  time: '2025-05-06T06:37:42.0000000+00:00'
