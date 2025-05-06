@@ -1735,3 +1735,11 @@ Entries:
         2x the amount of mags. So be happy.
   id: 206
   time: '2025-05-06T10:22:00.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Add
+      message: >-
+        Added the protogen species! Currently has no special features besides
+        damage multipliers. C# for protogens, just a week away!
+  id: 207
+  time: '2025-05-06T20:09:46.0000000+00:00'
