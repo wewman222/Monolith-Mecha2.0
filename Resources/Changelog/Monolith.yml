@@ -1743,3 +1743,15 @@ Entries:
         damage multipliers. C# for protogens, just a week away!
   id: 207
   time: '2025-05-06T20:09:46.0000000+00:00'
+- author: KiraZen_
+  changes:
+    - type: Add
+      message: Added three law boards, "Rogue", "TSFMC", and "Freeman"
+    - type: Add
+      message: >-
+        Made AI law consoles be able to be found on expeds and dungeons. I
+        think.
+    - type: Tweak
+      message: Changed Flyssa AI core room, the AI core is actually accessible now.
+  id: 208
+  time: '2025-05-06T20:11:10.0000000+00:00'
