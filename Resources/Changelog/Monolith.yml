@@ -1763,3 +1763,9 @@ Entries:
         sprite. Crazy changelog.
   id: 209
   time: '2025-05-06T20:43:39.0000000+00:00'
+- author: Onezero0
+  changes:
+    - type: Add
+      message: Added the Magus, an armed, PMC-rated medical corvette.
+  id: 210
+  time: '2025-05-06T22:30:55.0000000+00:00'
