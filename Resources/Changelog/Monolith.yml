@@ -1821,3 +1821,9 @@ Entries:
       message: Compatibility mode will work once again.
   id: 217
   time: '2025-05-07T07:45:49.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You can now toggle detailed examine. Ported from Goob.
+  id: 218
+  time: '2025-05-07T09:07:31.0000000+00:00'
