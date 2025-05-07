@@ -1853,3 +1853,15 @@ Entries:
       message: Buffed the CHARON again.
   id: 221
   time: '2025-05-07T11:18:31.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: FTL proximity should now ignore asteroids.
+    - type: Fix
+      message: >-
+        Ships no longer send out an emergency broadcast when you alt-click on
+        the shuttle console.
+    - type: Fix
+      message: Ships should no longer start with emergency lockdown on.
+  id: 222
+  time: '2025-05-07T23:26:30.0000000+00:00'
