@@ -1843,3 +1843,13 @@ Entries:
       message: Made the Vulcan accuracy not dogshit.
   id: 220
   time: '2025-05-07T10:05:31.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Bulwark to rogue shipyard.
+    - type: Remove
+      message: Removed mass drivers from the Flyssa.
+    - type: Tweak
+      message: Buffed the CHARON again.
+  id: 221
+  time: '2025-05-07T11:18:31.0000000+00:00'
