@@ -1801,3 +1801,9 @@ Entries:
       message: Job slots are now limited to 10. Sorry Rogues.
   id: 214
   time: '2025-05-07T05:54:35.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: All ships now come with a TSF-compliant emergency transponder.
+  id: 215
+  time: '2025-05-07T06:50:44.0000000+00:00'
