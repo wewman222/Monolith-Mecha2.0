@@ -1807,3 +1807,11 @@ Entries:
       message: All ships now come with a TSF-compliant emergency transponder.
   id: 215
   time: '2025-05-07T06:50:44.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Reflections no longer stack and instead choose the item with the highest
+        reflection chance. Thanks Traildog.
+  id: 216
+  time: '2025-05-07T07:04:33.0000000+00:00'
