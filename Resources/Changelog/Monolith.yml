@@ -1815,3 +1815,9 @@ Entries:
         reflection chance. Thanks Traildog.
   id: 216
   time: '2025-05-07T07:04:33.0000000+00:00'
+- author: gus
+  changes:
+    - type: Fix
+      message: Compatibility mode will work once again.
+  id: 217
+  time: '2025-05-07T07:45:49.0000000+00:00'
