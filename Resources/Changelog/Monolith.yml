@@ -1787,3 +1787,11 @@ Entries:
       message: Whitelisted companies should no longer force you into them only.
   id: 212
   time: '2025-05-07T02:26:33.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: >-
+        An anonymous source said my sprites sucked, so I stole someone else's
+        sprites. New tail and ear sprites.
+  id: 213
+  time: '2025-05-07T05:50:20.0000000+00:00'
