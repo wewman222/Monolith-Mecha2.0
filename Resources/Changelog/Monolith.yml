@@ -1885,3 +1885,11 @@ Entries:
       message: Confirmation before selling your ship.
   id: 225
   time: '2025-05-08T12:25:43.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Fix
+      message: >-
+        For the one person who plays as a Protogen (me) I gave them shoes and
+        survival boxes. Yay.
+  id: 226
+  time: '2025-05-08T13:41:23.0000000+00:00'
