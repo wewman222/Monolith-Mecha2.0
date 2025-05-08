@@ -1877,3 +1877,11 @@ Entries:
       message: Made the TSFMC and Rogue job descriptions more fitting.
   id: 224
   time: '2025-05-08T01:23:22.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You can now unassign your ship deed.
+    - type: Tweak
+      message: Confirmation before selling your ship.
+  id: 225
+  time: '2025-05-08T12:25:43.0000000+00:00'
