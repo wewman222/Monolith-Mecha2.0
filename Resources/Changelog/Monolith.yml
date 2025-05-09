@@ -1903,3 +1903,9 @@ Entries:
       message: Common -> Broadband (3000 Meters).
   id: 227
   time: '2025-05-09T03:12:01.0000000+00:00'
+- author: SuperJoelD00D
+  changes:
+    - type: Tweak
+      message: Protogens can now eat raw meat. Mmm, yummy.
+  id: 228
+  time: '2025-05-09T03:13:10.0000000+00:00'
