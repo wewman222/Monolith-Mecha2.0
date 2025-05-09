@@ -1909,3 +1909,11 @@ Entries:
       message: Protogens can now eat raw meat. Mmm, yummy.
   id: 228
   time: '2025-05-09T03:13:10.0000000+00:00'
+- author: Tmanzxd
+  changes:
+    - type: Tweak
+      message: >-
+        Restock Box Price has been set to $0, but made restock boxes drop loot
+        on breaking them instead of having their contents destroyed.
+  id: 229
+  time: '2025-05-09T03:14:38.0000000+00:00'
