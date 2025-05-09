@@ -1970,3 +1970,11 @@ Entries:
       message: Cargo crates are swag and cool again.
   id: 234
   time: '2025-05-09T18:43:35.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Europa wiring, Tethys and Vega shipyard, Legionnaire missing warp
+        point spawn point and GCS, and Littora blast door rotation.
+  id: 235
+  time: '2025-05-09T21:27:42.0000000+00:00'
