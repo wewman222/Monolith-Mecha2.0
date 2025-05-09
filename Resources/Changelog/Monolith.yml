@@ -1893,3 +1893,13 @@ Entries:
         survival boxes. Yay.
   id: 226
   time: '2025-05-08T13:41:23.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Radio channels can now be range limited.
+    - type: Tweak
+      message: Traffic -> Shortband (500 Meters).
+    - type: Tweak
+      message: Common -> Broadband (3000 Meters).
+  id: 227
+  time: '2025-05-09T03:12:01.0000000+00:00'
