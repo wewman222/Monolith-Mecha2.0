@@ -1933,3 +1933,9 @@ Entries:
         changed too, so they might look weird on ships that used them.
   id: 230
   time: '2025-05-09T03:57:10.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Bullets go faster now.
+  id: 231
+  time: '2025-05-09T06:24:24.0000000+00:00'
