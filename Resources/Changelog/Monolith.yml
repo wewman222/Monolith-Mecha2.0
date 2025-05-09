@@ -1939,3 +1939,16 @@ Entries:
       message: Bullets go faster now.
   id: 231
   time: '2025-05-09T06:24:24.0000000+00:00'
+- author: KiraZen-Underscore
+  changes:
+    - type: Add
+      message: >-
+        Added the "Mercenary Cyborg Module", printable at the mercenary techfab.
+        It comes with an infinite legal Echis, and a machete.
+    - type: Add
+      message: >-
+        Added the "Security Cyborg Module", buyable at the Rogue & TSFMC uplink
+        for 10 FUC & Doubloons. It comes with a machete, an infinite energy gun,
+        and an infinite stun baton.
+  id: 232
+  time: '2025-05-09T06:25:05.0000000+00:00'
