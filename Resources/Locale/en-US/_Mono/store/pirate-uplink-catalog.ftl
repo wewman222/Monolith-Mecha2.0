@@ -63,6 +63,9 @@ uplink-pirate-thruster-kit-desc = Contains 32 super capaciters. Perfect for upgr
 uplink-pirate-comms-computer-circuitboard-name = Rogue communications computer board
 uplink-pirate-comms-computer-circuitboard-desc = A computer printed circuit board for a rogue communications console.
 
+uplink-pirate-security-cyborg-module-name = Security Cyborg Module
+uplink-pirate-security-cyborg-module-desc = A machete, an energy gun, and a stun baton, made specifically for borgs. Wait, doesn't TFSMC have the same thing?
+
 # weapons
 
 uplink-pirate-energy-cutlass-name = Energy Cutlass
