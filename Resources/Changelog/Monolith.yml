@@ -2033,3 +2033,13 @@ Entries:
       message: Slight nerf to the VG IMP Hardsuit
   id: 242
   time: '2025-05-10T10:50:05.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added a secondary outpost for TSFMC to spawn at.
+    - type: Add
+      message: DoC and Brigmed now do surgery faster.
+    - type: Add
+      message: Added ballistic & laser turrets to the inside and outside of TSFMC-FOB
+  id: 243
+  time: '2025-05-10T18:56:38.0000000+00:00'
