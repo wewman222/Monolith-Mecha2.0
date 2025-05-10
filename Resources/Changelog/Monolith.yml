@@ -2049,3 +2049,9 @@ Entries:
       message: Reflection now only works when the item is held in your hands.
   id: 244
   time: '2025-05-10T21:33:03.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Moving between ships during docked FTL will no longer gib you.
+  id: 245
+  time: '2025-05-10T21:35:49.0000000+00:00'
