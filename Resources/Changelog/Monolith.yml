@@ -2017,3 +2017,13 @@ Entries:
       message: Department radio channels now have limited range.
   id: 240
   time: '2025-05-10T08:01:00.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added hair to Protogens, I guess.
+    - type: Add
+      message: Added guidebook help for encryption key range.
+    - type: Add
+      message: Added encryption keys and glasses to Rogue loadouts.
+  id: 241
+  time: '2025-05-10T08:35:12.0000000+00:00'
