@@ -1989,3 +1989,11 @@ Entries:
         bit
   id: 236
   time: '2025-05-10T00:56:07.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added more furniture sprites from Goob.
+    - type: Fix
+      message: Fixed missing holopad, fax machine, and lighting on Legionnaire.
+  id: 237
+  time: '2025-05-10T02:30:09.0000000+00:00'
