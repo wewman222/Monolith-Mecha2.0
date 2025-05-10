@@ -2043,3 +2043,9 @@ Entries:
       message: Added ballistic & laser turrets to the inside and outside of TSFMC-FOB
   id: 243
   time: '2025-05-10T18:56:38.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Reflection now only works when the item is held in your hands.
+  id: 244
+  time: '2025-05-10T21:33:03.0000000+00:00'
