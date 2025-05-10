@@ -1997,3 +1997,11 @@ Entries:
       message: Fixed missing holopad, fax machine, and lighting on Legionnaire.
   id: 237
   time: '2025-05-10T02:30:09.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Ships should no longer move on planets. Thanks to HacksLua for reporting
+        it.
+  id: 238
+  time: '2025-05-10T02:48:48.0000000+00:00'
