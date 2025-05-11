@@ -2055,3 +2055,9 @@ Entries:
       message: Moving between ships during docked FTL will no longer gib you.
   id: 245
   time: '2025-05-10T21:35:49.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Missiles should no longer seek the grid they were fired from.
+  id: 246
+  time: '2025-05-11T00:08:01.0000000+00:00'
