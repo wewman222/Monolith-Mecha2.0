@@ -2096,3 +2096,9 @@ Entries:
       message: Changed Dymere Sprite
   id: 251
   time: '2025-05-12T05:08:47.0000000+00:00'
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: Added a hotplate to the Magus.
+  id: 252
+  time: '2025-05-12T22:11:38.0000000+00:00'
