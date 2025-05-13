@@ -2190,3 +2190,17 @@ Entries:
       message: Made TSFMC AI cores hear Command comms.
   id: 261
   time: '2025-05-13T22:15:46.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added M-320X Aurora to TSFMC uplink as a heavily melee-focused outer
+        clothing. Bears no resemblance at all to pop culture. Trust me.
+    - type: Tweak
+      message: IDs/PDAs will render under outerclothing now.
+    - type: Tweak
+      message: Europa price lowered by 50000
+    - type: Tweak
+      message: TSFMC experimental tacsuit price raised by 5 FUCs
+  id: 262
+  time: '2025-05-13T22:36:15.0000000+00:00'
