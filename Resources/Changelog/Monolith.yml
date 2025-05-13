@@ -2150,3 +2150,17 @@ Entries:
       message: Adds a Medfab Flatpack and Surgery Tools to DoC locker.
   id: 258
   time: '2025-05-13T21:18:26.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Merc/Private Sec hardsuits now have decent armor
+    - type: Tweak
+      message: SCAF suits now resist radiation
+    - type: Tweak
+      message: Prototype Experimental Salvager suits are now faster
+    - type: Tweak
+      message: >-
+        Experimental Tacsuits are slightly more resistant to pierce, weaker to
+        heat.
+  id: 259
+  time: '2025-05-13T21:19:33.0000000+00:00'
