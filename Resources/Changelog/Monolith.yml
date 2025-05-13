@@ -2144,3 +2144,9 @@ Entries:
       message: Ported over evil mechs from Goob.
   id: 257
   time: '2025-05-13T08:42:51.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds a Medfab Flatpack and Surgery Tools to DoC locker.
+  id: 258
+  time: '2025-05-13T21:18:26.0000000+00:00'
