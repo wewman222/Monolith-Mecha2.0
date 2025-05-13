@@ -2164,3 +2164,17 @@ Entries:
         heat.
   id: 259
   time: '2025-05-13T21:19:33.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: The Rogue SCAF suit and IMP hardsuit now costs 5 DB.
+    - type: Tweak
+      message: Jackel hardsuit now costs 15 DB.
+    - type: Tweak
+      message: Energy Cutlasses do 15 structural damage now.
+    - type: Tweak
+      message: Web vest is now 3 DB.
+    - type: Tweak
+      message: syndicate gas mask is 1 DB.
+  id: 260
+  time: '2025-05-13T21:21:02.0000000+00:00'
