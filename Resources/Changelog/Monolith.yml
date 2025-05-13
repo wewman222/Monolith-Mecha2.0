@@ -2124,3 +2124,11 @@ Entries:
         example.
   id: 254
   time: '2025-05-13T00:45:36.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Add
+      message: Added description for Aetherion Dynamics
+    - type: Tweak
+      message: Moved Aetherion Dynamics to a protagonist faction
+  id: 255
+  time: '2025-05-13T04:14:01.0000000+00:00'
