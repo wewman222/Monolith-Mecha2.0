@@ -2178,3 +2178,15 @@ Entries:
       message: syndicate gas mask is 1 DB.
   id: 260
   time: '2025-05-13T21:21:02.0000000+00:00'
+- author: KiraZen-Underscore
+  changes:
+    - type: Add
+      message: >-
+        Added the Grandhonker, a civilian clown ship that's powered by bananium,
+        has an AI core, and more.
+    - type: Add
+      message: Added the "Entertainer" lawset for AI cores.
+    - type: Tweak
+      message: Made TSFMC AI cores hear Command comms.
+  id: 261
+  time: '2025-05-13T22:15:46.0000000+00:00'
