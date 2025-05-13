@@ -2132,3 +2132,9 @@ Entries:
       message: Moved Aetherion Dynamics to a protagonist faction
   id: 255
   time: '2025-05-13T04:14:01.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Rechargers are now 2.5x faster.
+  id: 256
+  time: '2025-05-13T06:57:32.0000000+00:00'
