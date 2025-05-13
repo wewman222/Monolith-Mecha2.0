@@ -2138,7 +2138,7 @@ Entries:
       message: Rechargers are now 2.5x faster.
   id: 256
   time: '2025-05-13T06:57:32.0000000+00:00'
-- author: ark1368
+- author: Ark
   changes:
     - type: Add
       message: Ported over evil mechs from Goob.
