@@ -2216,3 +2216,9 @@ Entries:
       message: Projectiles should no longer phase through entities.
   id: 264
   time: '2025-05-14T00:51:07.0000000+00:00'
+- author: kyres1
+  changes:
+    - type: Tweak
+      message: Resprited all naval weapons to have a single cohesive style.
+  id: 265
+  time: '2025-05-14T02:44:13.0000000+00:00'
