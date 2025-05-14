@@ -2256,3 +2256,9 @@ Entries:
       message: Interdyne Defibs are now C3 Syndie Contra.
   id: 268
   time: '2025-05-14T16:59:44.0000000+00:00'
+- author: Ghost581
+  changes:
+    - type: Tweak
+      message: Killing people with hatchets and whatnot is now viable.
+  id: 269
+  time: '2025-05-14T17:02:08.0000000+00:00'
