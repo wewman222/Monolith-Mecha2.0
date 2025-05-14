@@ -2268,3 +2268,9 @@ Entries:
       message: Marine privates now get an uplink
   id: 270
   time: '2025-05-14T17:02:36.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ships will now be hidden from radar during FTL.
+  id: 271
+  time: '2025-05-14T17:03:11.0000000+00:00'
