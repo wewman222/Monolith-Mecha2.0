@@ -2232,3 +2232,11 @@ Entries:
       message: The Colonel Laser pistol now has 2x more shots in the cell.
   id: 266
   time: '2025-05-14T03:32:05.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed TSFMC turrets targeting over Aurora exosuit.
+    - type: Fix
+      message: Fixed reinforced hull plating being indestructible.
+  id: 267
+  time: '2025-05-14T11:08:59.0000000+00:00'
