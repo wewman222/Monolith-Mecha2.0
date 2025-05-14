@@ -2274,3 +2274,9 @@ Entries:
       message: Ships will now be hidden from radar during FTL.
   id: 271
   time: '2025-05-14T17:03:11.0000000+00:00'
+- author: Ghost581
+  changes:
+    - type: Add
+      message: 'the Viper Group is now whitelisted. '
+  id: 272
+  time: '2025-05-14T17:32:53.0000000+00:00'
