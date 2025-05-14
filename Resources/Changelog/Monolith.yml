@@ -2280,3 +2280,11 @@ Entries:
       message: 'the Viper Group is now whitelisted. '
   id: 272
   time: '2025-05-14T17:32:53.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Elite suit actually fast as in the description. Now 55% Pierce, 45%
+        Blunt/Slash.
+  id: 273
+  time: '2025-05-14T20:08:20.0000000+00:00'
