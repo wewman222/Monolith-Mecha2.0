@@ -2262,3 +2262,9 @@ Entries:
       message: Killing people with hatchets and whatnot is now viable.
   id: 269
   time: '2025-05-14T17:02:08.0000000+00:00'
+- author: EctoplasmIsGood
+  changes:
+    - type: Add
+      message: Marine privates now get an uplink
+  id: 270
+  time: '2025-05-14T17:02:36.0000000+00:00'
