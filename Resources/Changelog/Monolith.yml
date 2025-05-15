@@ -2294,3 +2294,9 @@ Entries:
       message: Fixed the shield console not updating properly.
   id: 274
   time: '2025-05-14T23:58:23.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Bloodred Magboots and Black Jetpacks to Rogue uplinks.
+  id: 275
+  time: '2025-05-15T00:55:25.0000000+00:00'
