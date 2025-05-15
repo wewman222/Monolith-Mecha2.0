@@ -2300,3 +2300,15 @@ Entries:
       message: Bloodred Magboots and Black Jetpacks to Rogue uplinks.
   id: 275
   time: '2025-05-15T00:55:25.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Remove
+      message: EVA suits having hardsuit armor
+    - type: Add
+      message: Individual armor values for EVA suits depending on their specialty
+    - type: Tweak
+      message: Paramedic Voidsuit has minor 5% resistances
+    - type: Tweak
+      message: CMO Hardsuit has no slowdown and 15% resistances
+  id: 276
+  time: '2025-05-15T01:48:19.0000000+00:00'
