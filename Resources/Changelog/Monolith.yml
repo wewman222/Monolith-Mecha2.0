@@ -2389,3 +2389,47 @@ Entries:
         leaving their dungeons
   id: 284
   time: '2025-05-16T15:30:12.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: 'TSF Encryption Key bounty. '
+    - type: Add
+      message: >-
+        Freelancer Encryption Keys, Freelance Radio Implanter, Rogue Comms
+        Computer, and the Burner Rifle are now High Value Rogue Contraband,
+        worth 4 FUCs. Make sure to pop out the key first before selling, as the
+        headset itself is now worth no FUCs.
+    - type: Add
+      message: >-
+        Experimental TSF Weapons bounty. Annie, Pulse Carbine, Antique Laser
+        Guns, and X-01 Multiphase guns can be turned for a sizeable reward of 12
+        DB.
+    - type: Tweak
+      message: >-
+        PMC bounty replaced with general Standard TSF/PMC Longarms bounty. Any
+        PMC SMG/Rifle works, as well as most TSF guns including energy weapons.
+    - type: Tweak
+      message: SCAF suit bounty replaced with a bounty for any Merc/PMC/SCAF suits.
+    - type: Tweak
+      message: >-
+        KFBlade bounty adjusted to be a TSF Energy Weapons bounty. Includes
+        Energy Swords and TSF Energy Shields. This includes syndicate energy
+        swords as well.
+    - type: Tweak
+      message: No more bounty chests. Just throw the stuff on the pad and it works.
+    - type: Tweak
+      message: De-pirated some flavor text for the Bounty console.
+    - type: Tweak
+      message: >-
+        Tweaked the numbers on some of the bounties. Bionics/RTG should feel
+        less worthless now if you get the tech.
+    - type: Remove
+      message: Air Canister Bounty.
+    - type: Remove
+      message: >-
+        Duplicate Fent bounty, the smaller one for 3 Fent crystals. To
+        compensate for Fent enjoyers the 6 Fent Crystal bounty is now 5 DB.
+    - type: Fix
+      message: 'Rogue VT-7s are now displayed as C3 Contraband now. '
+  id: 285
+  time: '2025-05-16T15:34:17.0000000+00:00'
