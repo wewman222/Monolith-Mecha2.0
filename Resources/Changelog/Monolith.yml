@@ -2352,3 +2352,26 @@ Entries:
       message: Ship guns are now able to tank more hits.
   id: 281
   time: '2025-05-16T07:09:54.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Re-adds like 90% of the stuff Frontier took out of the syndicate
+        uplink/contraband. Notable mentions include high explosives, the real
+        china lake, syndicate borg modules, and energy shields.
+    - type: Add
+      message: >-
+        You can now buy Dark Gygaxes and Maulers at semi-reasonable TC prices in
+        a contravend.
+    - type: Add
+      message: >-
+        You can now buy syndicate uplink implanters for 10 TC for a portable
+        uplink.
+    - type: Tweak
+      message: Decreases TC cost of almost all syndicate weaponry.
+    - type: Tweak
+      message: Melee mech weapons do more structural damage.
+    - type: Remove
+      message: Removes the EMP China Lake from the syndicate uplink.
+  id: 282
+  time: '2025-05-16T15:28:58.0000000+00:00'
