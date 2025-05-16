@@ -2346,3 +2346,9 @@ Entries:
       message: PDA's will now be able to unlock your shuttle console as well.
   id: 280
   time: '2025-05-16T06:20:34.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Ship guns are now able to tank more hits.
+  id: 281
+  time: '2025-05-16T07:09:54.0000000+00:00'
