@@ -2381,3 +2381,11 @@ Entries:
       message: added weapon ranges of batteries to guidebook
   id: 283
   time: '2025-05-16T15:29:27.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Remove
+      message: >-
+        Removed rules preventing dungeon bosses from boarding shuttles and
+        leaving their dungeons
+  id: 284
+  time: '2025-05-16T15:30:12.0000000+00:00'
