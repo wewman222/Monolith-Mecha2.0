@@ -2324,3 +2324,11 @@ Entries:
       message: Ship guns now face towards the direction they are firing. Rejoice!
   id: 278
   time: '2025-05-15T11:28:18.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        TSF tech (gear) vender now has weapon recharger flatpacks and multitools
+        in stock.
+  id: 279
+  time: '2025-05-16T05:56:07.0000000+00:00'
