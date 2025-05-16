@@ -2375,3 +2375,9 @@ Entries:
       message: Removes the EMP China Lake from the syndicate uplink.
   id: 282
   time: '2025-05-16T15:28:58.0000000+00:00'
+- author: tzTZtzTZqwq
+  changes:
+    - type: Add
+      message: added weapon ranges of batteries to guidebook
+  id: 283
+  time: '2025-05-16T15:29:27.0000000+00:00'
