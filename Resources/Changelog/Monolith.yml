@@ -2439,3 +2439,16 @@ Entries:
       message: Increases radio range to 6k.
   id: 286
   time: '2025-05-16T23:54:09.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Syndicate Medic/Agent bundle to uplink for 8 TC.
+    - type: Tweak
+      message: >-
+        Syndicate Medic suit slightly faster, gets bonus caustic/radiation
+        resistances, is slightly weaker to blunt/slash. Also has a built in
+        medhud now.
+    - type: Tweak
+      message: Bloodred TC cost 8->7.
+  id: 287
+  time: '2025-05-18T00:47:55.0000000+00:00'
