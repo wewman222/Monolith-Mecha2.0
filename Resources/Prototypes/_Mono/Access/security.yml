@@ -10,6 +10,10 @@
   id: USSPCommand
   name: id-card-access-level-ussp-command
 
+- type: accessLevel
+  id: USSPGadyuka
+  name: id-card-access-level-ussp-debug
+
 - type: accessGroup
   id: USSPAA
   tags:
@@ -18,6 +22,8 @@
   - USSPCommand
   - Mercenary
   - Cryogenics
+  # SHIPS BECAUSE VOUCHER SHITCODE - DO NOT USE THESE FOR **ANYTHING**!!!
+  - USSPGadyuka
 
 - type: accessGroup
   id: USSPHigh
@@ -25,9 +31,13 @@
   - USSP
   - USSPHigh
   - Mercenary
+  # SHIPS BECAUSE VOUCHER SHITCODE - DO NOT USE THESE FOR **ANYTHING**!!!
+  - USSPGadyuka
 
 - type: accessGroup
   id: USSPLow
   tags:
   - USSP
   - Mercenary
+  # SHIPS BECAUSE VOUCHER SHITCODE - DO NOT USE THESE FOR **ANYTHING**!!!
+  - USSPGadyuka
