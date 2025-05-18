@@ -2488,3 +2488,11 @@ Entries:
       message: Radio channels (except Shortband) are no longer limited.
   id: 292
   time: '2025-05-18T16:04:16.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Playtime requirements for almost all roles have been increased. USSP is
+        unaffected.
+  id: 293
+  time: '2025-05-18T21:10:00.0000000+00:00'
