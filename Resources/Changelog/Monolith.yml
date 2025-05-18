@@ -2482,3 +2482,9 @@ Entries:
       message: Added loadout names for the TSFMC
   id: 291
   time: '2025-05-18T16:02:41.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Radio channels (except Shortband) are no longer limited.
+  id: 292
+  time: '2025-05-18T16:04:16.0000000+00:00'
