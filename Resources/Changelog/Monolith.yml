@@ -2452,3 +2452,13 @@ Entries:
       message: Bloodred TC cost 8->7.
   id: 287
   time: '2025-05-18T00:47:55.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added USSP. This is the Hull Rot real.
+    - type: Add
+      message: Suit storages have nitrogen and oxygen tanks instead of air tanks.
+    - type: Tweak
+      message: Camelot is now USSP base instead of a secondary rogue base.
+  id: 288
+  time: '2025-05-18T00:48:56.0000000+00:00'
