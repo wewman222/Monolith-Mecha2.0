@@ -2462,3 +2462,11 @@ Entries:
       message: Camelot is now USSP base instead of a secondary rogue base.
   id: 288
   time: '2025-05-18T00:48:56.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Energy gun takes less time to recharge
+    - type: Tweak
+      message: Multiphase shoots a bit faster.
+  id: 289
+  time: '2025-05-18T00:49:50.0000000+00:00'
