@@ -2533,3 +2533,17 @@ Entries:
         credits.
   id: 298
   time: '2025-05-19T19:16:10.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added cargo bounties to USSP for cash. Basic for now. Suggest more.
+    - type: Tweak
+      message: >-
+        Changed Camelot some more. It now has a unusual defense for turrets, the
+        USSP area is no longer USSP-secure access restricted for lathes, USSP
+        gets a cargo selling area, and the public cargo selling area has a 1.5x
+        multiplier now. Also, replaced the public USSP shipyard console with a
+        expedition shipyard console, and moved the USSP one inside the security
+        area.
+  id: 299
+  time: '2025-05-19T22:53:57.0000000+00:00'
