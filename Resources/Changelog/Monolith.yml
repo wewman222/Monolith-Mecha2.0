@@ -2514,3 +2514,14 @@ Entries:
       message: Colonial Outpost and Medical Dispatch are now invincible (titlecard).
   id: 296
   time: '2025-05-18T23:22:14.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        (for mappers) Added variants of some tiles. Currently unobtainable
+        outside of tile spawner (search "alt" to see them all). Not sure how
+        well they'll fit in.
+    - type: Tweak
+      message: Plastic tiles use Beestation sprites now.
+  id: 297
+  time: '2025-05-19T14:45:43.0000000+00:00'
