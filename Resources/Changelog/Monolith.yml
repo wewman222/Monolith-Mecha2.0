@@ -2525,3 +2525,11 @@ Entries:
       message: Plastic tiles use Beestation sprites now.
   id: 297
   time: '2025-05-19T14:45:43.0000000+00:00'
+- author: kyres1
+  changes:
+    - type: Add
+      message: >-
+        Added the Twilight-class light freighter to the shipyard. It costs 25500
+        credits.
+  id: 298
+  time: '2025-05-19T19:16:10.0000000+00:00'
