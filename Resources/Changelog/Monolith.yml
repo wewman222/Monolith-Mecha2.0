@@ -2547,3 +2547,11 @@ Entries:
         area.
   id: 299
   time: '2025-05-19T22:53:57.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Extra Zenith APCs
+    - type: Tweak
+      message: ADS Manipulator get engineering borg modules.
+  id: 300
+  time: '2025-05-20T00:03:25.0000000+00:00'
