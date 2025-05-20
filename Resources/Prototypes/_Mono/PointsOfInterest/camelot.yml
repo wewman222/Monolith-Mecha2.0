@@ -49,5 +49,7 @@
             Contractor: [-1, -1]
             Pilot: [0, -1]
             Mercenary: [0, -1]
+          tags:
+          - USSPSecure
         - type: StationDeadDrop
           maxDeadDrops: 1 # Fewer here, players start here.
