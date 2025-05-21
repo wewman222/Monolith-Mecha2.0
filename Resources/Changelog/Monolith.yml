@@ -2625,3 +2625,13 @@ Entries:
       message: AURORA Exosuit made a bit less durable.
   id: 308
   time: '2025-05-21T18:35:12.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added gambling$$$!!
+    - type: Add
+      message: Added new Rogue items in their uplink.
+    - type: Tweak
+      message: Rogue uplink prices and numbers of item received.
+  id: 309
+  time: '2025-05-21T18:38:50.0000000+00:00'
