@@ -2593,3 +2593,9 @@ Entries:
       message: Cyborgs can now do surgery (finally).
   id: 304
   time: '2025-05-21T05:21:38.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Organ transplants should now heal damage.
+  id: 305
+  time: '2025-05-21T05:42:30.0000000+00:00'
