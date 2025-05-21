@@ -2563,3 +2563,9 @@ Entries:
       message: Nerfed deimplant fail damage to 5 genetic instead of 50.
   id: 301
   time: '2025-05-20T21:35:12.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Missiles will actually not target your own grid now.
+  id: 302
+  time: '2025-05-21T03:08:54.0000000+00:00'
