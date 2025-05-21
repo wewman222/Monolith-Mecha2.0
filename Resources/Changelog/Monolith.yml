@@ -2599,3 +2599,9 @@ Entries:
       message: Organ transplants should now heal damage.
   id: 305
   time: '2025-05-21T05:42:30.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: USSP capital real. Tunguska is here.
+  id: 306
+  time: '2025-05-21T11:35:57.0000000+00:00'
