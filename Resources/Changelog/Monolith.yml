@@ -2605,3 +2605,17 @@ Entries:
       message: USSP capital real. Tunguska is here.
   id: 306
   time: '2025-05-21T11:35:57.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Add
+      message: 'Added new autocannon: Dravon'
+    - type: Add
+      message: 'Added new EMP cannon: Tarnyx'
+    - type: Add
+      message: 'Added new rapid-fire missile launcher: Vespera'
+    - type: Add
+      message: 'Added new hybrid EMP/HE missile launcher: Tovek'
+    - type: Tweak
+      message: Slightly buffed Dymere projectile explosion
+  id: 307
+  time: '2025-05-21T18:33:10.0000000+00:00'
