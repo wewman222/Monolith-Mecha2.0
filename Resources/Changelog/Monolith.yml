@@ -2569,3 +2569,21 @@ Entries:
       message: Missiles will actually not target your own grid now.
   id: 302
   time: '2025-05-21T03:08:54.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Removed excessively large Frontier biomass requirements for various
+        things.
+    - type: Tweak
+      message: Ported Goob Cloning changes. Cloning alive people is now a thing.
+    - type: Tweak
+      message: Resomi Light
+    - type: Tweak
+      message: Resomi Chicken
+    - type: Tweak
+      message: Brains now display if they are soulless, ported from Goob.
+    - type: Fix
+      message: 'You can grind monkies and kobolds now in the reclaimer. '
+  id: 303
+  time: '2025-05-21T05:20:06.0000000+00:00'
