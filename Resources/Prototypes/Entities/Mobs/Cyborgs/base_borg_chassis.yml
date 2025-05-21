@@ -7,6 +7,7 @@
   abstract: true
   components:
   - type: SurgeryTarget # Mono
+  - type: Sanitized # Mono
   - type: Reactive
     groups:
       Acidic: [Touch]
