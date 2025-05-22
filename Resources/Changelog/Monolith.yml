@@ -2694,3 +2694,9 @@ Entries:
       message: Manufactured goods in lathes sell for more than market value.
   id: 315
   time: '2025-05-22T06:39:12.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: AME injection is no longer limited.
+  id: 316
+  time: '2025-05-22T06:52:02.0000000+00:00'
