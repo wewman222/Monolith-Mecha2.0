@@ -2688,3 +2688,9 @@ Entries:
       message: More annoying medical bounties rewards buffed substantially.
   id: 314
   time: '2025-05-22T06:38:24.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Manufactured goods in lathes sell for more than market value.
+  id: 315
+  time: '2025-05-22T06:39:12.0000000+00:00'
