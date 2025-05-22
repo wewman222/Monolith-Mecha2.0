@@ -2718,3 +2718,13 @@ Entries:
       message: Fixed ship weapon noises not being mono. No more absurdly loud 20mm.
   id: 318
   time: '2025-05-22T23:21:51.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Shuttle Consoles radar range increased to 512. Admin Radar/Observer
+        Radar buffed as well.
+    - type: Tweak
+      message: STC Console and AI Radar Ability buffed to advanced radar range.
+  id: 319
+  time: '2025-05-22T23:22:39.0000000+00:00'
