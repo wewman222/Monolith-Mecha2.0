@@ -2668,3 +2668,13 @@ Entries:
         honestly for a single Cyrexa.
   id: 312
   time: '2025-05-22T03:16:22.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Tweak
+      message: Changed up balancing for the Tovek; should be fine now.
+    - type: Fix
+      message: >-
+        Removed pointless SpaceArtilleryComponent stuff from every gun
+        (deprecated component)
+  id: 313
+  time: '2025-05-22T06:37:16.0000000+00:00'
