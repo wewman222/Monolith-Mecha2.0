@@ -2678,3 +2678,13 @@ Entries:
         (deprecated component)
   id: 313
   time: '2025-05-22T06:37:16.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        MD gets money from venders/etc now. Much more money from medical
+        bounties being completed. 
+    - type: Tweak
+      message: More annoying medical bounties rewards buffed substantially.
+  id: 314
+  time: '2025-05-22T06:38:24.0000000+00:00'
