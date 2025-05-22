@@ -2651,3 +2651,20 @@ Entries:
       message: Marauder turret isn't dogshit anymore.
   id: 311
   time: '2025-05-22T01:33:21.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Europa gets a FTL Drive
+    - type: Tweak
+      message: >-
+        Charons/Cyrexas are now worth a ton, and selling ships should reflect
+        that (you should get proper money back from selling a ship with 4
+        Cyrexas instead of like 1/3 the buy cost)
+    - type: Tweak
+      message: Dagger, Europa, Drakon price increases to reflect Appraisal.
+    - type: Tweak
+      message: >-
+        Vega price decrease due to the fact it is just kinda really overpriced
+        honestly for a single Cyrexa.
+  id: 312
+  time: '2025-05-22T03:16:22.0000000+00:00'
