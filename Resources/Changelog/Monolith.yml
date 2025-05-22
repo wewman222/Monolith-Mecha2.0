@@ -2641,3 +2641,13 @@ Entries:
       message: Tweaked the damage numbers on TOVEK and Dravon
   id: 310
   time: '2025-05-21T19:01:52.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Anaconda to Rogue shipyard.
+    - type: Add
+      message: Added new weapon sounds for kinetic ship weapons.
+    - type: Tweak
+      message: Marauder turret isn't dogshit anymore.
+  id: 311
+  time: '2025-05-22T01:33:21.0000000+00:00'
