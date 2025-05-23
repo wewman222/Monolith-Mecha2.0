@@ -2742,3 +2742,14 @@ Entries:
       message: Faction bases are now titlecard.
   id: 321
   time: '2025-05-23T06:03:28.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Modsuits real. For now just a secondary option in Paramedic and
+        Engineering suit storage lockers, (and replaces atmos hardsuit). Also
+        buildable in T2 Experimental.
+    - type: Tweak
+      message: Radiation suits use Paradise sprites now.
+  id: 322
+  time: '2025-05-23T20:03:58.0000000+00:00'
