@@ -2736,3 +2736,9 @@ Entries:
         slots corporal slots for backup FOB.
   id: 320
   time: '2025-05-23T04:34:19.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Faction bases are now titlecard.
+  id: 321
+  time: '2025-05-23T06:03:28.0000000+00:00'
