@@ -2753,3 +2753,11 @@ Entries:
       message: Radiation suits use Paradise sprites now.
   id: 322
   time: '2025-05-23T20:03:58.0000000+00:00'
+- author: Onezero0
+  changes:
+    - type: Add
+      message: >-
+        Added the Dram, a mobile bar ship for all you who want booze (or
+        icecream)
+  id: 323
+  time: '2025-05-23T21:34:41.0000000+00:00'
