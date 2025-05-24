@@ -2821,3 +2821,15 @@ Entries:
       message: Moth Hair
   id: 331
   time: '2025-05-24T21:13:35.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added MODsuits/undetermined voidsuit selectors to more suit storages
+        where they should've been.
+    - type: Add
+      message: MODsuit boots now work as magboots/noslips.
+    - type: Tweak
+      message: 0.1x the power consumption for MODsuits.
+  id: 332
+  time: '2025-05-24T21:54:34.0000000+00:00'
