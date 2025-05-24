@@ -2773,3 +2773,15 @@ Entries:
       message: Increased Tarnyx Projectile Speed
   id: 325
   time: '2025-05-24T04:39:51.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added Fracture to TSFMC shipyard.
+    - type: Add
+      message: Added new ADS event.
+    - type: Tweak
+      message: Added ADS prefix to all ADS ships.
+    - type: Fix
+      message: Fixed unpowered thruster on Zenith.
+  id: 326
+  time: '2025-05-24T05:22:09.0000000+00:00'
