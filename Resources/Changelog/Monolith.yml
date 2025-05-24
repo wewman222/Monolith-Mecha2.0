@@ -2793,3 +2793,9 @@ Entries:
       message: Ported over Mech lights and fixes from Goob!
   id: 327
   time: '2025-05-24T10:08:22.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed Fracture.
+  id: 328
+  time: '2025-05-24T13:24:50.0000000+00:00'
