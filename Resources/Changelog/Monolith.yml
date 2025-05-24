@@ -2785,3 +2785,11 @@ Entries:
       message: Fixed unpowered thruster on Zenith.
   id: 326
   time: '2025-05-24T05:22:09.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over the IPC species from Goob!
+    - type: Add
+      message: Ported over Mech lights and fixes from Goob!
+  id: 327
+  time: '2025-05-24T10:08:22.0000000+00:00'
