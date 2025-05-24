@@ -2807,3 +2807,11 @@ Entries:
       message: Fixed guns having less ammo than they should.
   id: 329
   time: '2025-05-24T13:25:49.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Fix
+      message: Fixed ADS cores not being WL'd
+    - type: Fix
+      message: Fix ADS-Nebula missing gyroscope.
+  id: 330
+  time: '2025-05-24T14:36:57.0000000+00:00'
