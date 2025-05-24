@@ -2767,3 +2767,9 @@ Entries:
       message: Expedition FTL proximity check now works.
   id: 324
   time: '2025-05-23T23:03:31.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Tweak
+      message: Increased Tarnyx Projectile Speed
+  id: 325
+  time: '2025-05-24T04:39:51.0000000+00:00'
