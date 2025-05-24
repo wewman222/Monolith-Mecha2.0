@@ -2799,3 +2799,11 @@ Entries:
       message: Fixed Fracture.
   id: 328
   time: '2025-05-24T13:24:50.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: Fixed Cyrexa's secondary barrel (now shoots twice before delay).
+    - type: Fix
+      message: Fixed guns having less ammo than they should.
+  id: 329
+  time: '2025-05-24T13:25:49.0000000+00:00'
