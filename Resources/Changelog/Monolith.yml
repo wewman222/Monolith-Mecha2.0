@@ -2871,3 +2871,9 @@ Entries:
       message: Ported over wallets from Frontier!
   id: 336
   time: '2025-05-25T03:29:19.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: You are no longer able to FTL a POI.
+  id: 337
+  time: '2025-05-25T05:57:02.0000000+00:00'
