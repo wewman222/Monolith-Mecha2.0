@@ -2913,3 +2913,17 @@ Entries:
       message: Laws UI now uses a scrollbar at smaller window sizes.
   id: 342
   time: '2025-05-25T20:23:13.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Added a few more features to organs from Goliaths, Space Cobras, Laser
+        Raptors and Space Dragons.
+    - type: Tweak
+      message: >-
+        Monkeys and kobolds now have full body parts and can take damage from
+        them. Naturally they are also valid for surgery.
+    - type: Tweak
+      message: Monkeys and kobolds can now wear backpacks, glasses, and have pockets!
+  id: 343
+  time: '2025-05-25T20:24:10.0000000+00:00'
