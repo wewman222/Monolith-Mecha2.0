@@ -2865,3 +2865,9 @@ Entries:
       message: Docked ships should no longer clip together after FTL ends.
   id: 335
   time: '2025-05-25T02:15:47.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over wallets from Frontier!
+  id: 336
+  time: '2025-05-25T03:29:19.0000000+00:00'
