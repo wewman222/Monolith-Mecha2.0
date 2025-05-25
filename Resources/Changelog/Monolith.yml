@@ -2849,3 +2849,9 @@ Entries:
         headlamp with NVDs.
   id: 333
   time: '2025-05-25T00:40:48.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: IPCs should now start with the encryption keys for their job.
+  id: 334
+  time: '2025-05-25T01:49:41.0000000+00:00'
