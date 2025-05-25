@@ -2833,3 +2833,19 @@ Entries:
       message: 0.1x the power consumption for MODsuits.
   id: 332
   time: '2025-05-24T21:54:34.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        I decided to add a selector for selecting between RD MODsuit and RD
+        hardsuit instead of butchering it. Have fun.
+    - type: Add
+      message: >-
+        RD Hardsuit uses Shiptest sprites now instead of TG MODsuit/Goob
+        sprites.
+    - type: Tweak
+      message: >-
+        RD hardsuit pierce and slash has been buffed a bit. Also replaced the
+        headlamp with NVDs.
+  id: 333
+  time: '2025-05-25T00:40:48.0000000+00:00'
