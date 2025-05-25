@@ -2855,3 +2855,13 @@ Entries:
       message: IPCs should now start with the encryption keys for their job.
   id: 334
   time: '2025-05-25T01:49:41.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Ships will now be re-positioned if they go to the same location and end
+        up stuck together after FTL.
+    - type: Fix
+      message: Docked ships should no longer clip together after FTL ends.
+  id: 335
+  time: '2025-05-25T02:15:47.0000000+00:00'
