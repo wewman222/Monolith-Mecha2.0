@@ -2883,3 +2883,9 @@ Entries:
       message: Blips from other maps will no longer show up.
   id: 338
   time: '2025-05-25T09:39:25.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Ship designations should no longer say "Unknown" for shipyard ships.
+  id: 339
+  time: '2025-05-25T09:59:51.0000000+00:00'
