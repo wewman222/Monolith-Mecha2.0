@@ -2901,3 +2901,9 @@ Entries:
       message: .35 mags are now all 35 ammo, instead of just empty .35 mags
   id: 340
   time: '2025-05-25T11:25:53.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: Fixed Cyrexa burst firing only once instead of twice
+  id: 341
+  time: '2025-05-25T20:22:39.0000000+00:00'
