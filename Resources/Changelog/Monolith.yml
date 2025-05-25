@@ -2889,3 +2889,15 @@ Entries:
       message: Ship designations should no longer say "Unknown" for shipyard ships.
   id: 339
   time: '2025-05-25T09:59:51.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: .35 big magazine boxes to merc vender and loot drops
+    - type: Tweak
+      message: Small pistol magazine boxes now 70 ammo
+    - type: Tweak
+      message: Ammo mags start loaded in the liberation station
+    - type: Fix
+      message: .35 mags are now all 35 ammo, instead of just empty .35 mags
+  id: 340
+  time: '2025-05-25T11:25:53.0000000+00:00'
