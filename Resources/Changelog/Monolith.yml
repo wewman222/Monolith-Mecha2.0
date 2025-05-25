@@ -2907,3 +2907,9 @@ Entries:
       message: Fixed Cyrexa burst firing only once instead of twice
   id: 341
   time: '2025-05-25T20:22:39.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Laws UI now uses a scrollbar at smaller window sizes.
+  id: 342
+  time: '2025-05-25T20:23:13.0000000+00:00'
