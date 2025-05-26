@@ -2967,3 +2967,9 @@ Entries:
       message: Shield blips should no longer show up on ships in FTL.
   id: 348
   time: '2025-05-26T02:27:22.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: New conflict rule regarding outpost striking.
+  id: 349
+  time: '2025-05-26T09:33:39.0000000+00:00'
