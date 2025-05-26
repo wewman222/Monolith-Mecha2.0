@@ -2933,3 +2933,9 @@ Entries:
       message: Adds a tank dispenser to the Camelot Station tool room.
   id: 344
   time: '2025-05-26T00:54:02.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: Gave AK570 a second barrel
+  id: 345
+  time: '2025-05-26T00:55:46.0000000+00:00'
