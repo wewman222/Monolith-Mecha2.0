@@ -2939,3 +2939,11 @@ Entries:
       message: Gave AK570 a second barrel
   id: 345
   time: '2025-05-26T00:55:46.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Adds the TSF Tarantula, a durable mid-range brawler equipped with heavy
+        autocannons.
+  id: 346
+  time: '2025-05-26T01:06:50.0000000+00:00'
