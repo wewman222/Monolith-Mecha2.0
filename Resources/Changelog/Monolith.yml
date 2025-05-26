@@ -2961,3 +2961,9 @@ Entries:
       message: TSFMC and USSP Uniforms start with Vitals on and Coords off.
   id: 347
   time: '2025-05-26T01:24:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Shield blips should no longer show up on ships in FTL.
+  id: 348
+  time: '2025-05-26T02:27:22.0000000+00:00'
