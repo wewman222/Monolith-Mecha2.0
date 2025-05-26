@@ -2927,3 +2927,9 @@ Entries:
       message: Monkeys and kobolds can now wear backpacks, glasses, and have pockets!
   id: 343
   time: '2025-05-25T20:24:10.0000000+00:00'
+- author: WreakHavocOnTheMiddleClass
+  changes:
+    - type: Tweak
+      message: Adds a tank dispenser to the Camelot Station tool room.
+  id: 344
+  time: '2025-05-26T00:54:02.0000000+00:00'
