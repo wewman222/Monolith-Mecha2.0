@@ -3043,3 +3043,9 @@ Entries:
       message: Fixed Rogue Suit sensors starting on Vitals
   id: 360
   time: '2025-05-27T21:57:36.0000000+00:00'
+- author: WreakHavocOnTheMiddleClass
+  changes:
+    - type: Fix
+      message: Kudzu no longer receive GodMode when spawned on a POI.
+  id: 361
+  time: '2025-05-27T22:16:33.0000000+00:00'
