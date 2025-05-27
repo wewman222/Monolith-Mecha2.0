@@ -3049,3 +3049,11 @@ Entries:
       message: Kudzu no longer receive GodMode when spawned on a POI.
   id: 361
   time: '2025-05-27T22:16:33.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Ported SyringeCase
+    - type: Tweak
+      message: Tweaked adv. Medipen uplink prices
+  id: 362
+  time: '2025-05-27T22:17:09.0000000+00:00'
