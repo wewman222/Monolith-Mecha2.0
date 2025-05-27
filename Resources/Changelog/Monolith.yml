@@ -2985,3 +2985,13 @@ Entries:
       message: Docked ships should no longer go into expeditions together.
   id: 351
   time: '2025-05-27T01:18:41.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added Rogue outfits
+    - type: Add
+      message: Added Rogue uplink
+    - type: Tweak
+      message: Renamed `Doubloons` to `Data Chits`
+  id: 352
+  time: '2025-05-27T01:29:28.0000000+00:00'
