@@ -2973,3 +2973,9 @@ Entries:
       message: New conflict rule regarding outpost striking.
   id: 349
   time: '2025-05-26T09:33:39.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Hitscan blips are now here! Laser ship guns soon?
+  id: 350
+  time: '2025-05-27T00:06:39.0000000+00:00'
