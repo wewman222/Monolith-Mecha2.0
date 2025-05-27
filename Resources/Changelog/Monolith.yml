@@ -3013,3 +3013,11 @@ Entries:
       message: Fixed FUC farming issue
   id: 355
   time: '2025-05-27T13:37:17.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: >-
+        Called the Space-IRS on the TSF and Rogue forces, ending their illegal
+        item duplication schemes.
+  id: 356
+  time: '2025-05-27T21:22:54.0000000+00:00'
