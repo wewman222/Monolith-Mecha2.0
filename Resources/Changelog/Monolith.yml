@@ -3037,3 +3037,9 @@ Entries:
   changes: []
   id: 359
   time: '2025-05-27T21:56:23.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: Fixed Rogue Suit sensors starting on Vitals
+  id: 360
+  time: '2025-05-27T21:57:36.0000000+00:00'
