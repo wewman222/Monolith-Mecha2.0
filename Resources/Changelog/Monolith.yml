@@ -3027,3 +3027,9 @@ Entries:
       message: Cobra hearts now make you glowy like a cobra.
   id: 357
   time: '2025-05-27T21:31:46.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: Tweaked breaching tools somewhat.
+  id: 358
+  time: '2025-05-27T21:55:50.0000000+00:00'
