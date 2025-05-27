@@ -2979,3 +2979,9 @@ Entries:
       message: Hitscan blips are now here! Laser ship guns soon?
   id: 350
   time: '2025-05-27T00:06:39.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Docked ships should no longer go into expeditions together.
+  id: 351
+  time: '2025-05-27T01:18:41.0000000+00:00'
