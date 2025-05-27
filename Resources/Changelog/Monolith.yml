@@ -3001,3 +3001,9 @@ Entries:
       message: Russian accent has been added!
   id: 353
   time: '2025-05-27T03:52:26.0000000+00:00'
+- author: cheetah1984
+  changes:
+    - type: Add
+      message: Ported the (extremely fancy) Substation and SMES UI from Wizden.
+  id: 354
+  time: '2025-05-27T08:31:51.0000000+00:00'
