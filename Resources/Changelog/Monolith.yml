@@ -3021,3 +3021,9 @@ Entries:
         item duplication schemes.
   id: 356
   time: '2025-05-27T21:22:54.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Cobra hearts now make you glowy like a cobra.
+  id: 357
+  time: '2025-05-27T21:31:46.0000000+00:00'
