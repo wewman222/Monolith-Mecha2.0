@@ -3007,3 +3007,9 @@ Entries:
       message: Ported the (extremely fancy) Substation and SMES UI from Wizden.
   id: 354
   time: '2025-05-27T08:31:51.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: Fixed FUC farming issue
+  id: 355
+  time: '2025-05-27T13:37:17.0000000+00:00'
