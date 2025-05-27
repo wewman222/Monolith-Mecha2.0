@@ -2995,3 +2995,9 @@ Entries:
       message: Renamed `Doubloons` to `Data Chits`
   id: 352
   time: '2025-05-27T01:29:28.0000000+00:00'
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: Russian accent has been added!
+  id: 353
+  time: '2025-05-27T03:52:26.0000000+00:00'
