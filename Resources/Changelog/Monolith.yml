@@ -3057,3 +3057,23 @@ Entries:
       message: Tweaked adv. Medipen uplink prices
   id: 362
   time: '2025-05-27T22:17:09.0000000+00:00'
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: Hardsuit USSP L-10 (Vendor buyable)
+    - type: Add
+      message: Hardsuit USSP L-10-A  (Loadout)
+    - type: Add
+      message: Hardsuit USSP M-10 (Vendor buyable)
+    - type: Add
+      message: Helmet Heavy Ballistic USSP (Vendor buyable)
+    - type: Add
+      message: Cap USSP Commissar  (Loadout)
+    - type: Add
+      message: Cap USSP Officer (Loadout)
+    - type: Add
+      message: Coat USSP Officer (Vendor buyable)
+    - type: Tweak
+      message: Adds SVS and Mosin to the USSP vendor
+  id: 363
+  time: '2025-05-27T23:22:52.0000000+00:00'
