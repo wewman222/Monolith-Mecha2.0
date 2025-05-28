@@ -3077,3 +3077,9 @@ Entries:
       message: Adds SVS and Mosin to the USSP vendor
   id: 363
   time: '2025-05-27T23:22:52.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added RX-01 Rogue Modsuit
+  id: 364
+  time: '2025-05-28T07:53:01.0000000+00:00'
