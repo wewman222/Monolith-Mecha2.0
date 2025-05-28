@@ -3103,3 +3103,9 @@ Entries:
         close to the target as possible.
   id: 367
   time: '2025-05-28T19:46:35.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Combat ship thrusters/gyros can be unanchored now
+  id: 368
+  time: '2025-05-28T21:06:54.0000000+00:00'
