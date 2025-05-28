@@ -3089,3 +3089,9 @@ Entries:
       message: Ship guns will now only rotate if they have line of sight.
   id: 365
   time: '2025-05-28T08:24:23.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over the Bluespace Lifeline from Goob!
+  id: 366
+  time: '2025-05-28T08:25:39.0000000+00:00'
