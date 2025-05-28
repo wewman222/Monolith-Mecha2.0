@@ -3095,3 +3095,11 @@ Entries:
       message: Ported over the Bluespace Lifeline from Goob!
   id: 366
   time: '2025-05-28T08:25:39.0000000+00:00'
+- author: RikuTheKiller
+  changes:
+    - type: Tweak
+      message: >-
+        Trying to FTL outside of your shuttle's FTL range will now try to FTL as
+        close to the target as possible.
+  id: 367
+  time: '2025-05-28T19:46:35.0000000+00:00'
