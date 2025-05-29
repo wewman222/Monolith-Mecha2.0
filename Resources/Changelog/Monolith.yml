@@ -3159,3 +3159,17 @@ Entries:
       message: You are now able to unseal limbless people with modsuits.
   id: 376
   time: '2025-05-29T07:29:38.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Portable Rechargers added to the tsf uplink for 10 FMCs/FUCs.
+    - type: Tweak
+      message: Portable rechargers recharge a bit faster.
+    - type: Tweak
+      message: Portable recharges fit on belt and suitstorage slots.
+    - type: Fix
+      message: >-
+        Portable recharger click behavior improved, alt click or use in hand to
+        take gun out.
+  id: 377
+  time: '2025-05-29T07:33:57.0000000+00:00'
