@@ -3109,3 +3109,9 @@ Entries:
       message: Combat ship thrusters/gyros can be unanchored now
   id: 368
   time: '2025-05-28T21:06:54.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: 'ADS AI/borg Can now yap on wideband. '
+  id: 369
+  time: '2025-05-29T01:31:24.0000000+00:00'
