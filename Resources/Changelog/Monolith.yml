@@ -3133,3 +3133,11 @@ Entries:
       message: Moths can eat clothes again.
   id: 372
   time: '2025-05-29T01:36:28.0000000+00:00'
+- author: HungryCuban
+  changes:
+    - type: Tweak
+      message: >-
+        .30 low cap magazine and .30 speedloader are obtainable via vendors and
+        ammotechfab
+  id: 373
+  time: '2025-05-29T01:49:13.0000000+00:00'
