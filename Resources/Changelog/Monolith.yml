@@ -3147,3 +3147,9 @@ Entries:
       message: You can now tap your ID or PDA on a shuttle console to unlock/lock it.
   id: 374
   time: '2025-05-29T01:56:29.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Anti-raid on recognized safe zones.
+  id: 375
+  time: '2025-05-29T02:02:04.0000000+00:00'
