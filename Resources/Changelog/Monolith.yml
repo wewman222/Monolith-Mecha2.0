@@ -3115,3 +3115,9 @@ Entries:
       message: 'ADS AI/borg Can now yap on wideband. '
   id: 369
   time: '2025-05-29T01:31:24.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over latejoin advertisements from Frontier!
+  id: 370
+  time: '2025-05-29T01:33:17.0000000+00:00'
