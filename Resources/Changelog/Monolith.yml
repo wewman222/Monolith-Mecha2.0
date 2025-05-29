@@ -3173,3 +3173,9 @@ Entries:
         take gun out.
   id: 377
   time: '2025-05-29T07:33:57.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: IPC medical bounty should now give a payout.
+  id: 378
+  time: '2025-05-29T09:40:52.0000000+00:00'
