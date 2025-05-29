@@ -3153,3 +3153,9 @@ Entries:
       message: Anti-raid on recognized safe zones.
   id: 375
   time: '2025-05-29T02:02:04.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: You are now able to unseal limbless people with modsuits.
+  id: 376
+  time: '2025-05-29T07:29:38.0000000+00:00'
