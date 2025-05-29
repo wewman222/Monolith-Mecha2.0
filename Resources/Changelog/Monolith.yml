@@ -3141,3 +3141,9 @@ Entries:
         ammotechfab
   id: 373
   time: '2025-05-29T01:49:13.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: You can now tap your ID or PDA on a shuttle console to unlock/lock it.
+  id: 374
+  time: '2025-05-29T01:56:29.0000000+00:00'
