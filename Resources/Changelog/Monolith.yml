@@ -3179,3 +3179,15 @@ Entries:
       message: IPC medical bounty should now give a payout.
   id: 378
   time: '2025-05-29T09:40:52.0000000+00:00'
+- author: RikuTheKiller
+  changes:
+    - type: Tweak
+      message: >-
+        The maximum size of the map viewport on shuttle consoles is now 8 times
+        larger. (512m -> 4096m)
+    - type: Tweak
+      message: >-
+        The scroll sensitivity of the map viewport on shuttle consoles is now
+        twice as high. (1/8 -> 1/4)
+  id: 379
+  time: '2025-05-30T00:44:04.0000000+00:00'
