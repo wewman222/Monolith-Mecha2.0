@@ -3212,3 +3212,9 @@ Entries:
       message: Captain can adjust FOB job slots.
   id: 382
   time: '2025-05-30T03:42:22.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Unused dead drops give more FMCs/Spesos
+  id: 383
+  time: '2025-05-30T03:43:04.0000000+00:00'
