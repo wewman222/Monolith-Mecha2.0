@@ -106,10 +106,6 @@ public sealed partial class ShuttleMapControl : BaseShuttleControl
 
     protected override void MouseMove(GUIMouseMoveEventArgs args)
     {
-        // No move for you.
-        if (FtlMode)
-            return;
-
         base.MouseMove(args);
     }
 
