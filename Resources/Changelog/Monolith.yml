@@ -3303,3 +3303,11 @@ Entries:
         accurate of where it is though.
   id: 395
   time: '2025-05-30T23:52:30.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Rogue flashbang/smoke/explosive nade boxes
+    - type: Tweak
+      message: Rogue grenades are all boxes, prices adjusted.
+  id: 396
+  time: '2025-05-30T23:58:36.0000000+00:00'
