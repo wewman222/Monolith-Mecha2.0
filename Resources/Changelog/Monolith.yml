@@ -3224,3 +3224,9 @@ Entries:
       message: RX-01 movement buff should now be felt properly
   id: 384
   time: '2025-05-30T03:49:17.0000000+00:00'
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: Added Ussp radio implant!
+  id: 385
+  time: '2025-05-30T03:53:08.0000000+00:00'
