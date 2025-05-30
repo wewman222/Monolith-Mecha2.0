@@ -3248,3 +3248,9 @@ Entries:
       message: All hydro trays unanchorable.
   id: 388
   time: '2025-05-30T06:18:02.0000000+00:00'
+- author: RikuTheKiller
+  changes:
+    - type: Fix
+      message: You shouldn't FTL in place anymore.
+  id: 389
+  time: '2025-05-30T10:29:35.0000000+00:00'
