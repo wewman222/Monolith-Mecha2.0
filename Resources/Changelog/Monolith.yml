@@ -3262,3 +3262,11 @@ Entries:
       message: Upped the cost of poison/rad medipens.
   id: 390
   time: '2025-05-30T10:53:24.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added Commissar Tacsuit
+    - type: Add
+      message: Added Commissar area to Camelot
+  id: 391
+  time: '2025-05-30T10:59:36.0000000+00:00'
