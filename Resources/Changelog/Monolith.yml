@@ -3278,3 +3278,13 @@ Entries:
         of your new one.
   id: 392
   time: '2025-05-30T23:48:04.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Encryption keys in your loadout are now automatically put into your
+        headset.
+    - type: Tweak
+      message: IPCs can now fit more encryption keys (4 -> 8).
+  id: 393
+  time: '2025-05-30T23:49:10.0000000+00:00'
