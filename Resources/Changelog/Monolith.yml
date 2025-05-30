@@ -3288,3 +3288,9 @@ Entries:
       message: IPCs can now fit more encryption keys (4 -> 8).
   id: 393
   time: '2025-05-30T23:49:10.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adv Surgery Duffels added to TSFMC Uplink for Brigmeds.
+  id: 394
+  time: '2025-05-30T23:51:06.0000000+00:00'
