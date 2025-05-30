@@ -3206,3 +3206,9 @@ Entries:
       message: Zooming in and out on the Map menu is now consistent.
   id: 381
   time: '2025-05-30T01:49:06.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Captain can adjust FOB job slots.
+  id: 382
+  time: '2025-05-30T03:42:22.0000000+00:00'
