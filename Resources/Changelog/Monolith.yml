@@ -3254,3 +3254,11 @@ Entries:
       message: You shouldn't FTL in place anymore.
   id: 389
   time: '2025-05-30T10:29:35.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Returns combat medipen back to Rogues.
+    - type: Tweak
+      message: Upped the cost of poison/rad medipens.
+  id: 390
+  time: '2025-05-30T10:53:24.0000000+00:00'
