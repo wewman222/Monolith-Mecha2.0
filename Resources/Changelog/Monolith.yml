@@ -3236,3 +3236,9 @@ Entries:
       message: You can now swipe your voucher to unlock/lock your shuttle console.
   id: 386
   time: '2025-05-30T04:16:33.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Rogue uplink no longer has gambling. It's so over.
+  id: 387
+  time: '2025-05-30T05:08:14.0000000+00:00'
