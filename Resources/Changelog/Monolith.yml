@@ -3200,3 +3200,9 @@ Entries:
         (it was previously "Use")
   id: 380
   time: '2025-05-30T00:48:54.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Zooming in and out on the Map menu is now consistent.
+  id: 381
+  time: '2025-05-30T01:49:06.0000000+00:00'
