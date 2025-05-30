@@ -3242,3 +3242,9 @@ Entries:
       message: Rogue uplink no longer has gambling. It's so over.
   id: 387
   time: '2025-05-30T05:08:14.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: All hydro trays unanchorable.
+  id: 388
+  time: '2025-05-30T06:18:02.0000000+00:00'
