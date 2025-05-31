@@ -3345,3 +3345,9 @@ Entries:
       message: M-10 internal mass scanner increased to 350 meters.
   id: 400
   time: '2025-05-31T08:27:25.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You can now copy a deed from one ID card to another.
+  id: 401
+  time: '2025-05-31T08:29:30.0000000+00:00'
