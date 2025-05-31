@@ -3317,3 +3317,11 @@ Entries:
       message: Ported the betrayal knife from Goob.
   id: 397
   time: '2025-05-31T00:22:00.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: Added A-Class to CO shipyard. Bigger atmos ship finally. Still dogshit
+    - type: Fix
+      message: Fixed 20mm battery being piss shit weak.
+  id: 398
+  time: '2025-05-31T00:24:33.0000000+00:00'
