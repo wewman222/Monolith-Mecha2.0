@@ -3325,3 +3325,17 @@ Entries:
       message: Fixed 20mm battery being piss shit weak.
   id: 398
   time: '2025-05-31T00:24:33.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Radar/IFF research in Civ 3.
+    - type: Add
+      message: Advanced FTL in Experimental 3.
+    - type: Tweak
+      message: Normal FTL moved to Experimental 2.
+    - type: Tweak
+      message: >-
+        Mech guns can be made in the exosuit fab with tech, no emag needed
+        anymore.
+  id: 399
+  time: '2025-05-31T08:14:46.0000000+00:00'
