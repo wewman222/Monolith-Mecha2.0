@@ -3311,3 +3311,9 @@ Entries:
       message: Rogue grenades are all boxes, prices adjusted.
   id: 396
   time: '2025-05-30T23:58:36.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported the betrayal knife from Goob.
+  id: 397
+  time: '2025-05-31T00:22:00.0000000+00:00'
