@@ -3381,3 +3381,9 @@ Entries:
         cost unchanged.
   id: 404
   time: '2025-06-01T04:34:32.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Job slots will now close if the shuttle console is not powered.
+  id: 405
+  time: '2025-06-01T04:49:18.0000000+00:00'
