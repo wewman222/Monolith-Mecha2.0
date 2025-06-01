@@ -3416,3 +3416,9 @@ Entries:
         F. Ported from Goob.
   id: 408
   time: '2025-06-01T22:37:41.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Only unlocked shuttle consoles can broadcast SOS now.
+  id: 409
+  time: '2025-06-01T22:51:10.0000000+00:00'
