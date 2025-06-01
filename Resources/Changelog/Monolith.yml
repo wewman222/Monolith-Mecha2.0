@@ -3387,3 +3387,16 @@ Entries:
       message: Job slots will now close if the shuttle console is not powered.
   id: 405
   time: '2025-06-01T04:49:18.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: >-
+        Godmode will only be applied to entities on first initialization. This
+        means new entities in safe zones will no longer be given godmode.
+        Hopefully resolves some issues.
+    - type: Fix
+      message: >-
+        Characters should no longer lose their Pacifist trait in safe zones. Big
+        boom.
+  id: 406
+  time: '2025-06-01T07:13:14.0000000+00:00'
