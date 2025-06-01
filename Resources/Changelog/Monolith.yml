@@ -3422,3 +3422,11 @@ Entries:
       message: Only unlocked shuttle consoles can broadcast SOS now.
   id: 409
   time: '2025-06-01T22:51:10.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Missiles should stop tracking after entering an enemy grid. This should
+        reduce the spinning missile of death.
+  id: 410
+  time: '2025-06-01T23:07:02.0000000+00:00'
