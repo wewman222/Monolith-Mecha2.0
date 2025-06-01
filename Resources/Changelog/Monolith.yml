@@ -3369,3 +3369,15 @@ Entries:
       message: Fixed unpowered thrusters on Serpent.
   id: 403
   time: '2025-05-31T20:20:12.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        All energy weapons except pulse damage increased slightly. Non-hitscan
+        lasers travel faster.
+    - type: Tweak
+      message: >-
+        Uplink energy weapons/portable recharge prices decreased. Pulse weaponry
+        cost unchanged.
+  id: 404
+  time: '2025-06-01T04:34:32.0000000+00:00'
