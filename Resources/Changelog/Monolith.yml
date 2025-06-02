@@ -3430,3 +3430,25 @@ Entries:
         reduce the spinning missile of death.
   id: 410
   time: '2025-06-01T23:07:02.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Addititonal love to nukie uplink.
+    - type: Add
+      message: Raid suit to normal tc uplinks.
+    - type: Add
+      message: 'Re-adds scram implant. '
+    - type: Add
+      message: 'Re-adds syndie duffels and bags. '
+    - type: Tweak
+      message: >-
+        Adjusts limited use implants to not be limited use and instead have
+        longer cooldown, similar to goob.
+    - type: Add
+      message: Adds micro/macrobombs/acidifiers to normal tc uplinks.
+    - type: Fix
+      message: Betrayal knife now a reasonable price (goob->wizden tc)
+    - type: Tweak
+      message: Scream buffed.
+  id: 411
+  time: '2025-06-02T00:37:42.0000000+00:00'
