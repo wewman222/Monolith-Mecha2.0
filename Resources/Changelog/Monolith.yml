@@ -3452,3 +3452,11 @@ Entries:
       message: Scream buffed.
   id: 411
   time: '2025-06-02T00:37:42.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Hardsuit helmet lights slightly brighter and bigger in radius.
+    - type: Add
+      message: ERT Medic hardsuits get a built-in medhud.
+  id: 412
+  time: '2025-06-02T09:51:58.0000000+00:00'
