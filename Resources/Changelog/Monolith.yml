@@ -3472,3 +3472,9 @@ Entries:
       message: You can now adjust the height and width of your character!
   id: 414
   time: '2025-06-02T09:53:13.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Remove
+      message: Height traits have been replaced with sliders.
+  id: 415
+  time: '2025-06-02T10:05:30.0000000+00:00'
