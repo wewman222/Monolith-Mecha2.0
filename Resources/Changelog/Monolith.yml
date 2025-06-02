@@ -3466,3 +3466,9 @@ Entries:
       message: All ore veins should now drop ore when mined with the PTK-1500e
   id: 413
   time: '2025-06-02T09:52:39.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: You can now adjust the height and width of your character!
+  id: 414
+  time: '2025-06-02T09:53:13.0000000+00:00'
