@@ -3478,3 +3478,9 @@ Entries:
       message: Height traits have been replaced with sliders.
   id: 415
   time: '2025-06-02T10:05:30.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: MonoCoins are real!
+  id: 416
+  time: '2025-06-02T23:07:21.0000000+00:00'
