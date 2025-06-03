@@ -3484,3 +3484,9 @@ Entries:
       message: MonoCoins are real!
   id: 416
   time: '2025-06-02T23:07:21.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: We are now using the better version of shuttle impacts from Wizden.
+  id: 417
+  time: '2025-06-03T05:51:37.0000000+00:00'
