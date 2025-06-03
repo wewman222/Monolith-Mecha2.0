@@ -3502,3 +3502,9 @@ Entries:
       message: Resomi temp speed thresholds adjusted for cold damage thresholds.
   id: 419
   time: '2025-06-03T22:49:36.0000000+00:00'
+- author: RikuTheKiller
+  changes:
+    - type: Add
+      message: Added the pirate hoverbike to the rogue uplink.
+  id: 420
+  time: '2025-06-03T22:57:49.0000000+00:00'
