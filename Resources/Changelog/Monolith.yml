@@ -3544,3 +3544,9 @@ Entries:
       message: Made the Yowie accent into a trait.
   id: 424
   time: '2025-06-04T00:26:55.0000000+00:00'
+- author: EctoplasmIsGood
+  changes:
+    - type: Tweak
+      message: TSF now get 7,500 per FMC from uplink rather then the previous 5,000
+  id: 425
+  time: '2025-06-04T01:27:02.0000000+00:00'
