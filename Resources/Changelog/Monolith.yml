@@ -3536,3 +3536,11 @@ Entries:
         surgery menu
   id: 423
   time: '2025-06-03T23:11:21.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported over the Yowie species from Goob!
+    - type: Add
+      message: Made the Yowie accent into a trait.
+  id: 424
+  time: '2025-06-04T00:26:55.0000000+00:00'
