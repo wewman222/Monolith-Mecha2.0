@@ -3550,3 +3550,9 @@ Entries:
       message: TSF now get 7,500 per FMC from uplink rather then the previous 5,000
   id: 425
   time: '2025-06-04T01:27:02.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: Round End Summary is now sent to the Discord!
+  id: 426
+  time: '2025-06-04T02:06:50.0000000+00:00'
