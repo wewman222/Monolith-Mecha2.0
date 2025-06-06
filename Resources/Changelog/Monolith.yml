@@ -3660,3 +3660,9 @@ Entries:
       message: Faction bases are no longer [titlecard].
   id: 439
   time: '2025-06-06T02:23:06.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Protogens are now strippable and can be operated on again
+  id: 440
+  time: '2025-06-06T04:05:07.0000000+00:00'
