@@ -3708,3 +3708,9 @@ Entries:
       message: Fixed vulcan sprite
   id: 446
   time: '2025-06-06T22:54:21.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: 'Additional AME cores no longer applies diminishing power returns. '
+  id: 447
+  time: '2025-06-06T22:56:19.0000000+00:00'
