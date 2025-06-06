@@ -3666,3 +3666,9 @@ Entries:
       message: Protogens are now strippable and can be operated on again
   id: 440
   time: '2025-06-06T04:05:07.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Comms channels more accurate.
+  id: 441
+  time: '2025-06-06T22:43:15.0000000+00:00'
