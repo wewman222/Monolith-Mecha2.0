@@ -3654,3 +3654,9 @@ Entries:
         overall playtime, now 25 hours total.
   id: 438
   time: '2025-06-06T02:01:21.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Remove
+      message: Faction bases are no longer [titlecard].
+  id: 439
+  time: '2025-06-06T02:23:06.0000000+00:00'
