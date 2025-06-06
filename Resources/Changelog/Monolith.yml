@@ -3588,3 +3588,9 @@ Entries:
       message: Gave salvage borg a wrench to unanchor things.
   id: 430
   time: '2025-06-04T19:50:19.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Turrets can now see you through windows.
+  id: 431
+  time: '2025-06-06T01:43:43.0000000+00:00'
