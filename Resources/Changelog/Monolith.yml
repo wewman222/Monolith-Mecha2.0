@@ -3620,3 +3620,9 @@ Entries:
         genetic :trollface: )
   id: 434
   time: '2025-06-06T01:56:04.0000000+00:00'
+- author: mikusssssss
+  changes:
+    - type: Tweak
+      message: Fentanyl cost per piece raised 2000<2500
+  id: 435
+  time: '2025-06-06T01:56:40.0000000+00:00'
