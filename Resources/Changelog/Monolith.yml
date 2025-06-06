@@ -3714,3 +3714,9 @@ Entries:
       message: 'Additional AME cores no longer applies diminishing power returns. '
   id: 447
   time: '2025-06-06T22:56:19.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Remove
+      message: Grandhonker has been retired.
+  id: 448
+  time: '2025-06-06T23:08:58.0000000+00:00'
