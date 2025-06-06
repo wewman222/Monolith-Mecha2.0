@@ -3702,3 +3702,9 @@ Entries:
       message: Increased range of ship based PKA by 50%
   id: 445
   time: '2025-06-06T22:49:43.0000000+00:00'
+- author: ScyronX
+  changes:
+    - type: Fix
+      message: Fixed vulcan sprite
+  id: 446
+  time: '2025-06-06T22:54:21.0000000+00:00'
