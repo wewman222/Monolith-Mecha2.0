@@ -3790,3 +3790,10 @@ Entries:
   id: 457
   time: '2025-06-07T22:24:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/749
+- author: Ark
+  changes:
+    - type: Fix
+      message: Corpses should no longer go through walls.
+  id: 458
+  time: '2025-06-07T22:25:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/756
