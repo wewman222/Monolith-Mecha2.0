@@ -3738,3 +3738,9 @@ Entries:
         military-tier armor.
   id: 450
   time: '2025-06-07T01:21:08.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Infiltrator fixed.
+  id: 451
+  time: '2025-06-07T02:28:52.0000000+00:00'
