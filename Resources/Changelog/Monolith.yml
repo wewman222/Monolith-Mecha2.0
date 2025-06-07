@@ -3760,3 +3760,10 @@ Entries:
         GitHub.
   id: 453
   time: '2025-06-07T03:00:41.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Discord changelog should include a link to the PR now.
+  id: 454
+  time: '2025-06-07T11:42:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/745
