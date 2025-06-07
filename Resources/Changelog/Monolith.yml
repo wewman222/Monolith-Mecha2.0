@@ -3744,3 +3744,11 @@ Entries:
       message: Infiltrator fixed.
   id: 451
   time: '2025-06-07T02:28:52.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: You can now turn in TC for 1 DB/Data Chit each.
+    - type: Tweak
+      message: only 1 FMC per TC turned in awarded now.
+  id: 452
+  time: '2025-06-07T02:52:15.0000000+00:00'
