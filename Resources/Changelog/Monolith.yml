@@ -3728,3 +3728,13 @@ Entries:
         not affect players in your own company.
   id: 449
   time: '2025-06-06T23:13:37.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Species resistances tweaked.
+    - type: Tweak
+      message: >-
+        Mech resistances buffed across the board to be in line with
+        military-tier armor.
+  id: 450
+  time: '2025-06-07T01:21:08.0000000+00:00'
