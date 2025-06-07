@@ -3752,3 +3752,11 @@ Entries:
       message: only 1 FMC per TC turned in awarded now.
   id: 452
   time: '2025-06-07T02:52:15.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Space garbage will now automatically be cleaned up! Report any issues on
+        GitHub.
+  id: 453
+  time: '2025-06-07T03:00:41.0000000+00:00'
