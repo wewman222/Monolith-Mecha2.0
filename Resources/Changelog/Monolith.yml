@@ -3826,3 +3826,10 @@ Entries:
   id: 461
   time: '2025-06-10T02:01:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/761
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: Fixed FTL resale profiteering
+  id: 462
+  time: '2025-06-10T02:01:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/765
