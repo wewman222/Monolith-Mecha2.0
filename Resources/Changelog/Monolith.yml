@@ -3833,3 +3833,10 @@ Entries:
   id: 462
   time: '2025-06-10T02:01:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/765
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: ADS requires more players to spawn
+  id: 463
+  time: '2025-06-10T02:07:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/760
