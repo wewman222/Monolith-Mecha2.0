@@ -3819,3 +3819,10 @@ Entries:
   id: 460
   time: '2025-06-10T02:00:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/771
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: EG-4 does slightly more damage
+  id: 461
+  time: '2025-06-10T02:01:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/761
