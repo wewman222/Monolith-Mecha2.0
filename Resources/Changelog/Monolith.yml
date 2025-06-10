@@ -3851,3 +3851,12 @@ Entries:
   id: 464
   time: '2025-06-10T02:09:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/758
+- author: mikusssssss
+  changes:
+    - type: Tweak
+      message: >-
+        Brigmedics now do surgery at a 1.65x modifier instead of the previous
+        1.5x. I am not being held hostage.
+  id: 465
+  time: '2025-06-10T02:10:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/763
