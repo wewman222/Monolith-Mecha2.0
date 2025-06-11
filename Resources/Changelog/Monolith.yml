@@ -3898,3 +3898,10 @@ Entries:
   id: 469
   time: '2025-06-11T02:02:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/770
+- author: Onezero0
+  changes:
+    - type: Add
+      message: Added a recipe for Barozine.
+  id: 470
+  time: '2025-06-11T02:09:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/780
