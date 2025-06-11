@@ -3912,3 +3912,14 @@ Entries:
   id: 471
   time: '2025-06-11T02:11:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/784
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Colonel spawns with a Mateba.
+    - type: Tweak
+      message: TSFMC/USSP spawns with Handicomms
+    - type: Tweak
+      message: Renamed CO radio channels.
+  id: 472
+  time: '2025-06-11T02:14:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/769
