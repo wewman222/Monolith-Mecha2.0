@@ -3923,3 +3923,12 @@ Entries:
   id: 472
   time: '2025-06-11T02:14:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/769
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added normal e-sword to rogues.
+    - type: Tweak
+      message: Buying guns as Rogue doesn't cost your life savings anymore.
+  id: 473
+  time: '2025-06-11T02:16:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/776
