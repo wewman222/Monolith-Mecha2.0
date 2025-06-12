@@ -3941,3 +3941,14 @@ Entries:
   id: 474
   time: '2025-06-11T02:48:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/779
+- author: revoemagcoconut
+  changes:
+    - type: Fix
+      message: Dram defibrillator moved somewhere accessible
+    - type: Add
+      message: Dram holopad & ship fax added to bridge
+    - type: Tweak
+      message: Made the Dram more liveable or something
+  id: 475
+  time: '2025-06-12T21:06:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/794
