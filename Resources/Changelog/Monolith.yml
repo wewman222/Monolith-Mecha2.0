@@ -3970,3 +3970,12 @@ Entries:
   id: 477
   time: '2025-06-13T00:46:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/799
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Construction bags to salvage/engineering lockers and salvage fab
+    - type: Tweak
+      message: Mining drills no longer do stamina damage to you you on wideswing.
+  id: 478
+  time: '2025-06-13T00:47:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/798
