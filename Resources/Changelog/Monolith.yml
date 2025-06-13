@@ -4072,3 +4072,10 @@ Entries:
   id: 488
   time: '2025-06-13T01:14:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/800
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Cogni on cloned bodies work.
+  id: 489
+  time: '2025-06-13T01:23:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/766
