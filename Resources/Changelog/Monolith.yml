@@ -3961,3 +3961,12 @@ Entries:
   id: 476
   time: '2025-06-13T00:41:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/762
+- author: RikuTheKiller
+  changes:
+    - type: Add
+      message: >-
+        Added tiers to gunnery control servers. This means you can no longer add
+        50 missile pods to a Tethys.
+  id: 477
+  time: '2025-06-13T00:46:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/799
