@@ -4079,3 +4079,10 @@ Entries:
   id: 489
   time: '2025-06-13T01:23:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/766
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: USSP meds cost decreased.
+  id: 490
+  time: '2025-06-13T01:41:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/805
