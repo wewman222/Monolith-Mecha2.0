@@ -4007,3 +4007,16 @@ Entries:
   id: 482
   time: '2025-06-13T00:59:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/795
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Buffs mail income.
+    - type: Tweak
+      message: >-
+        More mail is sent and more often. HINT: Check Trade mall, there's a mail
+        teleporter there, its a frontier addition.
+    - type: Tweak
+      message: Adds a few cool things inside.
+  id: 483
+  time: '2025-06-13T01:06:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/790
