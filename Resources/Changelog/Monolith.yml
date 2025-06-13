@@ -4097,3 +4097,12 @@ Entries:
   id: 491
   time: '2025-06-13T01:45:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/806
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Rogue Agent IPCs should get their headset encryption keys automatically
+        inserted now.
+  id: 492
+  time: '2025-06-13T02:37:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/808
