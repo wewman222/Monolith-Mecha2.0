@@ -4000,3 +4000,10 @@ Entries:
   id: 481
   time: '2025-06-13T00:53:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/793
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: All energy projectiles go through normal windows now.
+  id: 482
+  time: '2025-06-13T00:59:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/795
