@@ -4063,3 +4063,12 @@ Entries:
   id: 487
   time: '2025-06-13T01:10:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/786
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Can now buy spesos with TC at 10k per 1 TC.
+    - type: Tweak
+      message: Can now bulk buy 10x the spesos at a time with uplinks.
+  id: 488
+  time: '2025-06-13T01:14:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/800
