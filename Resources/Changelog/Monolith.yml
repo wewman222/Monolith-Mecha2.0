@@ -4020,3 +4020,12 @@ Entries:
   id: 483
   time: '2025-06-13T01:06:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/790
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: RCD and RCD ammo in tech, CE lockers, expeds.
+    - type: Tweak
+      message: Access configurators in CE lockers.
+  id: 484
+  time: '2025-06-13T01:07:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/767
