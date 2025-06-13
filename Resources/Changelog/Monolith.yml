@@ -3979,3 +3979,10 @@ Entries:
   id: 478
   time: '2025-06-13T00:47:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/798
+- author: Ark
+  changes:
+    - type: Add
+      message: Your hitbox is now based off your height and width.
+  id: 479
+  time: '2025-06-13T00:48:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/803
