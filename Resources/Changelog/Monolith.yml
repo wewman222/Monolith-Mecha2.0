@@ -4029,3 +4029,23 @@ Entries:
   id: 484
   time: '2025-06-13T01:07:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/767
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Selling specific items on sell pads impacts various budgets.
+    - type: Add
+      message: >-
+        Contraband, Fent, and Smuggled crates when sold penalize the TSFMC
+        budget based off value. Smuggled crates also penalize the CO budget to a
+        lessor degree. Fent penalizes the MD budget somewhat.
+    - type: Add
+      message: Smuggling crates add money to the black market budget when sold.
+    - type: Add
+      message: >-
+        Selling normal crates directly benefits CO. Selling medical supplies raw
+        benefits MD. Selling non-C3 contraband guns benefits the TSFMC.
+    - type: Fix
+      message: Black market budget name on cartridge and spamming info warnings.
+  id: 485
+  time: '2025-06-13T01:08:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/782
