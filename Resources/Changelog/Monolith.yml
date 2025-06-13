@@ -3952,3 +3952,12 @@ Entries:
   id: 475
   time: '2025-06-12T21:06:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/794
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: Emergency medipen to the ussp vendor
+    - type: Add
+      message: AK-502 to the ussp vendor
+  id: 476
+  time: '2025-06-13T00:41:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/762
