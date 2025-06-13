@@ -4049,3 +4049,10 @@ Entries:
   id: 485
   time: '2025-06-13T01:08:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/782
+- author: revoemagcoconut
+  changes:
+    - type: Tweak
+      message: Mapping error cleaned up on 6 ships.
+  id: 486
+  time: '2025-06-13T01:09:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/797
