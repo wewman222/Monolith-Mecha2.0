@@ -4106,3 +4106,10 @@ Entries:
   id: 492
   time: '2025-06-13T02:37:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/808
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: 'Lag reduction: wrecks might appear closer to your ship now'
+  id: 493
+  time: '2025-06-13T02:42:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/807
