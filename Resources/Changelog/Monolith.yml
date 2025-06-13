@@ -4086,3 +4086,14 @@ Entries:
   id: 490
   time: '2025-06-13T01:41:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/805
+- author: Ark
+  changes:
+    - type: Fix
+      message: >-
+        Utensils should no longer be deleted by the GC system. Protect my
+        sporks!
+    - type: Fix
+      message: Medipens should no longer be deleted by the GC system.
+  id: 491
+  time: '2025-06-13T01:45:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/806
