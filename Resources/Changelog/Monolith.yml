@@ -3993,3 +3993,10 @@ Entries:
   id: 480
   time: '2025-06-13T00:52:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/792
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: TSFMC corporal slots can be opened on TSF ships
+  id: 481
+  time: '2025-06-13T00:53:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/793
