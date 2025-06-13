@@ -3986,3 +3986,10 @@ Entries:
   id: 479
   time: '2025-06-13T00:48:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/803
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: News manager consoles added to flatpackvend
+  id: 480
+  time: '2025-06-13T00:52:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/792
