@@ -4056,3 +4056,10 @@ Entries:
   id: 486
   time: '2025-06-13T01:09:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/797
+- author: Srcyon
+  changes:
+    - type: Tweak
+      message: Changed Vulpkanin sound effects.
+  id: 487
+  time: '2025-06-13T01:10:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/786
