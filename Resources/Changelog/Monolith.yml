@@ -4214,3 +4214,12 @@ Entries:
   id: 504
   time: '2025-06-14T17:32:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/823
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added Emergency Responder
+    - type: Tweak
+      message: Changed requirements for Director of Care
+  id: 505
+  time: '2025-06-14T17:33:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/787
