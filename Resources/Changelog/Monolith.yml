@@ -4165,3 +4165,12 @@ Entries:
   id: 499
   time: '2025-06-14T10:47:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/816
+- author: RikuTheKiller
+  changes:
+    - type: Tweak
+      message: >-
+        Advanced radar consoles have been retired, all other radar consoles have
+        the increased range now.
+  id: 500
+  time: '2025-06-14T10:58:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/819
