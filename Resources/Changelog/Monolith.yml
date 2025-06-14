@@ -4200,3 +4200,10 @@ Entries:
   id: 502
   time: '2025-06-14T11:01:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/820
+- author: Ark
+  changes:
+    - type: Fix
+      message: Camelot should no longer have godmode.
+  id: 503
+  time: '2025-06-14T11:10:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/821
