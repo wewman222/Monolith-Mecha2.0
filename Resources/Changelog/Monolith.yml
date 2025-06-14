@@ -4142,3 +4142,12 @@ Entries:
   id: 496
   time: '2025-06-14T10:39:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/818
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Kammerer firerate increased, but is now pump action. (Press Z or Space
+        or use the item after every shot to cycle the chamber)
+  id: 497
+  time: '2025-06-14T10:43:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/811
