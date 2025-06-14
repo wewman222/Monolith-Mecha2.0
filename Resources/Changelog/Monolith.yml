@@ -4189,3 +4189,14 @@ Entries:
   id: 501
   time: '2025-06-14T11:00:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/813
+- author: RikuTheKiller
+  changes:
+    - type: Tweak
+      message: >-
+        [EXPERIMENTAL] All shipgun projectiles are 3 times faster, ranges have
+        been tweaked and missile tracking works better. Report any and all
+        issues you have with this change, it's up for debate and needs live
+        testing.
+  id: 502
+  time: '2025-06-14T11:01:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/820
