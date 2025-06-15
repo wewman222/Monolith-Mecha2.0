@@ -4246,3 +4246,10 @@ Entries:
   id: 508
   time: '2025-06-15T01:45:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/825
+- author: RikuTheKiller
+  changes:
+    - type: Tweak
+      message: Missiles track significantly better now.
+  id: 509
+  time: '2025-06-15T01:47:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/826
