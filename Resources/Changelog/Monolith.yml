@@ -4267,3 +4267,10 @@ Entries:
   id: 511
   time: '2025-06-15T03:46:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/830
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Failed exped cooldown 20 minutes->7.5 minutes.
+  id: 512
+  time: '2025-06-15T04:06:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/831
