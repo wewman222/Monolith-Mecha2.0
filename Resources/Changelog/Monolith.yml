@@ -4253,3 +4253,10 @@ Entries:
   id: 509
   time: '2025-06-15T01:47:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/826
+- author: Ark
+  changes:
+    - type: Fix
+      message: Replacement gunnery servers should properly sync/refresh now.
+  id: 510
+  time: '2025-06-15T01:56:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/828
