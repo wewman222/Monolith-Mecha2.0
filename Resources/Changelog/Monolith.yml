@@ -4232,3 +4232,10 @@ Entries:
   id: 506
   time: '2025-06-14T18:27:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/597
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Jukebox Flatpack to Flatpackvend
+  id: 507
+  time: '2025-06-15T01:43:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/824
