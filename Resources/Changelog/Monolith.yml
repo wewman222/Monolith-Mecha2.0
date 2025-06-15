@@ -4281,3 +4281,10 @@ Entries:
   id: 513
   time: '2025-06-15T08:36:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/832
+- author: Ark
+  changes:
+    - type: Fix
+      message: Compatibility Mode should no longer crash your client.
+  id: 514
+  time: '2025-06-15T08:37:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/833
