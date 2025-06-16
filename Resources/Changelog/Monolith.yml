@@ -4380,3 +4380,18 @@ Entries:
   id: 524
   time: '2025-06-16T21:13:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/841
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: >-
+        Added Roleplay Rule 8, Safe Zone as there was a lot to mention
+        surrounding it.
+    - type: Tweak
+      message: Refactored Conflict Rule 2
+    - type: Tweak
+      message: Refactored Conflict Rule 3
+    - type: Tweak
+      message: Updates rules (Refactor, Stylization, Explaining
+  id: 525
+  time: '2025-06-16T23:28:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/836
