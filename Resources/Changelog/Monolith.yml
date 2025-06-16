@@ -4317,3 +4317,12 @@ Entries:
   id: 517
   time: '2025-06-16T00:43:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/827
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Framework capable of going on expeditions, if you manage to find a
+        console for it.
+  id: 518
+  time: '2025-06-16T00:44:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/840
