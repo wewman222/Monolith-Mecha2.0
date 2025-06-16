@@ -4295,3 +4295,16 @@ Entries:
   id: 515
   time: '2025-06-15T12:11:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/835
+- author: core-mene
+  changes:
+    - type: Tweak
+      message: Ammo damages tweaked.
+    - type: Add
+      message: New weapon calibers.
+    - type: Fix
+      message: Missing magazines added. (Uranium 12 gauge drums, etc)
+    - type: Remove
+      message: No more wizcode for ammo types.
+  id: 516
+  time: '2025-06-16T00:40:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/764
