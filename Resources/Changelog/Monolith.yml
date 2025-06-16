@@ -4371,3 +4371,12 @@ Entries:
   id: 523
   time: '2025-06-16T21:10:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/845
+- author: norycS
+  changes:
+    - type: Add
+      message: Added 2 new machine guns Ashstorm and DP-29 for TSFMC and USSP.
+    - type: Tweak
+      message: Added L6 saw to rogue uplink.
+  id: 524
+  time: '2025-06-16T21:13:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/841
