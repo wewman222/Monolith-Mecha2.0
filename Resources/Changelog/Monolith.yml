@@ -4362,3 +4362,12 @@ Entries:
   id: 522
   time: '2025-06-16T21:09:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/846
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Canisters have more 1.5x more volume
+    - type: Tweak
+      message: Gases sell for more
+  id: 523
+  time: '2025-06-16T21:10:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/845
