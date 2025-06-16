@@ -4333,3 +4333,12 @@ Entries:
   id: 519
   time: '2025-06-16T00:47:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/839
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Big carp (Sharkminnows) have space animal lungs and a heart with
+        pressure immunity.
+  id: 520
+  time: '2025-06-16T00:50:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/838
