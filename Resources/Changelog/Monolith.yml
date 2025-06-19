@@ -4472,3 +4472,14 @@ Entries:
   id: 534
   time: '2025-06-19T06:35:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/855
+- author: mikusssssss
+  changes:
+    - type: Add
+      message: Welders have received an overhaul in speed and capacity
+    - type: Tweak
+      message: Experimental welder now regenerates 10 units per tick
+    - type: Fix
+      message: Welder descriptions no longer have spelling mistakes
+  id: 535
+  time: '2025-06-19T06:36:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/853
