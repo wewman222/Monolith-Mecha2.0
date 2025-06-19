@@ -4424,3 +4424,10 @@ Entries:
   id: 528
   time: '2025-06-19T06:17:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/857
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: base maxspeed of shuttles now 60 m/s.
+  id: 529
+  time: '2025-06-19T06:20:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/865
