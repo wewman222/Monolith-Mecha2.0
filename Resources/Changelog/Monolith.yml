@@ -4526,3 +4526,10 @@ Entries:
   id: 540
   time: '2025-06-19T06:48:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/863
+- author: Ark
+  changes:
+    - type: Fix
+      message: Flares should no longer be gobbled up by the GC.
+  id: 541
+  time: '2025-06-19T07:07:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/873
