@@ -4501,3 +4501,12 @@ Entries:
   id: 537
   time: '2025-06-19T06:39:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/860
+- author: mikusssssss
+  changes:
+    - type: Add
+      message: >-
+        TSFMC vendors (TSFMC Drobe, TSFMCTech) are now anchorable and can
+        therefore be stolen or fixed.
+  id: 538
+  time: '2025-06-19T06:41:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/864
