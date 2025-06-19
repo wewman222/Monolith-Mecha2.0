@@ -4517,3 +4517,12 @@ Entries:
   id: 539
   time: '2025-06-19T06:45:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/851
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: >-
+        A-Class gas chambers removable flooring, added 2 gas miners in atmos
+        room
+  id: 540
+  time: '2025-06-19T06:48:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/863
