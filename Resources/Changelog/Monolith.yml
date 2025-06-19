@@ -4533,3 +4533,10 @@ Entries:
   id: 541
   time: '2025-06-19T07:07:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/873
+- author: Ark
+  changes:
+    - type: Fix
+      message: Maybe fixed an issue with materials from lathes disappearing during FTL.
+  id: 542
+  time: '2025-06-19T07:20:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/874
