@@ -4510,3 +4510,10 @@ Entries:
   id: 538
   time: '2025-06-19T06:41:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/864
+- author: DisguisedBear
+  changes:
+    - type: Tweak
+      message: Buffed Dymere
+  id: 539
+  time: '2025-06-19T06:45:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/851
