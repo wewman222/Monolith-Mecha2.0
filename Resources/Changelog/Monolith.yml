@@ -4483,3 +4483,14 @@ Entries:
   id: 535
   time: '2025-06-19T06:36:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/853
+- author: mikusssssss
+  changes:
+    - type: Fix
+      message: Encryption keys now match the radio channels they allow access to
+    - type: Fix
+      message: >-
+        Freelance implanter isn't false advertising anymore and is named the
+        insurgency implanter appropriately
+  id: 536
+  time: '2025-06-19T06:37:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/868
