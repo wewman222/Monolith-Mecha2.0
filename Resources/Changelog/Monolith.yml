@@ -4438,3 +4438,10 @@ Entries:
   id: 530
   time: '2025-06-19T06:22:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/856
+- author: mikusssssss
+  changes:
+    - type: Fix
+      message: D.E.X hands are printable in exo fabs again
+  id: 531
+  time: '2025-06-19T06:24:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/859
