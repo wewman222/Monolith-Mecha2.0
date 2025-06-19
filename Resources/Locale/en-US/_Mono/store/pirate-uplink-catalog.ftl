@@ -56,8 +56,8 @@ uplink-pirate-radio-jammer-desc = This device will disrupt any nearby outgoing r
 uplink-pirate-hypopen-name = Hypopen
 uplink-pirate-hypopen-desc = A chemical hypospray disguised as a pen, capable of instantly injecting up to 10u of reagents. Starts empty.
 
-uplink-pirate-implanter-freelance-name = Freelance Implanter
-uplink-pirate-implanter-freelance-desc = Implants a Freelance radio, allowing covert communication without a headset.
+uplink-pirate-implanter-freelance-name = Insurgency Implanter
+uplink-pirate-implanter-freelance-desc = Implants an Insurgency radio, allowing covert communication without a headset.
 
 uplink-pirate-emag-name = Cryptographic Sequencer
 uplink-pirate-emag-desc = A multipurpose hacking device that can configure the ways some machines work.
