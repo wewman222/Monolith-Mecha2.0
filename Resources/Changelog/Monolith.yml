@@ -4463,3 +4463,12 @@ Entries:
   id: 533
   time: '2025-06-19T06:34:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/850
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Contravends anchorable
+    - type: Tweak
+      message: LP Bravo contravends can't be dismantled
+  id: 534
+  time: '2025-06-19T06:35:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/855
