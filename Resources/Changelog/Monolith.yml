@@ -4494,3 +4494,10 @@ Entries:
   id: 536
   time: '2025-06-19T06:37:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/868
+- author: BlueHNT
+  changes:
+    - type: Remove
+      message: Removed hope! (and the ability to print IPC torso)
+  id: 537
+  time: '2025-06-19T06:39:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/860
