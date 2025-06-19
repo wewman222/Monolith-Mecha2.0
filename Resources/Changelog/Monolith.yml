@@ -4454,3 +4454,12 @@ Entries:
   id: 532
   time: '2025-06-19T06:25:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/861
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Bigger species can fit into bluespace bags
+    - type: Fix
+      message: Bluespace duffelbags are now full bag of holding sized
+  id: 533
+  time: '2025-06-19T06:34:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/850
