@@ -4431,3 +4431,10 @@ Entries:
   id: 529
   time: '2025-06-19T06:20:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/865
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds the radio jammer to rogue uplink.
+  id: 530
+  time: '2025-06-19T06:22:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/856
