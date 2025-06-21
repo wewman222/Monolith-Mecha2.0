@@ -4593,3 +4593,12 @@ Entries:
   id: 548
   time: '2025-06-21T10:48:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/867
+- author: core-mene
+  changes:
+    - type: Tweak
+      message: >-
+        added more plastitanium armor,changed its layout and added/upgraded
+        armement and modified description
+  id: 549
+  time: '2025-06-21T10:49:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/866
