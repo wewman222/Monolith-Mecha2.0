@@ -4540,3 +4540,14 @@ Entries:
   id: 542
   time: '2025-06-19T07:20:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/874
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: >-
+        Tweaked `57mm Dravon` and `Energy Marauder` statistics to be more
+        efficient
+    - type: Fix
+      message: Fixed 90mm Autocannon statistics
+  id: 543
+  time: '2025-06-21T10:37:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/891
