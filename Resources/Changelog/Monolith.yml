@@ -4551,3 +4551,10 @@ Entries:
   id: 543
   time: '2025-06-21T10:37:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/891
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Fixes some deletions of space garbage.
+  id: 544
+  time: '2025-06-21T10:41:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/881
