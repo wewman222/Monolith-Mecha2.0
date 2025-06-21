@@ -4602,3 +4602,14 @@ Entries:
   id: 549
   time: '2025-06-21T10:49:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/866
+- author: mikusssssss
+  changes:
+    - type: Tweak
+      message: >-
+        Almost every, if not all whitelist-only roles have had their time
+        requirements lowered
+    - type: Tweak
+      message: DoC requirements have been raised because of general incompetence
+  id: 550
+  time: '2025-06-21T10:50:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/898
