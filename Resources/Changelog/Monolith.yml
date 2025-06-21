@@ -4583,3 +4583,13 @@ Entries:
   id: 547
   time: '2025-06-21T10:46:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/886
+- author: core-mene
+  changes:
+    - type: Tweak
+      message: >-
+        Added additional plastitanium armor, ship cannons (including 90mms and
+        203mm canon), buffed starting gears spawning on ship including:
+        replacing EVA with hardsuit and spawning crates in cargo bay
+  id: 548
+  time: '2025-06-21T10:48:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/867
