@@ -4558,3 +4558,12 @@ Entries:
   id: 544
   time: '2025-06-21T10:41:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/881
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: >-
+        Added 2 USSP Modsuits (Varyaga & Zastavnik) into loadouts for high
+        prices.
+  id: 545
+  time: '2025-06-21T10:43:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/892
