@@ -4613,3 +4613,10 @@ Entries:
   id: 550
   time: '2025-06-21T10:50:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/898
+- author: mikusssssss
+  changes:
+    - type: Fix
+      message: TSF Brig medics no longer get 20 FMC round start. Sorry brig-colonels.
+  id: 551
+  time: '2025-06-21T23:55:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/900
