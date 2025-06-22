@@ -4664,3 +4664,10 @@ Entries:
   id: 555
   time: '2025-06-22T04:45:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/884
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Wreck deleting re-added to existence. This should probably help.
+  id: 556
+  time: '2025-06-22T08:16:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/908
