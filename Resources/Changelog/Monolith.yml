@@ -4620,3 +4620,10 @@ Entries:
   id: 551
   time: '2025-06-21T23:55:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/900
+- author: Ark
+  changes:
+    - type: Fix
+      message: Clothing storage should work now.
+  id: 552
+  time: '2025-06-22T03:25:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/904
