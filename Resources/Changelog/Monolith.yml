@@ -4710,3 +4710,10 @@ Entries:
   id: 559
   time: '2025-06-22T17:19:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/915
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Ship's company labels are now based off the ID card you use.
+  id: 560
+  time: '2025-06-22T23:04:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/923
