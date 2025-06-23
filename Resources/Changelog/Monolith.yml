@@ -4724,3 +4724,10 @@ Entries:
   id: 561
   time: '2025-06-23T00:10:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/924
+- author: core-mene
+  changes:
+    - type: Tweak
+      message: LP Bravo difficulty tweak
+  id: 562
+  time: '2025-06-23T00:18:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/912
