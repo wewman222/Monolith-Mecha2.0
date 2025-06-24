@@ -4752,3 +4752,12 @@ Entries:
   id: 565
   time: '2025-06-24T05:46:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/936
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds the Hydra to the Syndicate Shipyard.
+    - type: Tweak
+      message: Revamps the Infiltrator and Hunter
+  id: 566
+  time: '2025-06-24T05:48:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/941
