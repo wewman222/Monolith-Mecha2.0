@@ -4761,3 +4761,10 @@ Entries:
   id: 566
   time: '2025-06-24T05:48:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/941
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Southern peaks color less dark
+  id: 567
+  time: '2025-06-24T05:49:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/910
