@@ -4738,3 +4738,10 @@ Entries:
   id: 563
   time: '2025-06-24T05:32:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/942
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Biosynth head printable for real this time
+  id: 564
+  time: '2025-06-24T05:33:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/932
