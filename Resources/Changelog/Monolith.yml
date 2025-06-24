@@ -4789,3 +4789,10 @@ Entries:
   id: 570
   time: '2025-06-24T07:30:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/943
+- author: BeeRobynn
+  changes:
+    - type: Add
+      message: Added a crafting recipie for AI cores. Scientists, rejoice!
+  id: 571
+  time: '2025-06-24T07:58:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/933
