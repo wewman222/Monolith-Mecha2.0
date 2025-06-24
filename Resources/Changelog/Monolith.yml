@@ -4803,3 +4803,10 @@ Entries:
   id: 572
   time: '2025-06-24T09:50:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/949
+- author: Ark
+  changes:
+    - type: Tweak
+      message: NPCs that are not near players should now pause.
+  id: 573
+  time: '2025-06-24T10:23:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/950
