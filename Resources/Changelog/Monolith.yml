@@ -4768,3 +4768,10 @@ Entries:
   id: 567
   time: '2025-06-24T05:49:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/910
+- author: sleepyyapril
+  changes:
+    - type: Add
+      message: Ported Frontier's asteroid belt debris changes
+  id: 568
+  time: '2025-06-24T06:02:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/909
