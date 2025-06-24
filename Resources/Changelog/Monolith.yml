@@ -4796,3 +4796,10 @@ Entries:
   id: 571
   time: '2025-06-24T07:58:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/933
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Projectiles now go through railing.
+  id: 572
+  time: '2025-06-24T09:50:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/949
