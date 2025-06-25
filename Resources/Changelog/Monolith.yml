@@ -4819,3 +4819,10 @@ Entries:
   id: 574
   time: '2025-06-25T23:35:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/899
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: shortwave radio range now 750m
+  id: 575
+  time: '2025-06-25T23:36:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/962
