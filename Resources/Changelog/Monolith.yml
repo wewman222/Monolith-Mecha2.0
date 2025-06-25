@@ -4826,3 +4826,12 @@ Entries:
   id: 575
   time: '2025-06-25T23:36:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/962
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Solar flare no longer opens doors
+    - type: Tweak
+      message: Solar flare jams more channels at random
+  id: 576
+  time: '2025-06-25T23:37:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/963
