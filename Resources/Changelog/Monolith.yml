@@ -4810,3 +4810,12 @@ Entries:
   id: 573
   time: '2025-06-24T10:23:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/950
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added various additions for baristas (Teas, Powders, Cups, Snacks)
+    - type: Tweak
+      message: Updated maps with the BaristaVend (TO,TM,CO kitchens)
+  id: 574
+  time: '2025-06-25T23:35:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/899
