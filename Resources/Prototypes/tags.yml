@@ -115,7 +115,9 @@
 # SPDX-FileCopyrightText: 2025 Ark
 # SPDX-FileCopyrightText: 2025 August Sun
 # SPDX-FileCopyrightText: 2025 BeeRobynn
+# SPDX-FileCopyrightText: 2025 Blu
 # SPDX-FileCopyrightText: 2025 BlueHNT
+# SPDX-FileCopyrightText: 2025 Luna "YuNii" Henrich
 # SPDX-FileCopyrightText: 2025 Momo
 # SPDX-FileCopyrightText: 2025 ScarKy0
 # SPDX-FileCopyrightText: 2025 SlamBamActionman
@@ -137,7 +139,7 @@
 
 - type: Tag # Mono
   id: AdvancedLaserPistol
-  
+
 - type: Tag
   id: AICoreElectronics
 
@@ -152,6 +154,9 @@
 
 - type: Tag
   id: AirSensor
+
+- type: Tag
+  id: AllowBiomeLoading # Entities with this tag will load terrain, even if a ghost.
 
 - type: Tag
   id: AllowGhostShownByEvent
@@ -1151,7 +1156,7 @@
 
 - type: Tag
   id: PlushieSharkPink
-  
+
 - type: Tag
   id: Posibrain
 
@@ -1172,6 +1177,9 @@
 
 - type: Tag
   id: Powerdrill
+
+- type: Tag
+  id: PreventAccessLogging
 
 - type: Tag
   id: PrisonUniform
