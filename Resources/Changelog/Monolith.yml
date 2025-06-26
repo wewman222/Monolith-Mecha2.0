@@ -4867,3 +4867,10 @@ Entries:
   id: 580
   time: '2025-06-26T01:43:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/959
+- author: Durk
+  changes:
+    - type: Remove
+      message: Removed lag!
+  id: 581
+  time: '2025-06-26T06:35:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/971
