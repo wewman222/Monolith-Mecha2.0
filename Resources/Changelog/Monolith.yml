@@ -4897,3 +4897,10 @@ Entries:
   id: 584
   time: '2025-06-26T22:54:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/979
+- author: KM-Catman
+  changes:
+    - type: Tweak
+      message: Dram now costs 35250 and comes with a Uranium Generator.
+  id: 585
+  time: '2025-06-26T22:56:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/981
