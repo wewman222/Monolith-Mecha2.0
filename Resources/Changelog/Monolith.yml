@@ -4835,3 +4835,10 @@ Entries:
   id: 576
   time: '2025-06-25T23:37:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/963
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported wallet keybinds (smart-equip and open wallet) from Frontier.
+  id: 577
+  time: '2025-06-26T01:29:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/968
