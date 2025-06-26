@@ -4874,3 +4874,10 @@ Entries:
   id: 581
   time: '2025-06-26T06:35:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/971
+- author: Ark
+  changes:
+    - type: Tweak
+      message: AI cores now have to be anchored to interact with anything.
+  id: 582
+  time: '2025-06-26T10:25:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/974
