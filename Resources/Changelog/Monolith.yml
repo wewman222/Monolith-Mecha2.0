@@ -4842,3 +4842,10 @@ Entries:
   id: 577
   time: '2025-06-26T01:29:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/968
+- author: sleepyyapril
+  changes:
+    - type: Add
+      message: TSFMC Colonels get a ship voucher now!
+  id: 578
+  time: '2025-06-26T01:33:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/969
