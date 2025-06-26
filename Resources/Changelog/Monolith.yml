@@ -4881,3 +4881,12 @@ Entries:
   id: 582
   time: '2025-06-26T10:25:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/974
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: >-
+        Pressing Scan will no longer force you to press the FTL button twice to
+        get your FTL preview back.
+  id: 583
+  time: '2025-06-26T10:46:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/973
