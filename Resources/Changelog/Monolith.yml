@@ -4860,3 +4860,10 @@ Entries:
   id: 579
   time: '2025-06-26T01:35:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/913
+- author: plethorian
+  changes:
+    - type: Add
+      message: Added the Spessbite shuttle to CO Shipyard
+  id: 580
+  time: '2025-06-26T01:43:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/959
