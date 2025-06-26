@@ -4849,3 +4849,14 @@ Entries:
   id: 578
   time: '2025-06-26T01:33:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/969
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: >-
+        Kargil and Bofors now pack a real punch, while keeping a considerable
+        delay between the shots.
+    - type: Add
+      message: Adds guidebook entries for Kargil/Bofors/Smerchs
+  id: 579
+  time: '2025-06-26T01:35:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/913
