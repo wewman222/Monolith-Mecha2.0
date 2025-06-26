@@ -4890,3 +4890,10 @@ Entries:
   id: 583
   time: '2025-06-26T10:46:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/973
+- author: plethorian
+  changes:
+    - type: Fix
+      message: added missing reagent grinder to the Spessbite
+  id: 584
+  time: '2025-06-26T22:54:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/979
