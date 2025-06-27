@@ -4904,3 +4904,10 @@ Entries:
   id: 585
   time: '2025-06-26T22:56:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/981
+- author: Ark
+  changes:
+    - type: Fix
+      message: Spawns might be fixed, did not test thoroughly.
+  id: 586
+  time: '2025-06-27T00:45:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/984
