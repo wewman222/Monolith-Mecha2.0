@@ -4911,3 +4911,10 @@ Entries:
   id: 586
   time: '2025-06-27T00:45:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/984
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Sorted your round end summary.
+  id: 587
+  time: '2025-06-27T05:50:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/989
