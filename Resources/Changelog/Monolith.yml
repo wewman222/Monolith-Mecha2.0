@@ -4940,3 +4940,12 @@ Entries:
   id: 589
   time: '2025-06-28T02:23:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/994
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Most rifles were buffed. No, not the Annie or the WSPR.
+    - type: Tweak
+      message: The Vulcan can hit the broad-side of a barn again.
+  id: 590
+  time: '2025-06-28T02:25:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/995
