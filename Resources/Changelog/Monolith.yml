@@ -4956,3 +4956,10 @@ Entries:
   id: 591
   time: '2025-06-28T09:04:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/929
+- author: bluebrouny
+  changes:
+    - type: Add
+      message: The Ruby science ship!
+  id: 592
+  time: '2025-06-28T09:06:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/920
