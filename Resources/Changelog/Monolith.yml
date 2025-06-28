@@ -4949,3 +4949,10 @@ Entries:
   id: 590
   time: '2025-06-28T02:25:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/995
+- author: Mowmow
+  changes:
+    - type: Add
+      message: Adds the BBI Leaf, a new botanical ship, to the civilian shipyard.
+  id: 591
+  time: '2025-06-28T09:04:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/929
