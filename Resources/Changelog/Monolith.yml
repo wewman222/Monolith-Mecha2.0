@@ -5027,3 +5027,18 @@ Entries:
   id: 598
   time: '2025-06-29T02:47:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1005
+- author: BlueHNT
+  changes:
+    - type: Fix
+      message: Fixed decaf and syndicatetea recipes not being present
+    - type: Tweak
+      message: Updates YorkshireTea location and price
+    - type: Tweak
+      message: Updates SyndieTea price
+    - type: Fix
+      message: Removes liquid from teapot
+    - type: Add
+      message: Adds tea mugs to BaristaVend
+  id: 599
+  time: '2025-06-29T03:15:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/975
