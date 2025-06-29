@@ -8,31 +8,32 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: vessel
-  id: Vega
+  id: Scorpion
   parent: BaseVesselAntag
-  name: ASR Vega
-  description: A frame manufactured from the remains of mothballed TSFMC ships. Carries a single CYREXA as its main armament.
-  price: 71450
+  name: ASR Scorpion
+  description: An unusual variant from the same shipyards manufacturing Anacondas, using a mix of missile pods and 2 large-caliber cannons.
+  price: 122500
   category: Medium
   group: BlackMarket
-  shuttlePath: /Maps/_Mono/Shuttles/BlackMarket/vega.yml
+  shuttlePath: /Maps/_Mono/Shuttles/BlackMarket/scorpion.yml
   guidebookPage: Null
   class:
   - Pirate
+  - Pursuit
   engine:
-  - AME
+  - Uranium
 
 - type: gameMap
-  id: Vega
-  mapName: 'ASR Vega'
-  mapPath: /Maps/_Mono/Shuttles/BlackMarket/vega.yml
+  id: Scorpion
+  mapName: 'ASR Scorpion'
+  mapPath: /Maps/_Mono/Shuttles/BlackMarket/scorpion.yml
   minPlayers: 0
   stations:
-    Vega:
+    Scorpion:
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Vega RG{1}'
+          mapNameTemplate: 'Scorpion RG{1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
