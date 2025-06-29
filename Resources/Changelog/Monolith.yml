@@ -4982,3 +4982,22 @@ Entries:
   id: 594
   time: '2025-06-28T22:54:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/919
+- author: starch70
+  changes:
+    - type: Add
+      message: Added MR-8B LWMMG.
+    - type: Add
+      message: Added MR-8C and MR-8B to TSFMC uplink.
+    - type: Add
+      message: Added Scorpion to Rogue shipyard.
+    - type: Tweak
+      message: LMGs now have a slowdown when wielded.
+    - type: Tweak
+      message: MR-8C no longer C3 contra. Now its C2.
+    - type: Tweak
+      message: Serpent is now access restricted to Colonel.
+    - type: Fix
+      message: Fixed Vulture using RSIC IFF prefix instead of RG.
+  id: 595
+  time: '2025-06-29T02:38:02.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1007
