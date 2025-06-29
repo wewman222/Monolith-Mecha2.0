@@ -5056,3 +5056,12 @@ Entries:
   id: 601
   time: '2025-06-29T07:37:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1010
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        There is now an option to disable radio chatter and I lowered the
+        volume.
+  id: 602
+  time: '2025-06-29T07:41:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1012
