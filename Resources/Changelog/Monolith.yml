@@ -5049,3 +5049,10 @@ Entries:
   id: 600
   time: '2025-06-29T04:54:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/939
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Trashbags actually toggleable now
+  id: 601
+  time: '2025-06-29T07:37:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1010
