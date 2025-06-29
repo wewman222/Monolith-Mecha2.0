@@ -5018,3 +5018,12 @@ Entries:
   id: 597
   time: '2025-06-29T02:46:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1006
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: ruby price adjusted for appraisal
+    - type: Fix
+      message: ghost spawn on ruby removed
+  id: 598
+  time: '2025-06-29T02:47:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1005
