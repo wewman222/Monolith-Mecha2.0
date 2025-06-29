@@ -5008,3 +5008,13 @@ Entries:
   id: 596
   time: '2025-06-29T02:43:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1008
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Ships are now restricted to ID cards with deed access. You can still
+        grant guest access by allowing others to swipe your unlocked shuttle
+        console, without providing them a copy of your deed.
+  id: 597
+  time: '2025-06-29T02:46:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1006
