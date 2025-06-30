@@ -5178,3 +5178,12 @@ Entries:
   id: 613
   time: '2025-06-30T03:53:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1024
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: >-
+        Added rig, a hybrid cruiser specialised in both salvage and cargo
+        hauling, straight from the DIS. Available to all, for now.
+  id: 614
+  time: '2025-06-30T03:59:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1028
