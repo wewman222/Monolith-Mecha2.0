@@ -5076,3 +5076,10 @@ Entries:
   id: 603
   time: '2025-06-29T10:09:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1013
+- author: ScyronX
+  changes:
+    - type: Tweak
+      message: Unanchored artillery can no longer be fired with a gunnery console!
+  id: 604
+  time: '2025-06-30T00:52:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1014
