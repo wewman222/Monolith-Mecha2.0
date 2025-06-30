@@ -5083,3 +5083,10 @@ Entries:
   id: 604
   time: '2025-06-30T00:52:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1014
+- author: ScyronX
+  changes:
+    - type: Fix
+      message: Fixed secret door sprite
+  id: 605
+  time: '2025-06-30T00:59:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1011
