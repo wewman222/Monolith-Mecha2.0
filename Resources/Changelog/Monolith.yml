@@ -5227,3 +5227,12 @@ Entries:
   id: 618
   time: '2025-06-30T11:27:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1047
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Vulcan now has slightly less slow on wield and increased damage.
+    - type: Tweak
+      message: Gestio fire rate was buffed.
+  id: 619
+  time: '2025-06-30T13:48:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1043
