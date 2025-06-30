@@ -5090,3 +5090,10 @@ Entries:
   id: 605
   time: '2025-06-30T00:59:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1011
+- author: Mr T
+  changes:
+    - type: Add
+      message: Gives Wallmount Substations a UI!
+  id: 606
+  time: '2025-06-30T01:03:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1017
