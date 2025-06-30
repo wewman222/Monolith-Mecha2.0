@@ -5243,3 +5243,12 @@ Entries:
   id: 620
   time: '2025-06-30T14:06:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1049
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: Tweaked Sekunda interior very very slightly.
+    - type: Fix
+      message: Fixed Sekunda pricing and power issues.
+  id: 621
+  time: '2025-06-30T20:06:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1056
