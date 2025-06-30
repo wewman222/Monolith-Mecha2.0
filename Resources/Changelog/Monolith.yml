@@ -5194,3 +5194,14 @@ Entries:
   id: 615
   time: '2025-06-30T04:08:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1018
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Modsuits can now use sprites based on species.
+    - type: Fix
+      message: Resomi Tail Markings now layer properly
+    - type: Add
+      message: Resomi look better in Modsuits
+  id: 616
+  time: '2025-06-30T04:43:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1038
