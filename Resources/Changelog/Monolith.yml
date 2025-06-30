@@ -5291,3 +5291,12 @@ Entries:
   id: 626
   time: '2025-06-30T20:55:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1045
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: >-
+        Changed Sekunda price yet again, from 45k to 55k, as recommended by more
+        experienced mappers.
+  id: 627
+  time: '2025-06-30T23:41:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1060
