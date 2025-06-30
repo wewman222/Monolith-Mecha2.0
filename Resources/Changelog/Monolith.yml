@@ -5187,3 +5187,10 @@ Entries:
   id: 614
   time: '2025-06-30T03:59:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1028
+- author: grandalff
+  changes:
+    - type: Add
+      message: Added a new USSP medical ship - NCS Sekunda
+  id: 615
+  time: '2025-06-30T04:08:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1018
