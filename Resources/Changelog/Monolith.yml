@@ -5171,3 +5171,10 @@ Entries:
   id: 612
   time: '2025-06-30T03:52:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1036
+- author: plethorian
+  changes:
+    - type: Add
+      message: Added the Defector shuttle to the Black Market shipyard
+  id: 613
+  time: '2025-06-30T03:53:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1024
