@@ -5214,3 +5214,16 @@ Entries:
   id: 617
   time: '2025-06-30T09:39:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1042
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: Added fun!
+    - type: Remove
+      message: Removed fun!
+    - type: Tweak
+      message: Changed fun!
+    - type: Fix
+      message: ': DIS rig now has working airlocks'
+  id: 618
+  time: '2025-06-30T11:27:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1047
