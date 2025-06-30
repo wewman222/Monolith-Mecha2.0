@@ -5252,3 +5252,10 @@ Entries:
   id: 621
   time: '2025-06-30T20:06:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1056
+- author: plethorian
+  changes:
+    - type: Fix
+      message: Fixed atmos on the Defector
+  id: 622
+  time: '2025-06-30T20:07:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1051
