@@ -5162,3 +5162,12 @@ Entries:
   id: 611
   time: '2025-06-30T03:50:59.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1019
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: >-
+        Serpents, Europas, and other Capital-class ships can no longer be easily
+        piloted alone.
+  id: 612
+  time: '2025-06-30T03:52:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1036
