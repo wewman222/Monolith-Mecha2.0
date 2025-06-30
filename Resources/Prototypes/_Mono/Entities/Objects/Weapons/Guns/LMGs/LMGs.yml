@@ -84,7 +84,7 @@
       map: ["enum.GunVisualLayers.Mag"]
   - type: GunWieldBonus
     minAngle: -33
-    maxAngle: -37
+    maxAngle: -46
   - type: Gun
     minAngle: 34
     maxAngle: 49
