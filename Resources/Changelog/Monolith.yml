@@ -5284,3 +5284,10 @@ Entries:
   id: 625
   time: '2025-06-30T20:54:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/880
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Camelot can no longer have their guns hijacked.
+  id: 626
+  time: '2025-06-30T20:55:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1045
