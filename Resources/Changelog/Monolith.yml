@@ -5124,3 +5124,21 @@ Entries:
   id: 608
   time: '2025-06-30T03:32:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1020
+- author: Ark
+  changes:
+    - type: Add
+      message: >-
+        Ships are now (again) restricted to ID cards with deed access. You can
+        still grant guest access by allowing others to swipe your unlocked
+        shuttle console, without providing them a copy of your deed.
+    - type: Fix
+      message: Vouchers now grant access to their deed-locked ships.
+    - type: Fix
+      message: Cyborgs can now receive guest access.
+    - type: Fix
+      message: >-
+        TSF, USSP, and Rogue ships are now automatically accessible to their
+        respective faction members.
+  id: 609
+  time: '2025-06-30T03:34:02.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1035
