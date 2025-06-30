@@ -5106,3 +5106,21 @@ Entries:
   id: 607
   time: '2025-06-30T03:20:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1030
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Adjusts basically all relevant combat hardsuit armor values.
+    - type: Remove
+      message: Removes security huds from viper suits
+    - type: Fix
+      message: Command combat tacsuit uplink description/name fixed
+    - type: Tweak
+      message: >-
+        Some DT cost adjustments. Jackal costs more being a proper medium
+        armored suit, smokes and emps for rogues cost more, syndicate mask costs
+        a bit more. Eshield DT cost down.
+    - type: Tweak
+      message: 'TSF esword slightly less pricey. '
+  id: 608
+  time: '2025-06-30T03:32:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1020
