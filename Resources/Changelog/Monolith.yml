@@ -5142,3 +5142,16 @@ Entries:
   id: 609
   time: '2025-06-30T03:34:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1035
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Added the ability to buy vouchers. LT and up can buy a medium sized
+        voucher at 5 FMCs per, Captain can buy a large voucher at 25 FMC per.
+    - type: Tweak
+      message: >-
+        Serpent can be bought by LT and up again. Captains can use their voucher
+        as usual.
+  id: 610
+  time: '2025-06-30T03:44:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1025
