@@ -5236,3 +5236,10 @@ Entries:
   id: 619
   time: '2025-06-30T13:48:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1043
+- author: mikusssssss
+  changes:
+    - type: Fix
+      message: Biofabricator can be printed again. One less frontier holdover.
+  id: 620
+  time: '2025-06-30T14:06:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1049
