@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2025 Blu
 # SPDX-FileCopyrightText: 2025 NotActuallyMarty
+# SPDX-FileCopyrightText: 2025 Redrover1760
 # SPDX-FileCopyrightText: 2025 starch
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
@@ -36,10 +37,10 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
-        shader: unshaded
 
 - type: entity
   parent: ClothingHandsBase
@@ -73,7 +74,8 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
 
@@ -109,7 +111,8 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
 
@@ -145,7 +148,8 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
 
@@ -181,9 +185,12 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
+      gloves-resomi:
+      - state: equipped-HAND-sealed-resomi
 
 - type: entity
   parent: ClothingHandsBase
@@ -217,9 +224,12 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
+      gloves-resomi:
+      - state: equipped-HAND-sealed-resomi
 
 - type: entity
   parent: ClothingHandsBase
@@ -253,7 +263,8 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
 
@@ -276,6 +287,11 @@
     equipSound: /Audio/Mecha/mechmove03.ogg
     unequipSound: /Audio/Mecha/mechmove03.ogg
     slots: [ gloves ]
+    clothingVisuals:
+        hands:
+        - state: equipped-HAND
+        hands-resomi:
+        - state: equipped-HAND-resomi
   - type: DamageOnInteractProtection
     damageProtection:
       flatReductions:
@@ -289,6 +305,9 @@
     sealUpPopup: sealable-clothing-seal-up-gauntlets
     sealDownPopup: sealable-clothing-seal-down-gauntlets
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       gloves:
       - state: equipped-HAND-sealed
+      gloves-resomi:
+      - state: equipped-HAND-sealed-resomi

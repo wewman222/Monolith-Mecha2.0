@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2025 Blu
+# SPDX-FileCopyrightText: 2025 NotActuallyMarty
 # SPDX-FileCopyrightText: 2025 Redrover1760
 # SPDX-FileCopyrightText: 2025 starch
 #
@@ -34,10 +35,10 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
-        shader: unshaded
 
 - type: entity
   parent: ClothingShoesBase
@@ -69,7 +70,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -103,7 +105,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -137,7 +140,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -171,7 +175,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -205,7 +210,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -239,7 +245,8 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed
 
@@ -273,6 +280,7 @@
   - type: NoSlip
   - type: Magboots
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       shoes:
       - state: equipped-FEET-sealed

@@ -76,10 +76,10 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
   - type: Construction
     graph: Modsuit
     node: standard
@@ -169,10 +169,10 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
   - type: Construction
     graph: Modsuit
     node: security
@@ -212,6 +212,11 @@
     quickEquip: false
     slots:
     - back
+    clothingVisuals:
+      back:
+      - state: equipped-BACKPACK
+      back-resomi:
+      - state: equipped-BACKPACK-resomi
   - type: Storage
     grid:
     - 0,0,6,3
@@ -262,10 +267,12 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
+      back-resomi:
+      - state: equipped-BACKPACK-sealed-resomi
   - type: Construction
     graph: Modsuit
     node: headofsecurity
@@ -357,10 +364,10 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
   - type: Construction
     graph: Modsuit
     node: paramedic
@@ -450,10 +457,12 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
+      back-resomi:
+      - state: equipped-BACKPACK-sealed-resomi
   - type: Construction
     graph: Modsuit
     node: engineer
@@ -543,10 +552,12 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
+      back-resomi:
+      - state: equipped-BACKPACK-sealed-resomi
   - type: Construction
     graph: Modsuit
     node: atmostech
@@ -636,10 +647,10 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
   - type: Construction
     graph: Modsuit
     node: rd
@@ -731,10 +742,12 @@
   - type: SealableClothingControl
   - type: SealableClothingRequiresPower
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       back:
       - state: equipped-BACKPACK-sealed
-        shader: unshaded
+      back-resomi:
+      - state: equipped-BACKPACK-sealed-resomi
   - type: Construction
     graph: Modsuit
     node: captain

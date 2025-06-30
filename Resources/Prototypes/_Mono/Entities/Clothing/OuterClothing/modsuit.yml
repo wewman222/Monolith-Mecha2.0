@@ -31,7 +31,8 @@
     sealUpPopup: sealable-clothing-seal-up-chestplate
     sealDownPopup: sealable-clothing-seal-down-chestplate
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
   - type: ExplosionResistance
@@ -85,7 +86,8 @@
     sealUpPopup: sealable-clothing-seal-up-chestplate
     sealDownPopup: sealable-clothing-seal-down-chestplate
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
   - type: ExplosionResistance
@@ -136,10 +138,10 @@
     sealUpPopup: sealable-clothing-seal-up-chestplate
     sealDownPopup: sealable-clothing-seal-down-chestplate
   - type: SealableClothingVisuals
-    visualLayers:
+    spriteLayer: sealed
+    clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
-        shader: unshaded
   - type: ExplosionResistance
     damageCoefficient: 0.4
   - type: StaminaDamageResistance
