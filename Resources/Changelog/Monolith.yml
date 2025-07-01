@@ -5391,3 +5391,12 @@ Entries:
   id: 636
   time: '2025-07-01T22:49:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1072
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        DIS Pluto & DIS Rig now brandish DI's emblem. DIS Rig's price 59 900 ->
+        75 000
+  id: 637
+  time: '2025-07-01T22:56:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1071
