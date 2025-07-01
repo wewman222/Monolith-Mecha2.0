@@ -5400,3 +5400,10 @@ Entries:
   id: 637
   time: '2025-07-01T22:56:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1071
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Made hitboxes the same for everyone, no matter your height and width.
+  id: 638
+  time: '2025-07-01T23:40:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1074
