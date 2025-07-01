@@ -5316,3 +5316,10 @@ Entries:
   id: 629
   time: '2025-07-01T00:17:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1052
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: The cargo sale UI got a bit of an overhaul.
+  id: 630
+  time: '2025-07-01T01:49:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1059
