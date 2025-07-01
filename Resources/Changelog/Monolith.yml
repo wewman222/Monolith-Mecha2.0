@@ -5300,3 +5300,12 @@ Entries:
   id: 627
   time: '2025-06-30T23:41:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1060
+- author: Ark
+  changes:
+    - type: Fix
+      message: AI cores can now open deed-locked airlocks.
+    - type: Tweak
+      message: AI cores will now say they are powered and not un-powered.
+  id: 628
+  time: '2025-07-01T00:03:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1062
