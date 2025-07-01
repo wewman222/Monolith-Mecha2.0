@@ -5345,3 +5345,10 @@ Entries:
   id: 632
   time: '2025-07-01T02:22:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1064
+- author: Ark
+  changes:
+    - type: Tweak
+      message: You can now turn off the ship access lock.
+  id: 633
+  time: '2025-07-01T05:00:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1066
