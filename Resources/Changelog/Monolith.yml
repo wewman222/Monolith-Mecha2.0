@@ -5423,3 +5423,10 @@ Entries:
   id: 640
   time: '2025-07-02T00:00:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1075
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Dead Drop scanning now rewards the correct amount
+  id: 641
+  time: '2025-07-02T02:31:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1077
