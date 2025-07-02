@@ -5499,3 +5499,20 @@ Entries:
   id: 648
   time: '2025-07-02T21:05:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1041
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: >-
+        Added a higher tier of tacsuits for redeeming as Rogue advanced tacsuits
+        like the TSF M92 or USSP Modsuits.
+    - type: Tweak
+      message: >-
+        Refactored Rogue Bounties to include USSP versions and renamed entires
+        from `TSF` to `Faction` based.
+    - type: Fix
+      message: >-
+        Fixed not being able to redeem cybernetic limbs as Rogue in the
+        bounties.
+  id: 649
+  time: '2025-07-02T21:11:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1094
