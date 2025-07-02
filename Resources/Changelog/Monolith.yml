@@ -5532,3 +5532,12 @@ Entries:
   id: 651
   time: '2025-07-02T21:12:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1070
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Ctla startup increased from 2.5 to 4.2, cooldown from 5 to 7.5, and
+        travel time from 10 to 15.
+  id: 652
+  time: '2025-07-02T21:14:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1093
