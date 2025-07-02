@@ -5516,3 +5516,12 @@ Entries:
   id: 649
   time: '2025-07-02T21:11:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1094
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: USSP can give access with card console
+    - type: Fix
+      message: Colonel could open Rogue locked doors
+  id: 650
+  time: '2025-07-02T21:12:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1088
