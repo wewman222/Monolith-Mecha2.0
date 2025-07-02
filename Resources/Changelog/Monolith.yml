@@ -5416,3 +5416,10 @@ Entries:
   id: 639
   time: '2025-07-01T23:42:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1073
+- author: Ark
+  changes:
+    - type: Remove
+      message: Trade Outpost removed from rotation. Trade Mall forever!
+  id: 640
+  time: '2025-07-02T00:00:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1075
