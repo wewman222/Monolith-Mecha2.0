@@ -5470,3 +5470,14 @@ Entries:
   id: 645
   time: '2025-07-02T07:24:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1082
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Raised price of MR-8C, MR-8B, Ashstorm
+    - type: Tweak
+      message: MR-8C gets full-auto now.
+    - type: Tweak
+      message: TM has plastitanium outpost walls for exterior walls now.
+  id: 646
+  time: '2025-07-02T07:41:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1084
