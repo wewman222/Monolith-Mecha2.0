@@ -5481,3 +5481,14 @@ Entries:
   id: 646
   time: '2025-07-02T07:41:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1084
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        the Big One returns. Colonel-access locked. I do not care about the
+        balance consequences of this.
+    - type: Tweak
+      message: new texture for charon + speed buff for charon (900 -> 1250 m/s)
+  id: 647
+  time: '2025-07-02T12:16:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1089
