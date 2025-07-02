@@ -5548,3 +5548,16 @@ Entries:
   id: 653
   time: '2025-07-02T21:58:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1101
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added Prowler as a fullcloak ship for rogues (and thus support for
+        future fullcloak ships)
+    - type: Tweak
+      message: Changed Colonel ship voucher to not be able to buy Flyssa.
+    - type: Tweak
+      message: Greatly increased Flyssa price. (~1.2m now after feedback)
+  id: 654
+  time: '2025-07-02T23:45:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1102
