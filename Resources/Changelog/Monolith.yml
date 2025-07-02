@@ -5444,3 +5444,18 @@ Entries:
   id: 643
   time: '2025-07-02T06:00:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1078
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: >-
+        Fentanyl is no longer easier for rogues than anyone else, removing the
+        default recipe's need for carpotoxin.
+    - type: Tweak
+      message: >-
+        Fentanyl's sell price was halved, mostly as a balance for all sides
+        being able to get it much easier.
+    - type: Remove
+      message: 'The vestine recipe for fentanyl was removed. '
+  id: 644
+  time: '2025-07-02T07:23:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1083
