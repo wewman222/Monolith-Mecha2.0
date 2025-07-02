@@ -5459,3 +5459,14 @@ Entries:
   id: 644
   time: '2025-07-02T07:23:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1083
+- author: crazy1112345
+  changes:
+    - type: Tweak
+      message: >-
+        Increased the Edison Power Plant gas sell multiplier to 1.5x, from
+        1.25x.
+    - type: Fix
+      message: Fixed various issues with Edison Power Plant.
+  id: 645
+  time: '2025-07-02T07:24:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1082
