@@ -5430,3 +5430,10 @@ Entries:
   id: 641
   time: '2025-07-02T02:31:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1077
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Super Surplus updated for 5x tc cost
+  id: 642
+  time: '2025-07-02T04:48:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1080
