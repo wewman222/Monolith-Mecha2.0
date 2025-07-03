@@ -5568,3 +5568,18 @@ Entries:
   id: 655
   time: '2025-07-03T02:01:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1104
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Rogues now need a commander to adjust slots on ships/hideout.
+    - type: Tweak
+      message: Rogues no longer get infinite slots.
+    - type: Tweak
+      message: Prowler price has been increased.
+    - type: Tweak
+      message: >-
+        Punct, omni, meth, and dexalin no longer like to mix. Go get a new strat
+        losers.
+  id: 656
+  time: '2025-07-03T05:13:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1106
