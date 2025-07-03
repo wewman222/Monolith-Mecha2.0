@@ -5637,3 +5637,18 @@ Entries:
   id: 662
   time: '2025-07-03T13:36:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1116
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        DP-29 and LWMMG LMGs less accurate as a whole. DP-29 functions better in
+        long bursts, LWMMGs in shorter bursts. LWMMG slows you down more.
+    - type: Tweak
+      message: L6 now reasonably accurate. Less slowdown too.
+    - type: Tweak
+      message: >-
+        Subsonic ammo less expensive for rogues/tsf. LWMMG ammo tweaked to be
+        better priced.
+  id: 663
+  time: '2025-07-03T13:42:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1105
