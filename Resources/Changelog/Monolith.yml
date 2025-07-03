@@ -5630,3 +5630,10 @@ Entries:
   id: 661
   time: '2025-07-03T12:42:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1115
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: RPG replaced with China Lake in the rogue uplink.
+  id: 662
+  time: '2025-07-03T13:36:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1116
