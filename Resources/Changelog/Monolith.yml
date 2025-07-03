@@ -5652,3 +5652,14 @@ Entries:
   id: 663
   time: '2025-07-03T13:42:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1105
+- author: OneZerooo0
+  changes:
+    - type: Add
+      message: >-
+        Replaced old TSFMC fob with a newer, fancier version, complete with a
+        'fortress shield' and reactor.
+    - type: Fix
+      message: ADS ships and the Halycon have full damper controls.
+  id: 664
+  time: '2025-07-03T16:07:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/692
