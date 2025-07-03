@@ -15,6 +15,7 @@
   price: 145460
   category: Small
   group: BlackMarket
+  access: RogueCommander
   shuttlePath: /Maps/_Mono/Shuttles/BlackMarket/prowler.yml
   guidebookPage: Null
   class:
