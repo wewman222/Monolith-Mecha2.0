@@ -5601,3 +5601,12 @@ Entries:
   id: 658
   time: '2025-07-03T09:31:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1110
+- author: starch70
+  changes:
+    - type: Tweak
+      message: Lowered Prowler voucher price to 300 DC from 500 DC.
+    - type: Fix
+      message: Fixed Flyssa and Prowler voucher not working.
+  id: 659
+  time: '2025-07-03T10:07:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1111
