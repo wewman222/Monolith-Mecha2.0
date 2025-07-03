@@ -5673,3 +5673,10 @@ Entries:
   id: 665
   time: '2025-07-03T21:06:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1118
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: TSFMCTech has more items in it, especially forensic scanners
+  id: 666
+  time: '2025-07-03T22:21:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1120
