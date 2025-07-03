@@ -5663,3 +5663,13 @@ Entries:
   id: 664
   time: '2025-07-03T16:07:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/692
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: >-
+        Added medical bed to Sekunda, made the heatingpad or whatever you nerds
+        call it into a flatpack, as it breaks otherwise and needs
+        deconstructing, and idk how bugs work. Balls.
+  id: 665
+  time: '2025-07-03T21:06:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1118
