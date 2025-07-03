@@ -5561,3 +5561,10 @@ Entries:
   id: 654
   time: '2025-07-02T23:45:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1102
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Nerfed the LWMMG.
+  id: 655
+  time: '2025-07-03T02:01:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1104
