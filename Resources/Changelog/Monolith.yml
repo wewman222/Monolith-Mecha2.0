@@ -5619,3 +5619,14 @@ Entries:
   id: 660
   time: '2025-07-03T12:37:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1112
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Flyssa/Prowler requires buying a voucher in the uplink to buy
+    - type: Tweak
+      message: Contraband crates give 12 FMC/DC per instead of 15
+    - type: Tweak
+      message: Medipens made pricier
+  id: 661
+  time: '2025-07-03T12:42:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1115
