@@ -1,3 +1,4 @@
+# SPDX-FileCopyrightText: 2025 HungryCuban
 # SPDX-FileCopyrightText: 2025 starch
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
@@ -52,6 +53,20 @@
   - EnergySwordRogue
   technologyPrerequisites:
   - RogueEdagger
+
+- type: technology
+  id: HFSwordTech
+  name: research-technology-rogue-hf-sword
+  icon:
+    sprite: _Mono/Objects/Weapons/Melee/murasama.rsi
+    state: icon
+  discipline: Rogue
+  tier: 3
+  cost: 85000
+  recipeUnlocks:
+  - HFSwordVT7
+  technologyPrerequisites:
+  - RogueEsword
 
 - type: technology
   id: RogueHypospray

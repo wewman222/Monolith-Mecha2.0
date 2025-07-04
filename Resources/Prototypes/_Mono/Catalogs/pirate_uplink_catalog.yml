@@ -2,6 +2,7 @@
 # SPDX-FileCopyrightText: 2025 Blu
 # SPDX-FileCopyrightText: 2025 EctoplasmIsGood
 # SPDX-FileCopyrightText: 2025 Ghost581
+# SPDX-FileCopyrightText: 2025 HungryCuban
 # SPDX-FileCopyrightText: 2025 KiraZen_
 # SPDX-FileCopyrightText: 2025 Redrover1760
 # SPDX-FileCopyrightText: 2025 RikuTheKiller
@@ -736,21 +737,21 @@
       tags:
       - PirateUplink
 
-# - type: listing
-#   id: UplinkPirateVT7
-#   name: uplink-pirate-vt7-name
-#   description: uplink-pirate-vt7-desc
-#   productEntity: WeaponVT7
-#   icon: { sprite: _Mono/Objects/Weapons/Melee/murasama.rsi, state: icon }
-#   cost:
-#     Doubloon: 60
-#   categories:
-#   - UplinkPirateWeapons
-#   conditions:
-#   - !type:StoreWhitelistCondition
-#     whitelist:
-#       tags:
-#       - PirateUplink
+- type: listing
+  id: UplinkPirateVT7
+  name: uplink-pirate-vt7-name
+  description: uplink-pirate-vt7-desc
+  productEntity: WeaponVT7
+  icon: { sprite: _Mono/Objects/Weapons/Melee/murasama.rsi, state: icon }
+  cost:
+     Doubloon: 60
+  categories:
+   - UplinkPirateWeapons
+  conditions:
+   - !type:StoreWhitelistCondition
+     whitelist:
+       tags:
+       - PirateUplink
 
 - type: listing
   id: UplinkPirateC20
