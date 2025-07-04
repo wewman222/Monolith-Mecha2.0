@@ -5725,3 +5725,10 @@ Entries:
   id: 671
   time: '2025-07-04T09:12:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1126
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: Drake industries items part 1 (not mapped yet)
+  id: 672
+  time: '2025-07-04T09:28:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1099
