@@ -5762,3 +5762,10 @@ Entries:
   id: 675
   time: '2025-07-04T10:24:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1128
+- author: grandalff
+  changes:
+    - type: Add
+      message: Added NCS Gruznyk, an armored and armed USSP cargo hauler.
+  id: 676
+  time: '2025-07-04T11:34:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1100
