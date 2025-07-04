@@ -5810,3 +5810,13 @@ Entries:
   id: 679
   time: '2025-07-04T14:41:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1055
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: >-
+        After lot of hair ripping from the ad department. The DIS Brute, a
+        superheavy cruiser-type cargo hauler is out crushing the competition
+        under it's girth.
+  id: 680
+  time: '2025-07-04T15:23:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1058
