@@ -5741,3 +5741,14 @@ Entries:
   id: 673
   time: '2025-07-04T09:30:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1095
+- author: Ark
+  changes:
+    - type: Add
+      message: Spear now is a Stealth Killer ship. Escort your Capitals!
+    - type: Tweak
+      message: Added factions to their respective voucher. Mostly.
+    - type: Tweak
+      message: Prowler DC price reduced (300 DC -> 750 DC).
+  id: 674
+  time: '2025-07-04T09:38:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1127
