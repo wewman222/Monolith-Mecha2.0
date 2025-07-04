@@ -5769,3 +5769,20 @@ Entries:
   id: 676
   time: '2025-07-04T11:34:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1100
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Faction lathes and R&D servers are in TSF and Rogue uplinks now (100
+        FMC/DC for server, 50 FMC/DC for assembler)
+    - type: Tweak
+      message: >-
+        Changed the icon of both Rogue and TSF discipline to the unused
+        biochemical icon. Hopefully temporary. I'm too lazy to sprite a new one.
+    - type: Fix
+      message: >-
+        Fixed Rogue discipline color being nearly identical to Arsenal
+        discipline.
+  id: 677
+  time: '2025-07-04T11:49:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1129
