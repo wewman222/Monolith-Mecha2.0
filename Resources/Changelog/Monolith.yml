@@ -5870,3 +5870,10 @@ Entries:
   id: 685
   time: '2025-07-04T20:03:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1138
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Ships will no longer be made permanently invisible from spears ftling
+  id: 686
+  time: '2025-07-04T20:54:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1139
