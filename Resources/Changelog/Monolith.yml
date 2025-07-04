@@ -5877,3 +5877,13 @@ Entries:
   id: 686
   time: '2025-07-04T20:54:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1139
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: >-
+        Added firelocks, fire alarms, fire extinguishers to NCS Gruznyk and
+        slightly modified hull, so 20mm wont shoot eachother, aswell as adding
+        grilles to the frontmost thrusters.
+  id: 687
+  time: '2025-07-04T22:26:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1141
