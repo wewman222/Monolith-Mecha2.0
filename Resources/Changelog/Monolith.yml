@@ -5732,3 +5732,12 @@ Entries:
   id: 672
   time: '2025-07-04T09:28:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1099
+- author: RealSchepka
+  changes:
+    - type: Add
+      message: >-
+        Added DME Shareholder. An affordable salvage shuttle with a luxurious
+        lounge that, for certain, did not drain the whole budget.
+  id: 673
+  time: '2025-07-04T09:30:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1095
