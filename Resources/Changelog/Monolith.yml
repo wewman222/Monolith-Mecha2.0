@@ -5834,3 +5834,17 @@ Entries:
   id: 682
   time: '2025-07-04T16:33:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1133
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Due to recent nerfs/buffs (Spear AEW, ship limits, etc), the Prowler is
+        now purchasable again (for $300k)
+    - type: Tweak
+      message: >-
+        Ship voucher lathe recipes have had their material costs reduced, and
+        have had the construction time reduced from 240/600 seconds for
+        Prowler/Flyssa to 5/10 seconds.
+  id: 683
+  time: '2025-07-04T18:26:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1134
