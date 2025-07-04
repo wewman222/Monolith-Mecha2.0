@@ -5820,3 +5820,10 @@ Entries:
   id: 680
   time: '2025-07-04T15:23:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1058
+- author: UnicornOnLSD
+  changes:
+    - type: Fix
+      message: fix references to size classes in DIS Pluto and DIS Rig descriptions
+  id: 681
+  time: '2025-07-04T15:26:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1132
