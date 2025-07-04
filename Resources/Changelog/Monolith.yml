@@ -5705,3 +5705,16 @@ Entries:
   id: 669
   time: '2025-07-04T04:21:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1122
+- author: starch70
+  changes:
+    - type: Add
+      message: Added faction-specific research disciplines for TSF and Rogues.
+    - type: Tweak
+      message: >-
+        Rogue base and TSFMC base now use their faction-specific R&D servers.
+        (and now have the assemblers for faction-research gear)
+    - type: Fix
+      message: Fixed new Rogue base not having telecomms or turrets.
+  id: 670
+  time: '2025-07-04T08:11:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1125
