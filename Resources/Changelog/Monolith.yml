@@ -5696,3 +5696,12 @@ Entries:
   id: 668
   time: '2025-07-04T04:19:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1123
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        New Resomi Hardsuit Sprites for most of our hardsuits (Sprites by
+        f0x-n3rd/bloo_slime)
+  id: 669
+  time: '2025-07-04T04:21:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1122
