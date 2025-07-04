@@ -5827,3 +5827,10 @@ Entries:
   id: 681
   time: '2025-07-04T15:26:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1132
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Minor Halcyon edits
+  id: 682
+  time: '2025-07-04T16:33:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1133
