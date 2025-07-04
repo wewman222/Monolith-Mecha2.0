@@ -5857,3 +5857,16 @@ Entries:
   id: 684
   time: '2025-07-04T19:10:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1135
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: >-
+        Researchable VT7 blade to the rogue server and make able in the military
+        fabricator
+    - type: Tweak
+      message: Re adds USSP M-10 (nerfed) suit to the vendor
+    - type: Tweak
+      message: Re adds VT7 high frequency blade to the uplink
+  id: 685
+  time: '2025-07-04T20:03:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1138
