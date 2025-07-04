@@ -5687,3 +5687,12 @@ Entries:
   id: 667
   time: '2025-07-04T02:35:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1121
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Rogue base remapped fully. The frontier dock layouts were too small for
+        12 rogues at once.
+  id: 668
+  time: '2025-07-04T04:19:16.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1123
