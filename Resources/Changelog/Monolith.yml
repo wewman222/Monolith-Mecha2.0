@@ -5752,3 +5752,13 @@ Entries:
   id: 674
   time: '2025-07-04T09:38:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1127
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed some problems and missing shit with the new Rogue hideout.
+        (missing armory, wiring, fuelvend, minor changes in some spaces, station
+        beacons, station maps, etc)
+  id: 675
+  time: '2025-07-04T10:24:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1128
