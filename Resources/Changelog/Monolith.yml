@@ -5887,3 +5887,12 @@ Entries:
   id: 687
   time: '2025-07-04T22:26:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1141
+- author: Ark
+  changes:
+    - type: Fix
+      message: Vouchers should unlock shuttle consoles now.
+    - type: Remove
+      message: Sunset entity-based shuttle console locks.
+  id: 688
+  time: '2025-07-05T01:34:02.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1143
