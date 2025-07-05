@@ -5903,3 +5903,10 @@ Entries:
   id: 689
   time: '2025-07-05T01:37:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1140
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: brute mini overhaul. see PR for proper details
+  id: 690
+  time: '2025-07-05T01:39:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1137
