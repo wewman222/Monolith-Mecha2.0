@@ -5934,3 +5934,10 @@ Entries:
   id: 692
   time: '2025-07-05T04:34:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1145
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Docked ships no longer cause impact damage to each other.
+  id: 693
+  time: '2025-07-05T11:39:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1153
