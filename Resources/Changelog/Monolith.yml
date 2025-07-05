@@ -5979,3 +5979,14 @@ Entries:
   id: 697
   time: '2025-07-05T12:00:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1154
+- author: RealSchepka
+  changes:
+    - type: Add
+      message: Added a voidsuit selector for captain's hardsuit or modsuit
+    - type: Tweak
+      message: >-
+        Removed hardsuits from RD and captain lockers and replaced them with
+        voidsuit selectors
+  id: 698
+  time: '2025-07-05T21:30:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1158
