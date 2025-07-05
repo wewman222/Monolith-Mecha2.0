@@ -5990,3 +5990,10 @@ Entries:
   id: 698
   time: '2025-07-05T21:30:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1158
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: DIS Pluto had a small check-up, check PR for full list.
+  id: 699
+  time: '2025-07-05T21:33:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1163
