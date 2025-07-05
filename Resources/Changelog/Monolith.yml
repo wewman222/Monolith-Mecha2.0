@@ -5948,3 +5948,18 @@ Entries:
   id: 694
   time: '2025-07-05T11:41:40.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1150
+- author: Danchi299
+  changes:
+    - type: Add
+      message: Added stun baton to bounty and less-lethal vendomats.
+    - type: Add
+      message: Added grappling guns for purchase in salvage vendmats.
+    - type: Add
+      message: Added holoflare pistols for purchase in astro and salvage vedomats.
+    - type: Remove
+      message: >-
+        Removed holoflare from less-lethal vendomat. Use salvage and astro
+        vendomats instead.
+  id: 695
+  time: '2025-07-05T11:44:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1147
