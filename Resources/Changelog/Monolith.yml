@@ -5963,3 +5963,12 @@ Entries:
   id: 695
   time: '2025-07-05T11:44:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1147
+- author: starch70
+  changes:
+    - type: Remove
+      message: remove M92-X from uplink pending rework (redrover armor rebalance)
+    - type: Fix
+      message: Fixed TSF engineers not being in the TSF company
+  id: 696
+  time: '2025-07-05T12:00:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1157
