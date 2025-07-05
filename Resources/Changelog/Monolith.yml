@@ -5919,3 +5919,18 @@ Entries:
   id: 691
   time: '2025-07-05T04:26:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1130
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added engineer roles to the TSF flagship, southern engineering is now
+        restricted to Captains, Colonels, and these engineers.
+    - type: Tweak
+      message: >-
+        Engineering modsuits now only spawn on TSF engineers, and engineering
+        suit storages only have hardsuits now.
+    - type: Fix
+      message: Fixed TSF not being able to select an armor vest variant.
+  id: 692
+  time: '2025-07-05T04:34:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1145
