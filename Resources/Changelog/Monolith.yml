@@ -6168,3 +6168,10 @@ Entries:
   id: 713
   time: '2025-07-06T13:35:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1177
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: Tweaked admin erase sound
+  id: 714
+  time: '2025-07-06T13:36:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1176
