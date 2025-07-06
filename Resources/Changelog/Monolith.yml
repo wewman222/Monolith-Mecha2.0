@@ -6184,3 +6184,10 @@ Entries:
   id: 715
   time: '2025-07-06T16:08:21.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1181
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Swords (including VT-7s) are now 2x4 items
+  id: 716
+  time: '2025-07-06T18:58:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1182
