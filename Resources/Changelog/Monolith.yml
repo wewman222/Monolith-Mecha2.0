@@ -6048,3 +6048,27 @@ Entries:
   id: 704
   time: '2025-07-06T06:03:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1166
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added XLR-556 to TSFMC T3 research after MARSOC weapons development
+        node.
+    - type: Tweak
+      message: >-
+        Removed all hardsuits (except starting M73 variants/pirate scaf) from
+        uplinks
+    - type: Add
+      message: >-
+        All TSF/Rogue faction hardsuits (minus colonel hardsuit) are now
+        researchable. Rogues also get syndicate gas mask/webvest, and blood-red
+        magboots available.
+    - type: Fix
+      message: Fixed TSF roles spawning with the wrong pistol magazine.
+    - type: Tweak
+      message: Replaced M93 suit storages on Serpent and Tumour with M73 suit storages.
+    - type: Tweak
+      message: Buffed the TSF engineer/Sapper modsuit stats slightly.
+  id: 705
+  time: '2025-07-06T06:05:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1168
