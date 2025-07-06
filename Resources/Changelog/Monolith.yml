@@ -6113,3 +6113,12 @@ Entries:
   id: 708
   time: '2025-07-06T06:10:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1164
+- author: starch70
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Prowler generator not being set to a high enough output by
+        default.
+  id: 709
+  time: '2025-07-06T06:15:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1171
