@@ -6028,3 +6028,12 @@ Entries:
   id: 702
   time: '2025-07-06T01:53:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1167
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Removed a gaslight about gas filters from the Takeaway guide entry and
+        added info about the thruster toggle
+  id: 703
+  time: '2025-07-06T06:03:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1170
