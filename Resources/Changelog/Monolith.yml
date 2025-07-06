@@ -6072,3 +6072,18 @@ Entries:
   id: 705
   time: '2025-07-06T06:05:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1168
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Eshield now doesn't break. Instead, it discharges. Hp reduced: 100 ->
+        60. Recharges 5 hp per second. When it is fully discharged, it is
+        unusable until it recharges. It takes 15 seconds to recharge after it is
+        fully discharged. Shield gets damaged when it reflects lasers though,
+        but has 50% heat resistance. Can be EMPd now. Cost increased across
+        various uplinks.
+    - type: Fix
+      message: Toggleable shields can't block damage while toggled off.
+  id: 706
+  time: '2025-07-06T06:06:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1160
