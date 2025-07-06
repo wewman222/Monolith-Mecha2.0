@@ -5997,3 +5997,12 @@ Entries:
   id: 699
   time: '2025-07-05T21:33:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1163
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Touched up the Takeaway and gave it a guidebook entry. Also sorted
+        entries by alphabetical order.
+  id: 700
+  time: '2025-07-06T00:31:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1159
