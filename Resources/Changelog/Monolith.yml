@@ -6037,3 +6037,14 @@ Entries:
   id: 703
   time: '2025-07-06T06:03:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1170
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: >-
+        Adds Jabroni outfit, neck gaiters and sec gask mask to contractor
+        loadout
+    - type: Tweak
+      message: neck gaiters are now breath masks
+  id: 704
+  time: '2025-07-06T06:03:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1166
