@@ -6122,3 +6122,14 @@ Entries:
   id: 709
   time: '2025-07-06T06:15:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1171
+- author: wewman222
+  changes:
+    - type: Fix
+      message: Mech guns blinding you when shot
+    - type: Fix
+      message: Crafting graphs making the wrong mechs
+    - type: Fix
+      message: Ship maps having the wrong parts.
+  id: 710
+  time: '2025-07-06T07:09:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1172
