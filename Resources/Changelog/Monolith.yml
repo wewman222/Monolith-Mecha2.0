@@ -6133,3 +6133,12 @@ Entries:
   id: 710
   time: '2025-07-06T07:09:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1172
+- author: Scyron
+  changes:
+    - type: Tweak
+      message: EMPs affect mechs now!
+    - type: Tweak
+      message: Mechs have magboots!
+  id: 711
+  time: '2025-07-06T10:24:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1174
