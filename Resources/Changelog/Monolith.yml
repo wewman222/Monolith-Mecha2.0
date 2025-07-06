@@ -6211,3 +6211,10 @@ Entries:
   id: 718
   time: '2025-07-06T19:24:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1183
+- author: wewman222
+  changes:
+    - type: Fix
+      message: Fixed Flashpoint MK2 boards so you can actually build the flail
+  id: 719
+  time: '2025-07-06T19:25:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1186
