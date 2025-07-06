@@ -6098,3 +6098,18 @@ Entries:
   id: 707
   time: '2025-07-06T06:09:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1165
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Medical assembler to uplink. Omnizine jug to uplinks.
+    - type: Add
+      message: Hyperzine injector recipe to medical assemblers.
+    - type: Add
+      message: Omnizine jugs to USSP vend.
+    - type: Remove
+      message: All medipens from uplinks
+    - type: Tweak
+      message: Medipens can now be used to instantly inject others
+  id: 708
+  time: '2025-07-06T06:10:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1164
