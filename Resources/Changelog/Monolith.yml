@@ -6006,3 +6006,18 @@ Entries:
   id: 700
   time: '2025-07-06T00:31:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1159
+- author: wewman222
+  changes:
+    - type: Add
+      message: >-
+        Added 2 new mech frames, with corresponding lathe recipes and research.
+        Each mech frame has 3 variants.
+    - type: Add
+      message: >-
+        Added 3 new ship variants, the Tunguska-C, Tumour MK2, and Flashpoint
+        MK2, all mech carriers.
+    - type: Add
+      message: 11 new mech weapons, each with vastly different roles.
+  id: 701
+  time: '2025-07-06T00:43:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1151
