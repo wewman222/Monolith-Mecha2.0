@@ -6191,3 +6191,16 @@ Entries:
   id: 716
   time: '2025-07-06T18:58:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1182
+- author: Danchi299
+  changes:
+    - type: Fix
+      message: >-
+        TSFMC IFF Strobe no longer costs 1K in loadout, it is now a free part of
+        the equipment.
+    - type: Add
+      message: >-
+        TSFMC Medic and Engineer can get their respective department berets and
+        differently colored IFF Strobes in Loadout.
+  id: 717
+  time: '2025-07-06T19:15:34.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1187
