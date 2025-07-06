@@ -6087,3 +6087,14 @@ Entries:
   id: 706
   time: '2025-07-06T06:06:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1160
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds empty implanters for 1 DC for taking out implants for rogues
+    - type: Remove
+      message: Removed all mention and existence of implanter withdraw backlash
+    - type: Tweak
+      message: Handcuffs and zipties in all autolathes/mercfabs/bountyvends
+  id: 707
+  time: '2025-07-06T06:09:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1165
