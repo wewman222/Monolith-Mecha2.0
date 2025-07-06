@@ -6218,3 +6218,18 @@ Entries:
   id: 719
   time: '2025-07-06T19:25:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1186
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Omni jug prices adjusted again to be barely affordable.
+    - type: Tweak
+      message: Omni jug brigmed/colonel only.
+    - type: Tweak
+      message: Syringe case unrestricted for tsfmc
+    - type: Add
+      message: Omnizine overdose at 30u, does 1 brute/burn/toxin/airloss
+    - type: Tweak
+      message: Actually removes combat medipen from tsfmc uplink (whoops)
+  id: 720
+  time: '2025-07-06T20:01:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1180
