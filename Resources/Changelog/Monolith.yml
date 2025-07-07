@@ -6315,3 +6315,10 @@ Entries:
   id: 730
   time: '2025-07-07T07:38:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1179
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Conflict Rule 1 and 4 have been changed. Please make sure to read them!
+  id: 731
+  time: '2025-07-07T07:39:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1197
