@@ -6322,3 +6322,18 @@ Entries:
   id: 731
   time: '2025-07-07T07:39:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1197
+- author: starch70
+  changes:
+    - type: Add
+      message: Added dedicated mining shipguns (currently only found on Splinter now)
+    - type: Add
+      message: Motion detector to T1 TSF gear research. Might move to T2.
+    - type: Tweak
+      message: Changed most materials to spawn in stacks of 50 instead of 30.
+    - type: Fix
+      message: >-
+        Fixed PTK-1500E and its projectiles not showing on mass scanner. Also
+        fixed PTK-1500E not having a ship gun type.
+  id: 732
+  time: '2025-07-07T08:49:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1198
