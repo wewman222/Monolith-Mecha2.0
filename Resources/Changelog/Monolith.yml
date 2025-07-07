@@ -6233,3 +6233,14 @@ Entries:
   id: 720
   time: '2025-07-06T20:01:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1180
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: >-
+        Fixes the majority of collision issues from raycasting projectiles in
+        regards to triggered explosions failing. This should make high damage,
+        low firerate explosion shipguns much more usable. Aka Charons primarily,
+        Cyrexas, etc.
+  id: 721
+  time: '2025-07-07T04:30:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1193
