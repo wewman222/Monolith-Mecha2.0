@@ -6251,3 +6251,10 @@ Entries:
   id: 722
   time: '2025-07-07T05:18:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1194
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds a few final resomi hardsuit sprites
+  id: 723
+  time: '2025-07-07T05:19:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1189
