@@ -6344,3 +6344,24 @@ Entries:
   id: 733
   time: '2025-07-07T10:17:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1201
+- author: starch70
+  changes:
+    - type: Add
+      message: Ported original Goob M-90 to replace M-90GL in most places.
+    - type: Add
+      message: >-
+        Rogues can now research syndicate hardsuits/stealthsuit. Commander and
+        juggernaut will need synthalloy though.
+    - type: Add
+      message: Ported original Goob stealthsuit.
+    - type: Tweak
+      message: Changed M-90 and M-90GL to 7.62x51mm from 5.56x45mm
+    - type: Tweak
+      message: Replaced AK-502 recipe for Rogues with M-90.
+    - type: Tweak
+      message: >-
+        Adjusted the crafting time of some recipes (synthalloy changed from 4 to
+        1, hardsuit crafting time lowered, etc)
+  id: 734
+  time: '2025-07-07T15:10:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1202
