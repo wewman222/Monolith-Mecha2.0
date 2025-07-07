@@ -6434,3 +6434,22 @@ Entries:
   id: 741
   time: '2025-07-07T20:49:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1210
+- author: grandalff
+  changes:
+    - type: Tweak
+      message: >-
+        Changed my USSP ship (Sekunda and Gruznyk) company names, as turns out I
+        was plagirising Startch
+    - type: Tweak
+      message: Replaced Sekundas and Gruznyks thrusters and gyros with sec variant.
+    - type: Tweak
+      message: >-
+        Added defib to gruznyk, turned two thrusters, so theres some sideway
+        mobility even if the cargo thrusters are taken out.
+    - type: Add
+      message: >-
+        Made Sekunda fire safety adherent, aka added extinguishers and fire
+        locks.
+  id: 742
+  time: '2025-07-07T20:54:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1214
