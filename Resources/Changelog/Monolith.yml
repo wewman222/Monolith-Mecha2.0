@@ -6276,3 +6276,10 @@ Entries:
   id: 725
   time: '2025-07-07T05:41:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1191
+- author: OneZerooo0
+  changes:
+    - type: Add
+      message: Added Steel Hammer Manufacturing to the company roster.
+  id: 726
+  time: '2025-07-07T05:46:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1098
