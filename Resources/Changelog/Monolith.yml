@@ -6304,3 +6304,14 @@ Entries:
   id: 729
   time: '2025-07-07T07:35:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1196
+- author: HungryCuban
+  changes:
+    - type: Add
+      message: Adds USSP tech disciplines
+    - type: Add
+      message: USSP server can be bought at the USSP vendor
+    - type: Tweak
+      message: USSP bounty alien artifact buffed to sell at 20k
+  id: 730
+  time: '2025-07-07T07:38:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1179
