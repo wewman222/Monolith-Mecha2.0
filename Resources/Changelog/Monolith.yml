@@ -6421,3 +6421,16 @@ Entries:
   id: 740
   time: '2025-07-07T20:38:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1211
+- author: starch70
+  changes:
+    - type: Tweak
+      message: >-
+        Improved motion detector, also uses the RMC14 SFX now for when it
+        detects motion.
+    - type: Fix
+      message: >-
+        Fixed motion detector not detecting NPCs, and fixes motion detector
+        detecting ghosts
+  id: 741
+  time: '2025-07-07T20:49:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1210
