@@ -6374,3 +6374,10 @@ Entries:
   id: 735
   time: '2025-07-07T15:11:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1203
+- author: UnicornOnLSD
+  changes:
+    - type: Fix
+      message: fixed graphical bug with monolith based lockers
+  id: 736
+  time: '2025-07-07T16:33:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1206
