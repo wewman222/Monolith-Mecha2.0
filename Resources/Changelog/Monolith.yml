@@ -6483,3 +6483,10 @@ Entries:
   id: 746
   time: '2025-07-08T02:46:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1199
+- author: HungryCuban
+  changes:
+    - type: Tweak
+      message: Adjust USSP research points cost
+  id: 747
+  time: '2025-07-08T04:08:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1222
