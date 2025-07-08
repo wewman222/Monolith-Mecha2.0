@@ -6574,3 +6574,10 @@ Entries:
   id: 757
   time: '2025-07-08T15:03:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1228
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Shields will no longer show on mass scanner during FTL.
+  id: 758
+  time: '2025-07-08T15:03:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1229
