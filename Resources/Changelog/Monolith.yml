@@ -6683,3 +6683,10 @@ Entries:
   id: 767
   time: '2025-07-08T23:09:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1246
+- author: sleepyyapril
+  changes:
+    - type: Fix
+      message: Limited ships should no longer spam broken versions past their limit.
+  id: 768
+  time: '2025-07-08T23:18:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1247
