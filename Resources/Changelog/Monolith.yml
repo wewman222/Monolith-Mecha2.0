@@ -6506,3 +6506,10 @@ Entries:
   id: 749
   time: '2025-07-08T04:42:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1221
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: resomi cybersun stealth hardsuit sprite from goob
+  id: 750
+  time: '2025-07-08T04:44:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1225
