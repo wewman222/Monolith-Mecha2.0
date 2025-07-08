@@ -6553,3 +6553,10 @@ Entries:
   id: 754
   time: '2025-07-08T14:57:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1238
+- author: Ark
+  changes:
+    - type: Fix
+      message: Station AI no longer get vision from unpowered cameras.
+  id: 755
+  time: '2025-07-08T15:00:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1232
