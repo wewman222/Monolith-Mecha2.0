@@ -6657,3 +6657,22 @@ Entries:
   id: 765
   time: '2025-07-08T21:25:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1244
+- author: starch70
+  changes:
+    - type: Add
+      message: >-
+        Added MlA-73 and WSPR to Rogue research. Lore team told me they need
+        suppressed guns.
+    - type: Add
+      message: >-
+        Ported CM13/RMC14 semiotic symbols. Probably going to be on future
+        ships/POIs, right now mapped on TSFMC Halycon, Calypso, Sakuratsu, and
+        Scorpion
+    - type: Tweak
+      message: >-
+        Removed Scorpion shield gen (mainly because the shield rework made it
+        consume more power than the uranium generator could supply). To
+        compensate, the 4x 20mms have been upgraded to 90mms.
+  id: 766
+  time: '2025-07-08T21:40:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1245
