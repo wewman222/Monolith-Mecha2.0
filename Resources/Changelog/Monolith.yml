@@ -6690,3 +6690,10 @@ Entries:
   id: 768
   time: '2025-07-08T23:18:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1247
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Hristov ammo added to rogue uplink
+  id: 769
+  time: '2025-07-08T23:38:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1248
