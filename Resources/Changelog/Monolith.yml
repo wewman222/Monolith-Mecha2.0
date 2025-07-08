@@ -6627,3 +6627,12 @@ Entries:
   id: 762
   time: '2025-07-08T17:45:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1241
+- author: grandalff
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Akula's lack of a IFF console, fixed its EVA gear, air alarm and
+        records console being unreachable.
+  id: 763
+  time: '2025-07-08T21:06:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1243
