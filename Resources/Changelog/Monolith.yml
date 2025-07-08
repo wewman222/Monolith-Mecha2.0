@@ -6538,3 +6538,18 @@ Entries:
   id: 753
   time: '2025-07-08T05:46:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1223
+- author: starch70
+  changes:
+    - type: Add
+      message: Readded the Calypso (in a remapped version).
+    - type: Tweak
+      message: Brigmedic is now called Corpsman.
+    - type: Fix
+      message: Fixed TSFMC and Rogue PDA names using Frontier role names.
+    - type: Fix
+      message: TSFMC hardsuits should display the correct names now in uplink.
+    - type: Tweak
+      message: Made TSFMC/Security thrusters have more HP than normal ones.
+  id: 754
+  time: '2025-07-08T14:57:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1238
