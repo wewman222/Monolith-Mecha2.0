@@ -6567,3 +6567,10 @@ Entries:
   id: 756
   time: '2025-07-08T15:02:44.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1230
+- author: Ark
+  changes:
+    - type: Add
+      message: You are now able to toggle modsuit magboots.
+  id: 757
+  time: '2025-07-08T15:03:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1228
