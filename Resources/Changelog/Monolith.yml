@@ -6620,3 +6620,10 @@ Entries:
   id: 761
   time: '2025-07-08T17:33:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1242
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: mining guns on DIS instead of stinky ass upstream mining PTKs
+  id: 762
+  time: '2025-07-08T17:45:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1241
