@@ -6581,3 +6581,10 @@ Entries:
   id: 758
   time: '2025-07-08T15:03:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1229
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Increased magnet pickup on lathes (0.30 -> 1.50).
+  id: 759
+  time: '2025-07-08T15:06:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1227
