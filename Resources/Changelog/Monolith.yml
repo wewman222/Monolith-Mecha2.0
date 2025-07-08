@@ -6474,3 +6474,12 @@ Entries:
   id: 745
   time: '2025-07-08T01:38:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1209
+- author: grandalff
+  changes:
+    - type: Add
+      message: >-
+        Added Akula, a long range USSP Sniper ship. Comes with the new tiny
+        Charon - Charonette.
+  id: 746
+  time: '2025-07-08T02:46:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1199
