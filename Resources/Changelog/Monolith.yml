@@ -6497,3 +6497,12 @@ Entries:
   id: 748
   time: '2025-07-08T04:41:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1226
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Heads are very difficult to sever now, should help prevent explosions
+        resulting in people being super unrecoverable
+  id: 749
+  time: '2025-07-08T04:42:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1221
