@@ -6522,3 +6522,12 @@ Entries:
   id: 751
   time: '2025-07-08T05:30:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1224
+- author: wewman222
+  changes:
+    - type: Add
+      message: IFF modules all mechs can slot in for custom radar blips.
+    - type: Fix
+      message: Odd bugs with ammo.
+  id: 752
+  time: '2025-07-08T05:37:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1220
