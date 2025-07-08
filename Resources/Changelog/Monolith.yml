@@ -6597,3 +6597,26 @@ Entries:
   id: 760
   time: '2025-07-08T15:39:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1239
+- author: Danchi299
+  changes:
+    - type: Add
+      message: added weapons and ammo to Contractors and USSP loadout.
+    - type: Add
+      message: added AKM and Ammo for it to Rogue loadout.
+    - type: Tweak
+      message: Security Guard now starts with Rubber Bullets in their weapons
+    - type: Add
+      message: >-
+        added Ammo to Contractors, Pilots, Mercenaries, and Security Guard
+        loadout.
+    - type: Add
+      message: >-
+        added Double Barreled Shotgun and Disabler to Contractors and Pilots
+        loadout.
+    - type: Tweak
+      message: >-
+        Added Recharger Flatpacks to Rogues and TSF Loadouts for reloading
+        energy weapons.
+  id: 761
+  time: '2025-07-08T17:33:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1242
