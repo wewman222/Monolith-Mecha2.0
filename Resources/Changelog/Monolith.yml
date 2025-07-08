@@ -6531,3 +6531,10 @@ Entries:
   id: 752
   time: '2025-07-08T05:37:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1220
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Added that borg charger WITHOUT breaking CO
+  id: 753
+  time: '2025-07-08T05:46:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1223
