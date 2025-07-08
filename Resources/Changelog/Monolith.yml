@@ -6490,3 +6490,10 @@ Entries:
   id: 747
   time: '2025-07-08T04:08:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1222
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Fixed Resomi gasp and deathgasp not working.
+  id: 748
+  time: '2025-07-08T04:41:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1226
