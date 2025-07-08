@@ -6513,3 +6513,12 @@ Entries:
   id: 750
   time: '2025-07-08T04:44:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1225
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Nutrimax swabs are now less painful and Servicefab can print swabs and
+        syringes
+  id: 751
+  time: '2025-07-08T05:30:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1224
