@@ -6643,3 +6643,17 @@ Entries:
   id: 764
   time: '2025-07-08T21:07:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1240
+- author: RealSchepka
+  changes:
+    - type: Add
+      message: >-
+        Added Volta Experimental Modsuit for TSF engineers, TSF engineers can
+        now select their own backpack with Sapper still being kept as optional
+        choice
+    - type: Tweak
+      message: >-
+        Sapper is obtainable outside of TSF again with voidsuit selectors coming
+        back to engineering lockers and suit storages.
+  id: 765
+  time: '2025-07-08T21:25:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1244
