@@ -6676,3 +6676,10 @@ Entries:
   id: 766
   time: '2025-07-08T21:40:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/1245
+- author: Ark
+  changes:
+    - type: Fix
+      message: You should no longer gain permanent immunity to FTL knockdown.
+  id: 767
+  time: '2025-07-08T23:09:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/1246
