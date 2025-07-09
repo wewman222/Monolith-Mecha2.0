@@ -74,7 +74,7 @@
     brokenState: broadsword-broken
     mechToPilotDamageMultiplier: 0
     airtight: true
-    maxIntegrity: 600
+    maxIntegrity: 1200
     pilotWhitelist:
       components:
         - HumanoidAppearance
@@ -104,7 +104,7 @@
     requireNoGrid: true
     shape: square
   - type: Damageable
-    damageModifierSet: MediumArmorNT
+    damageModifierSet: HeavyArmorNT
   - type: Repairable
     fuelCost: 40
     doAfterDelay: 30
@@ -164,7 +164,7 @@
     brokenState: broadsword-broken
     mechToPilotDamageMultiplier: 0
     airtight: true
-    maxIntegrity: 450
+    maxIntegrity: 900
     pilotWhitelist:
       components:
         - HumanoidAppearance
@@ -189,7 +189,7 @@
     baseSprintSpeed: 1
     weightlessModifier: 35
   - type: Damageable
-    damageModifierSet: MediumArmorNT
+    damageModifierSet: HeavyArmorNT
   - type: RadarBlip
     radarColor: "#CF0E0E"
     scale: 4
@@ -269,7 +269,7 @@
     baseWalkSpeed: 3
     baseSprintSpeed: 6
   - type: Damageable
-    damageModifierSet: MediumArmorNT
+    damageModifierSet: HeavyArmorNT
   - type: RadarBlip
     radarColor: "#CF0E0E"
     scale: 4
@@ -326,7 +326,7 @@
     brokenState: flail-broken
     mechToPilotDamageMultiplier: 0
     airtight: true
-    maxIntegrity: 900
+    maxIntegrity: 1800
     pilotWhitelist:
       components:
         - HumanoidAppearance
@@ -407,7 +407,7 @@
     brokenState: flail-broken
     mechToPilotDamageMultiplier: 0
     airtight: true
-    maxIntegrity: 500
+    maxIntegrity: 1000
     pilotWhitelist:
       components:
         - HumanoidAppearance
@@ -489,7 +489,7 @@
     mechToPilotDamageMultiplier: 0
     maxEquipmentAmount: 1
     airtight: true
-    maxIntegrity: 600
+    maxIntegrity: 1200
     pilotWhitelist:
       components:
         - HumanoidAppearance
